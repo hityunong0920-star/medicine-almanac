@@ -1,0 +1,16 @@
+# 构建产物
+dist/
+
+# 维基抓取缓存（可重新生成，不入库）
+data/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

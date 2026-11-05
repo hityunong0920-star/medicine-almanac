@@ -1,0 +1,10 @@
+# 统一换行符，避免 Windows 与 CI 之间产生无意义的 diff
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.html text eol=lf
+*.svg text eol=lf
