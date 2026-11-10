@@ -1091,6 +1091,46 @@ a {
   letter-spacing: 0.2em;
 }
 
+.chem__body {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 1rem;
+  align-items: center;
+}
+
+.chem__body--text {
+  grid-template-columns: 1fr;
+}
+
+.chem__figure {
+  margin: 0;
+  padding: 0.5rem;
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  background: #fff;
+}
+
+.chem__figure img {
+  display: block;
+  width: 100%;
+  max-width: 210px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.chem__figure figcaption {
+  margin-top: 0.35rem;
+  color: #8a8173;
+  font-size: 0.58rem;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+.chem__figure a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .chem__grid {
   display: flex;
   flex-wrap: wrap;
@@ -1528,6 +1568,15 @@ a {
 
   .related__grid {
     grid-template-columns: 1fr;
+  }
+
+  .chem__body {
+    grid-template-columns: 1fr;
+  }
+
+  .chem__figure {
+    max-width: 220px;
+    margin: 0 auto;
   }
 }
 

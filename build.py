@@ -18,6 +18,7 @@ import json
 import re
 import shutil
 import sys
+import urllib.parse
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
@@ -570,16 +571,32 @@ def build_drug(drug: dict, drugs: list[dict], payload_script: str) -> str:
         chem_rows.append(f'<div><dt>CAS</dt><dd>{esc(drug["cas"])}</dd></div>')
 
     chem_block = ""
-    if chem_rows or drug["smiles"]:
+    structure_file = ASSETS_DIR / "structures" / f"{drug['id']}.png"
+    if chem_rows or drug["smiles"] or structure_file.exists():
         smiles = (
             f'<p class="chem__smiles"><span>SMILES</span><code>{esc(drug["smiles"])}</code></p>'
             if drug["smiles"]
             else ""
         )
+        data = f'<div class="chem__data"><dl class="chem__grid">{"".join(chem_rows)}</dl>{smiles}</div>'
+
+        figure = ""
+        body_class = "chem__body chem__body--text"
+        if structure_file.exists():
+            query = drug["cas"] or drug["en"]
+            pubchem = "https://pubchem.ncbi.nlm.nih.gov/#query=" + urllib.parse.quote(query)
+            figure = f"""<figure class="chem__figure">
+            <img src="../assets/structures/{esc(drug['id'])}.png" alt="{esc(drug['name'])} 二维结构式" width="500" height="500" loading="lazy">
+            <figcaption><a href="{esc(pubchem)}" target="_blank" rel="noopener">二维结构式 · PubChem</a></figcaption>
+          </figure>"""
+            body_class = "chem__body"
+
         chem_block = f"""        <section class="chem" aria-label="化学信息">
           <p class="chem__label">化学信息</p>
-          <dl class="chem__grid">{''.join(chem_rows)}</dl>
-          {smiles}
+          <div class="{body_class}">
+          {figure}
+          {data}
+          </div>
         </section>
 """
 

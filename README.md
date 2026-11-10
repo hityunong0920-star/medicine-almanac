@@ -58,7 +58,7 @@
 - **零依赖构建**：`build.py` 只用 Python 标准库，不装包、不连 CDN；`dist/` 可直接托管。
 - **静态优先**：首页与文章页在构建期预渲染，禁用 JS 也能读；搜索、筛选、深浅色、随机一味是渐进增强。
 - **内容分层且诚实**：手写深读写故事，资料卡标注"自动汇编"、原文链接与许可，不冒充原创。
-- **化学信息与合成路线**：资料卡自动提取分子式、分子量、CAS、SMILES；条目里有「合成 / 制备」章节的，会单独成节。当前 353 / 372 张有分子式、320 张有 SMILES、43 张有合成。
+- **化学信息与结构式**：详情页有「化学信息」卡，包含 PubChem 二维结构图、分子式、分子量、CAS、SMILES；条目里有「合成 / 制备」章节的，会单独成节。当前 348 / 390 味有结构图、353 / 372 张资料卡有分子式、43 张有合成。
 - **按类别均匀轮换**：大类别出现得更频繁，但任何阶段都不会连续几天都是同一类药。
 
 ## 快速开始
@@ -91,8 +91,11 @@ medicine-almanac/
 │  └─ auto/               # 自动汇编的资料卡（已生成，随仓库提交）
 ├─ tools/
 │  ├─ seeds.py            # 749 个药品种子：(英文名, 分类)
-│  └─ fetch_wiki.py       # 抓取 + 抽取 + 生成资料卡
-├─ site/assets/           # style.css / app.js / theme.js / favicon
+│  ├─ fetch_wiki.py       # 抓取 + 抽取 + 生成资料卡
+│  └─ fetch_structures.py # 从 PubChem 抓二维结构图
+├─ site/assets/
+│  ├─ structures/         # 348 张二维结构 PNG（随仓库提交）
+│  ├─ style.css / app.js / theme.js / favicon
 ├─ build.py               # 零依赖生成器：Markdown -> dist/
 ├─ data/cache/            # 抓取缓存（gitignore，可重建）
 ├─ dist/                  # 构建产物（gitignore）
@@ -120,8 +123,9 @@ medicine-almanac/
 
 ## 化学信息与合成路线
 
-详情页的「化学信息」卡支持四项字段：
+详情页的「化学信息」卡包含：
 
+- **二维结构图**：按 CAS 号 → 英文名 → SMILES 的顺序查询 PubChem，取 500×500 PNG，存到 `site/assets/structures/<id>.png`；图片下方标注来源。蛋白、抗体等没有小分子结构的药会自动跳过。
 - `formula`：分子式，如 `C9H8O4`，页面会自动渲染下标；
 - `mol_mass`：分子量，留空时按分子式用标准原子量计算；
 - `cas`：CAS 号；
@@ -130,8 +134,15 @@ medicine-almanac/
 合成路线写成正文里的 `## 合成` 章节，会自动进入文章目录。
 
 - **手写深读**：直接在 front matter 填字段，在正文补 `## 合成`；目前已为阿司匹林、硝酸甘油、磺胺、华法林、顺铂、沙利度胺、氯丙嗪、二甲双胍写了合成路线。
-- **自动资料卡**：从中文维基的 Drugbox 提取同样字段；条目若有「合成 / 制备 / 合成路线」章节，会自动收录。
-- 结构式与合成路线来自公开资料，可能有简化和错误，只作科普，不替代专业文献。
+- **自动资料卡**：从中文维基的 Drugbox 提取分子式、CAS、SMILES；条目若有「合成 / 制备 / 合成路线」章节，会自动收录。
+- **结构图**：已随仓库提交，构建时不需要联网。想补抓或更新：
+
+  ```bash
+  python tools/fetch_structures.py          # 补齐缺失
+  python tools/fetch_structures.py --force  # 全部重抓
+  ```
+
+- 结构图来自 [PubChem](https://pubchem.ncbi.nlm.nih.gov/)，化学数据来自维基 Drugbox；可能有简化和错误，只作科普，不替代专业文献。
 
 ## 每天怎么轮换
 
