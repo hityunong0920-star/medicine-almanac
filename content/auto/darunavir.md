@@ -4,12 +4,16 @@ name: 达芦那韦
 en: Darunavir
 category: 抗感染
 family: 抗感染药物
+formula: C27H37N3O7S
+mol_mass: 547.67
+cas: 206361-99-1
+smiles: "O=S(=O)(c1ccc(N)cc1)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]2CO[C@H]3OCC[C@@H]23)Cc4ccccc4"
 tags: []
 summary: 达芦那韦（英文：Darunavir，缩写：DRV）以商品名Prezista销售，是一种用于治疗和预防艾滋病的抗逆转录病毒药物。
 kind: auto
 source_title: 达芦那韦
 source_url: https://zh.wikipedia.org/wiki/%E8%BE%BE%E8%8A%A6%E9%82%A3%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

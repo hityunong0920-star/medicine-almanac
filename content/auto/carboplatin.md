@@ -4,13 +4,17 @@ name: 卡铂
 en: Carboplatin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C6H12N2O4Pt
+mol_mass: 371.26
+cas: 41575-94-4
+smiles: "C1CC2(C1)C(=O)O[Pt-2]([NH3+])([NH3+])OC2=O"
 tags: []
 summary: 卡铂以Paraplatin等商品名于市面销售，是种用于治疗多种癌症（包括卵巢癌、肺癌、头颈癌、脑瘤和神经母细胞瘤。
 kind: auto
 brief: true
 source_title: 卡铂
 source_url: https://zh.wikipedia.org/wiki/%E5%8D%A1%E9%93%82
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

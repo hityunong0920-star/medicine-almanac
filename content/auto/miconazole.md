@@ -4,13 +4,17 @@ name: 咪康唑
 en: Miconazole
 category: 抗感染
 family: 抗感染药物
+formula: C18H14Cl4N2O
+mol_mass: 416.12
+cas: 22916-47-8
+smiles: "Clc1cc(Cl)ccc1C(Cn2ccnc2)OCc3ccc(Cl)cc3Cl"
 tags: [抗真菌]
 summary: 咪康唑 （INN:miconazole），以Monistat等品牌名称于市场上销售，是一种抗真菌药，用于治疗皮癣菌病、花斑癣以及皮肤或阴道的念珠菌症。
 kind: auto
 brief: true
 source_title: 咪康唑
 source_url: https://zh.wikipedia.org/wiki/%E5%92%AA%E5%BA%B7%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

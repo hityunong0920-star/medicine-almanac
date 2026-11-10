@@ -4,13 +4,17 @@ name: 奥洛他定
 en: Olopatadine
 category: 皮肤五官
 family: 皮肤五官药物
+formula: C21H23NO3
+mol_mass: 337.42
+cas: 113806-05-6
+smiles: "O=C(O)Cc2ccc1OCc3c(C(\c1c2)=C\CCN(C)C)cccc3"
 tags: []
 summary: 盐酸奥洛他定是一种第二代抗组胺药，属于相对选择性组胺H₁受体拮抗剂，同时具有肥大细胞稳定作用。
 kind: auto
 brief: true
 source_title: 奥洛他定
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%B4%9B%E4%BB%96%E5%AE%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

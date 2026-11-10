@@ -4,12 +4,16 @@ name: 丙戊酸
 en: Valproic acid
 category: 神经精神
 family: 神经精神药物
+formula: C8H16O2
+mol_mass: 144.21
+cas: 99-66-1
+smiles: "O=C(O)C(CCC)CCC"
 tags: []
 summary: 丙戊酸盐/酯是一总称，用来指称所有包含丙戊酸根离子的药物形式，在INN中则有丙戊酸（valproic acid）…
 kind: auto
 source_title: 丙戊酸
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%99%E6%88%8A%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

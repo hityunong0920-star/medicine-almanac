@@ -4,12 +4,16 @@ name: 喹硫平
 en: Quetiapine
 category: 神经精神
 family: 神经精神药物
+formula: C21H25N3O2S
+mol_mass: 383.51
+cas: 111974-69-7
+smiles: "N\1=C(\c3c(Sc2c/1cccc2)cccc3)N4CCN(CCOCCO)CC4"
 tags: [镇痛]
 summary: 喹硫平（INN:quetiapine， )），以Seroquel（思乐康）等品牌名称于市场上销售，是一种非典型抗精神病药物，用于治疗思觉失调症、双相障碍（躁郁症）以及严重忧郁疾患（重度忧郁症）。
 kind: auto
 source_title: 喹硫平
 source_url: https://zh.wikipedia.org/wiki/%E5%96%B9%E7%A1%AB%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

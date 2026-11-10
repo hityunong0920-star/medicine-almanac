@@ -4,13 +4,17 @@ name: 加巴喷丁
 en: Gabapentin
 category: 神经精神
 family: 神经精神药物
+formula: C9H17NO2
+mol_mass: 171.24
+cas: 60142-96-3
+smiles: "O=C(O)CC1(CN)CCCCC1"
 tags: []
 summary: 加巴喷丁，也称之为加巴喷丁恩那卡比。
 kind: auto
 brief: true
 source_title: 加巴喷丁
 source_url: https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%B4%E5%96%B7%E4%B8%81
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

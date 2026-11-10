@@ -4,12 +4,16 @@ name: 柳氮磺吡啶
 en: Sulfasalazine
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C18H14N4O5S
+mol_mass: 398.39
+cas: 599-79-1
+smiles: "C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O"
 tags: [免疫抑制]
 summary: 柳氮磺吡啶（INN:sulfasalazine）以商品名称Azulfidine等于市场上销售，是一种用于治疗类风湿性关节炎、溃疡性结肠炎以及克隆氏症的药物。
 kind: auto
 source_title: 柳氮磺吡啶
 source_url: https://zh.wikipedia.org/wiki/%E6%9F%B3%E6%B0%AE%E7%A3%BA%E5%90%A1%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

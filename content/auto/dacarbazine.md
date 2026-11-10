@@ -4,13 +4,17 @@ name: 达卡巴嗪
 en: Dacarbazine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C6H10N6O
+mol_mass: 182.19
+cas: 4342-03-4
+smiles: "CN(C)N=Nc1[nH]cnc1C(N)=O"
 tags: []
 summary: 达卡巴仁，也称为咪唑甲酰胺，以DTIC-Dome品牌等于市面销售，是一种用于治疗黑色素瘤和霍奇金淋巴瘤的化学疗法药物。
 kind: auto
 brief: true
 source_title: 达卡巴嗪
 source_url: https://zh.wikipedia.org/wiki/%E8%BE%BE%E5%8D%A1%E5%B7%B4%E5%97%AA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

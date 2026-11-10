@@ -4,13 +4,17 @@ name: 温诺平
 en: Vinorelbine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C45H54N4O8
+mol_mass: 778.95
+cas: 71486-22-1
+smiles: "[H][C@]89C=C(CC)CN(Cc1c([nH]c2ccccc12)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@@]5([H])[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]7(CC)C=CCN6CC[C@]45[C@@]67[H])C8)C9"
 tags: []
 summary: 温诺平（INN:vinorelbine，也有长春瑞滨的译名），以Navelbine（中文名诺维本）等商品名于市场上销售，是一种用于治疗多种癌症的化疗药物。
 kind: auto
 brief: true
 source_title: 溫諾平
 source_url: https://zh.wikipedia.org/wiki/%E6%BA%AB%E8%AB%BE%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

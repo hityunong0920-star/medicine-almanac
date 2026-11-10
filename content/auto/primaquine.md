@@ -4,13 +4,17 @@ name: 普来马奎宁
 en: Primaquine
 category: 抗感染
 family: 抗感染药物
+formula: C15H21N3O
+mol_mass: 259.35
+cas: 90-34-6
+smiles: "O(c1cc(NC(C)CCCN)c2ncccc2c1)C"
 tags: [抗疟]
 summary: 普来马奎宁（INN:primaquine，又名-{*|zh-hans:普拉马奎宁;zh-hk:普来马奎宁;zh-tw:伯氨喹;}-）是一种用于治疗和预防疟疾以及治疗肺囊虫肺炎的药物。
 kind: auto
 brief: true
 source_title: 普來馬奎寧
 source_url: https://zh.wikipedia.org/wiki/%E6%99%AE%E4%BE%86%E9%A6%AC%E5%A5%8E%E5%AF%A7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

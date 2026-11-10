@@ -4,13 +4,16 @@ name: 西妥昔单抗
 en: Cetuximab
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: S36
+mol_mass: 145781.60
+cas: 205923-56-4
 tags: []
 summary: 西妥昔单抗为（INN：cetuximab），Erbitux®商品名，是美商和美商百时美施贵宝的专利药。
 kind: auto
 brief: true
 source_title: 西妥昔單抗
 source_url: https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A6%A5%E6%98%94%E5%96%AE%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

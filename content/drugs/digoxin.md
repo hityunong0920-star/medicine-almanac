@@ -5,6 +5,9 @@ en: Digoxin
 alias: 洋地黄
 category: 心血管
 family: 强心苷类
+formula: C41H64O14
+mol_mass: 780.95
+cas: 20830-75-5
 year: 1785
 tags: [毛地黄, 心力衰竭, 钠钾泵, 治疗窗窄]
 summary: 一位英国医生从农妇的草药方里提炼出能让心脏"更有力"的粉末，也第一次教会医学如何丈量毒与药的边界。

@@ -4,12 +4,16 @@ name: 苯丙胺
 en: Amphetamine
 category: 神经精神
 family: 神经精神药物
+formula: C9H13N
+mol_mass: 135.21
+cas: 300-62-9
+smiles: "NC(CC1=CC=CC=C1)C"
 tags: []
 summary: 安非他命（INN：amfetamine，BAN/USAN：amphetamine）是α-甲基苯乙胺（α-methylphenethylamine）的通用名及音译，又称苯丙胺…
 kind: auto
 source_title: 苯丙胺
 source_url: https://zh.wikipedia.org/wiki/%E8%8B%AF%E4%B8%99%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

@@ -4,12 +4,16 @@ name: 氨氯地平
 en: Amlodipine
 category: 心血管
 family: 心血管药物
+formula: C20H25ClN2O5
+mol_mass: 408.88
+cas: 88150-42-9
+smiles: "Clc1ccccc1C2C(=C(/N/C(=C2/C(=O)OCC)COCCN)C)\C(=O)OC"
 tags: [钙通道阻滞剂]
 summary: 氨氯地平（或）、原研药商品名脉优/络活喜（、辉瑞商标名）为一种治疗高血压及冠状动脉疾病的药物。
 kind: auto
 source_title: 氨氯地平
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%A8%E6%B0%AF%E5%9C%B0%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

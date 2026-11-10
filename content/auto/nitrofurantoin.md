@@ -4,12 +4,16 @@ name: 呋喃妥因
 en: Nitrofurantoin
 category: 抗感染
 family: 抗感染药物
+formula: C8H6N4O5
+mol_mass: 238.16
+cas: 67-20-9
+smiles: "O=[N+]([O-])c2oc(/C=N/N1C(=O)NC(=O)C1)cc2"
 tags: []
 summary: 呋喃妥因 (INN:nitrofurantoin)，在市场上的商品名称有Macrobid等，是一种类的抗生素，用于治疗尿路感染 (UTIs)，但对于肾脏感染的治疗效果不佳。
 kind: auto
 source_title: 呋喃妥因
 source_url: https://zh.wikipedia.org/wiki/%E5%91%8B%E5%96%83%E5%A6%A5%E5%9B%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

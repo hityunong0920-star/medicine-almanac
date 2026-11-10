@@ -4,13 +4,17 @@ name: 萘普生
 en: Naproxen
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C14H14O3
+mol_mass: 230.26
+cas: 22204-53-1
+smiles: "C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O{{Cite web"
 tags: []
 summary: 萘普生（、INN），是一种非甾体抗炎药（NSAID），用于缓解普通或严重的疼痛、发热、发炎，以及由骨关节炎、类风湿性关节炎、银屑病关节炎、痛风、强直性脊柱炎、经痛、肌腱炎…
 kind: auto
 brief: true
 source_title: 萘普生
 source_url: https://zh.wikipedia.org/wiki/%E8%90%98%E6%99%AE%E7%94%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

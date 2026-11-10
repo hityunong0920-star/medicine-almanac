@@ -4,13 +4,17 @@ name: 缬沙坦
 en: Valsartan
 category: 心血管
 family: 心血管药物
+formula: C24H29N5O3
+mol_mass: 435.53
+cas: 137862-53-4
+smiles: "O=C(O)[C@@H](N(C(=O)CCCC)Cc3ccc(c1ccccc1c2nnnn2)cc3)C(C)C"
 tags: [降糖]
 summary: 缬沙坦，是一款血管紧张素II受体拮抗剂抗高血压类药物，该药物使血管紧张素Ⅱ的I型(AT1)受体封闭，血管紧张素Ⅱ血浆浓度升高，刺激未封闭的AT2受体，同时抗衡AT1受体的作用…
 kind: auto
 brief: true
 source_title: 缬沙坦
 source_url: https://zh.wikipedia.org/wiki/%E7%BC%AC%E6%B2%99%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

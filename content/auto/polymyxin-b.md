@@ -4,13 +4,16 @@ name: 多黏菌素B
 en: Polymyxin B
 category: 抗感染
 family: 抗感染药物
+formula: C56H100N16O17S
+mol_mass: 1301.56
+cas: 1405-20-5
 tags: []
 summary: 多黏菌素B是一种主要用于治疗革兰氏阴性菌感染药物。
 kind: auto
 brief: true
 source_title: 多黏菌素B
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%9A%E9%BB%8F%E8%8F%8C%E7%B4%A0B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

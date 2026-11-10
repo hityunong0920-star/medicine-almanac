@@ -4,13 +4,17 @@ name: 贝克每松
 en: Beclometasone
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C28H37ClO7
+mol_mass: 521.05
+cas: 5534-09-8
+smiles: "O=C(OCC(=O)[C@]3(OC(=O)CC)[C@]2(C[C@H](O)[C@]4(Cl)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C)CC"
 tags: []
 summary: 贝克每松（，或是拼写为beclomethasone），也被译为倍氯米松，另称为二丙酸倍氯米松（beclomethasone dipropionate），以Qvar等商品名销售。
 kind: auto
 brief: true
 source_title: 貝克每松
 source_url: https://zh.wikipedia.org/wiki/%E8%B2%9D%E5%85%8B%E6%AF%8F%E6%9D%BE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

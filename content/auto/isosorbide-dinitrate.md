@@ -4,12 +4,16 @@ name: 二硝酸异山梨醇酯
 en: Isosorbide dinitrate
 category: 心血管
 family: 心血管药物
+formula: C6H8N2O8
+mol_mass: 236.14
+cas: 87-33-2
+smiles: "[O-][N+](=O)O[C@H]1[C@H]2OC[C@H](O[N+]([O-])=O)[C@H]2OC1"
 tags: []
 summary: 二硝酸异山梨醇酯（INN：isosorbide dinitrate，ISDN）又称硝酸异山梨酯，是一种，可松弛血管平滑肌，用于治疗心脏衰竭、，以及治疗和预防心绞痛。
 kind: auto
 source_title: 二硝酸异山梨醇酯
 source_url: https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%A1%9D%E9%85%B8%E5%BC%82%E5%B1%B1%E6%A2%A8%E9%86%87%E9%85%AF
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

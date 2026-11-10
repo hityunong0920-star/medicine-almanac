@@ -4,12 +4,16 @@ name: 羟氯喹
 en: Hydroxychloroquine
 category: 抗感染
 family: 抗感染药物
+formula: C18H26ClN3O
+mol_mass: 335.88
+cas: 118-42-3
+smiles: "Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CCO"
 tags: [抗疟]
 summary: 羟氯喹（INN：hydroxychloroquine，HCQ）又称羟氯-{}-奎宁、氢氧奎宁，常见商品名 Plaquenil（必赖克瘘、疮宁与歼疟），是一种用于预防和治疗疟疾的药物…
 kind: auto
 source_title: 羟氯喹
 source_url: https://zh.wikipedia.org/wiki/%E7%BE%9F%E6%B0%AF%E5%96%B9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

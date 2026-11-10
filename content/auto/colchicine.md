@@ -4,13 +4,17 @@ name: 秋水仙素
 en: Colchicine
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C22H25NO6
+mol_mass: 399.44
+cas: 64-86-8
+smiles: "O=C(N[C@@H]3C\1=C\C(=O)C(\OC)=C/C=C/1c2c(cc(OC)c(OC)c2OC)CC3)C"
 tags: []
 summary: 秋水仙素，又称秋水仙碱是最初萃取于百合科植物秋水仙的种子和球茎的一种植物碱。
 kind: auto
 brief: true
 source_title: 秋水仙素
 source_url: https://zh.wikipedia.org/wiki/%E7%A7%8B%E6%B0%B4%E4%BB%99%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

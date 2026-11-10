@@ -4,13 +4,17 @@ name: 昂丹司琼
 en: Ondansetron
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C18H19N3O
+mol_mass: 293.37
+cas: 99614-02-5
+smiles: "O=C1c2c3ccccc3n(C)c2CCC1Cn4ccnc4C"
 tags: []
 summary: 昂丹司琼（INN：ondansetron），常见商品名枢复宁（Zofran）等，是一种高选择性血清素 5-HT3受体拮抗剂，作为预防和治疗由化疗、放射治疗、偏头痛或手术引起的恶心及呕吐…
 kind: auto
 brief: true
 source_title: 昂丹司琼
 source_url: https://zh.wikipedia.org/wiki/%E6%98%82%E4%B8%B9%E5%8F%B8%E7%90%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

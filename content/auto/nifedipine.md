@@ -4,12 +4,16 @@ name: 硝苯地平
 en: Nifedipine
 category: 心血管
 family: 心血管药物
+formula: C17H18N2O6
+mol_mass: 346.34
+cas: 21829-25-4
+smiles: "O=C(OC)\C1=C(\N/C(=C(/C(=O)OC)C1c2ccccc2[N+]([O-])=O)C)C"
 tags: [降压, 钙通道阻滞剂]
 summary: 硝苯地平（INN：nifedipine）商品名有拜新同（Adalat）、Procardia 等，是一种1,4-二氢吡啶类钙离子通道阻滞剂，主要阻断L-型钙离子通道，主要用来治疗心绞痛（尤其是）…
 kind: auto
 source_title: 硝苯地平
 source_url: https://zh.wikipedia.org/wiki/%E7%A1%9D%E8%8B%AF%E5%9C%B0%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

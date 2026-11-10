@@ -4,12 +4,16 @@ name: 奥拉帕利
 en: Olaparib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C24H23FN4O3
+mol_mass: 435.08
+cas: 763113-22-0
+smiles: "c4cccc2c4c(n[nH]c2=O)Cc(ccc1F)cc1C(=O)N3CCN(CC3)C(=O)C5CC5}}"
 tags: []
 summary: 奥拉帕利（INN：Olaparib），商品名：Lynparza，是抑制多ADP核糖聚合酶（PARP，一种参与DNA修复的酶）的药物。
 kind: auto
 source_title: 奥拉帕利
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%8B%89%E5%B8%95%E5%88%A9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

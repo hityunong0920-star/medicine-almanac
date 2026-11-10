@@ -4,13 +4,17 @@ name: 乳果糖
 en: Lactulose
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C12H22O11
+mol_mass: 342.30
+cas: 4618-18-2
+smiles: "O[C@H]2[C@H](O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O)[C@H](O[C@]2(O)CO)CO"
 tags: []
 summary: 乳果糖（INN:lactulose）是一种难以被身体吸收的糖类，主要用于治疗便秘和肝性脑病。
 kind: auto
 brief: true
 source_title: 乳果糖
 source_url: https://zh.wikipedia.org/wiki/%E4%B9%B3%E6%9E%9C%E7%B3%96
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

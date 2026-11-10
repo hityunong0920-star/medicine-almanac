@@ -4,13 +4,16 @@ name: 地舒单抗
 en: Denosumab
 category: 内分泌
 family: 内分泌药物
+formula: S50
+mol_mass: 1603.00
+cas: 615258-40-7
 tags: []
 summary: 地舒单抗（通用名：denosumab，台湾商品名：Prolia（保骼丽）与 Xgeva（癌骨瓦））是一种人类单克隆抗体，用于治疗骨质疏松症、治疗其他疾病导致的骨质流失、骨骼转移、骨骼巨细胞瘤。
 kind: auto
 brief: true
 source_title: 地舒單抗
 source_url: https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%88%92%E5%96%AE%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 卡维地洛
 en: Carvedilol
 category: 心血管
 family: 心血管药物
+formula: C24H26N2O4
+mol_mass: 406.48
+cas: 72956-09-3
+smiles: "COc1ccccc1OCCNCC(O)COc3cccc4[nH]c2ccccc2c34"
 tags: []
 summary: 卡维地洛以Coreg等商品名于市面贩售，是种用于治疗高血压、郁血性心脏衰竭 (CHF) 和左心室功能障碍的药物。
 kind: auto
 source_title: 卡維地洛
 source_url: https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%B6%AD%E5%9C%B0%E6%B4%9B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

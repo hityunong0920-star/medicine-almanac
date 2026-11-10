@@ -4,13 +4,17 @@ name: 达格列净
 en: Dapagliflozin
 category: 内分泌
 family: 内分泌药物
+formula: C21H25ClO6
+mol_mass: 408.87
+cas: 461432-26-8
+smiles: "Clc1ccc(cc1Cc2ccc(OCC)cc2)[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O"
 tags: [降糖]
 summary: 达格列净（，中文品牌名：安达唐(大陆地区)、福适佳(台湾地区)， 英文品牌名： Forxiga ）， 由阿斯利康研发，是第一种获批的SGLT2抑制剂，欧盟在2011年首先批准了此药物。
 kind: auto
 brief: true
 source_title: 达格列净
 source_url: https://zh.wikipedia.org/wiki/%E8%BE%BE%E6%A0%BC%E5%88%97%E5%87%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

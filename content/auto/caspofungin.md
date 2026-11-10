@@ -4,13 +4,17 @@ name: 卡泊芬净
 en: Caspofungin
 category: 抗感染
 family: 抗感染药物
+formula: C52H88N10O15
+mol_mass: 1093.33
+cas: 162808-62-0
+smiles: "[C@@]12(N(C[C@@H](C1)O)C([C@H]([C@@H](C)O)NC(=O)[C@](C[C@H]([C@@H](NCCN)NC([C@@H]3[C@H](CCN3C([C@H]([C@@H](CCN)O)NC(=O)[C@H]([C@@H]([C@H](C4=CC=C(C=C4)O)O)O)NC2=O)=O)O)=O)O)(NC(CCCCCCCC[C@H](C[C@H](CC)C)C)=O)[H])=O)[H]"
 tags: []
 summary: 卡泊芬净以商品名Cancidas等于市面销售，首先是由默克药厂推出的一种抗真菌药。
 kind: auto
 brief: true
 source_title: 卡泊芬淨
 source_url: https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%B3%8A%E8%8A%AC%E6%B7%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

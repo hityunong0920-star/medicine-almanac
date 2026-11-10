@@ -4,13 +4,14 @@ name: 胰酶
 en: Pancrelipase
 category: 呼吸消化
 family: 呼吸消化药物
+cas: 53608-75-6
 tags: []
 summary: 作药物用途的胰酶，也称为"pancreases"、"pancrelipases"或是"pancreatins" （后两者均名列于INN之中），是从家猪身上萃取而得的淀粉酶、脂肪酶…
 kind: auto
 brief: true
 source_title: 胰酶
 source_url: https://zh.wikipedia.org/wiki/%E8%83%B0%E9%85%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

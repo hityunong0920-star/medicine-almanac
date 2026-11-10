@@ -4,12 +4,15 @@ name: 纳武利尤单抗
 en: Nivolumab
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: S42
+mol_mass: 1346.52
+cas: 946414-94-4
 tags: []
 summary: 纳武利尤单抗（INN:nivolumab）以商品名称Opdivo（有"欧狄沃"的中文译名）于市场上销售，是一种属于免疫检查点抑制剂（癌症免疫疗法）类别的化疗药物。
 kind: auto
 source_title: 纳武利尤单抗
 source_url: https://zh.wikipedia.org/wiki/%E7%BA%B3%E6%AD%A6%E5%88%A9%E5%B0%A4%E5%8D%95%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

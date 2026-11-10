@@ -4,13 +4,17 @@ name: 氟奋乃静
 en: Fluphenazine
 category: 神经精神
 family: 神经精神药物
+formula: C22H26F3N3OS
+mol_mass: 437.52
+cas: 69-23-8
+smiles: "FC(F)(F)c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(CCO)CC4"
 tags: []
 summary: 氟奋乃静（INN:fluphenazine），常见商品名称为Prolixin，为一种精神科药物，用于治疗包括精神分裂症在内的慢性思觉失调…
 kind: auto
 brief: true
 source_title: 氟奋乃静
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%9F%E5%A5%8B%E4%B9%83%E9%9D%99
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

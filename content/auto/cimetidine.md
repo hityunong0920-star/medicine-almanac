@@ -4,12 +4,16 @@ name: 西咪替丁
 en: Cimetidine
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C10H16N6S
+mol_mass: 252.34
+cas: 51481-61-9
+smiles: "CC1=C(N=CN1)CSCCNC(=NC)NC#N {{Cite web"
 tags: []
 summary: 西咪替丁（INN：cimetidine），也称甲氰咪胍、西米替丁或希美得定，商品名称为泰胃美（Tagamet），是一种组胺H2受体阻抗剂，主要用于抑制胃酸的分泌，并用于治疗胃灼热和消化道溃疡。
 kind: auto
 source_title: 西咪替丁
 source_url: https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%92%AA%E6%9B%BF%E4%B8%81
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

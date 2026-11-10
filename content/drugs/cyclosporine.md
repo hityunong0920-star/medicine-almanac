@@ -5,6 +5,9 @@ en: Cyclosporine
 alias: 环孢菌素A
 category: 免疫风湿
 family: 钙调神经磷酸酶抑制剂
+formula: C62H111N11O12
+mol_mass: 1202.61
+cas: 59865-13-3
 year: 1972
 tags: [器官移植, 钙调神经磷酸酶, 土壤真菌, 免疫抑制]
 summary: 一袋从挪威高原带回的泥土，让器官移植从"九死一生"的手术，变成了可以长期存活的常规治疗。

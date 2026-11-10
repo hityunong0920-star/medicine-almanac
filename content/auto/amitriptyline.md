@@ -4,13 +4,17 @@ name: 阿米替林
 en: Amitriptyline
 category: 神经精神
 family: 神经精神药物
+formula: C20H23N
+mol_mass: 277.41
+cas: 50-48-6
+smiles: "c3cc2c(/C(c1c(cccc1)CC2)=C\CCN(C)C)cc3"
 tags: []
 summary: 阿米替林以Elavil等商品名于市面销售，是一种三环类抗忧郁药，主要用于治疗重度忧郁症和各种疼痛症候群，如神经性疼痛、纤维肌痛、偏头痛和紧缩型头痛。
 kind: auto
 brief: true
 source_title: 阿米替林
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E7%B1%B3%E6%9B%BF%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

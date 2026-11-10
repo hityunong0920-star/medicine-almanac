@@ -4,13 +4,17 @@ name: 褪黑素
 en: Melatonin
 category: 神经精神
 family: 神经精神药物
+formula: C13H16N2O2
+mol_mass: 232.28
+cas: 73-31-4
+smiles: "COC1=CC2=C(NC=C2CCNC(C)=O)C=C1"
 tags: [抗炎]
 summary: 褪黑素（或称褪黑激素、松果体素或美拉托宁，，缩写为MT），化学名为N-乙酰基-5-甲氧基色胺，是一种生命必需的小分子吲哚胺类物质，在动物、植物、真菌和细菌中皆有发现。
 kind: auto
 brief: true
 source_title: 褪黑素
 source_url: https://zh.wikipedia.org/wiki/%E8%A4%AA%E9%BB%91%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

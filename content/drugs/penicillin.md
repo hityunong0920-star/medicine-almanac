@@ -5,6 +5,9 @@ en: Penicillin
 alias: 盘尼西林
 category: 抗感染
 family: β-内酰胺类抗生素
+formula: C16H18N2O4S
+mol_mass: 334.39
+cas: 61-33-6
 year: 1928
 tags: [弗莱明, 青霉菌, 抗生素, 二战]
 summary: 一次忘记清洗的培养皿，让人类第一次拥有了对抗细菌的"魔法子弹"，也开启了抗生素时代与耐药性的漫长竞赛。

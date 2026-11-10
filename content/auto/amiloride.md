@@ -4,12 +4,16 @@ name: 阿米洛利
 en: Amiloride
 category: 心血管
 family: 心血管药物
+formula: C6H8ClN7O
+mol_mass: 229.63
+cas: 2016-88-8
+smiles: "Clc1nc(C(=O)\N=C(/N)N)c(nc1N)N"
 tags: []
 summary: 阿米洛利 以商品名Midamor等于市面销售，是种通常与其他药物一起使用以治疗高血压，或是因心脏衰竭或肝硬化引发水肿的药物。
 kind: auto
 source_title: 阿米洛利
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E7%B1%B3%E6%B4%9B%E5%88%A9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

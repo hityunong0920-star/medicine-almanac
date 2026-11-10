@@ -4,12 +4,16 @@ name: 新斯的明
 en: Neostigmine
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C12H19N2O2
+mol_mass: 223.30
+cas: 59-99-4
+smiles: "CN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C"
 tags: []
 summary: 新斯狄明（INN:neostigmine），以Bloxiverz等品牌名称于市场上销售，是一种用于治疗重症肌无力、以及无阻塞性尿潴留的药物。
 kind: auto
 source_title: 新斯的明
 source_url: https://zh.wikipedia.org/wiki/%E6%96%B0%E6%96%AF%E7%9A%84%E6%98%8E
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

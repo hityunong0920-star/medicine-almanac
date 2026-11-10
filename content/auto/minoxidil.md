@@ -4,13 +4,16 @@ name: 米诺地尔
 en: Minoxidil
 category: 心血管
 family: 心血管药物
+formula: C9H15N5O
+mol_mass: 209.25
+cas: 38304-91-5
 tags: []
 summary: 米诺地尔（INN：minoxidil）是一种ATP-敏感性钾通道开放药，有小动脉扩张作用，口服制剂为传统的降压药；作为外用制剂，则有促使毛发增多变粗的作用，可治疗雄激素源性脱发。
 kind: auto
 brief: true
 source_title: 米诺地尔
 source_url: https://zh.wikipedia.org/wiki/%E7%B1%B3%E8%AF%BA%E5%9C%B0%E5%B0%94
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

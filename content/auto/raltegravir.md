@@ -4,13 +4,17 @@ name: 拉替拉韦
 en: Raltegravir
 category: 抗感染
 family: 抗感染药物
+formula: C20H21FN6O5
+mol_mass: 444.42
+cas: 518048-05-0
+smiles: "Cc1nnc(o1)C(=O)NC(C)(C)C\3=N\C(C(=O)NCc2ccc(F)cc2)=C(\O)C(=O)N/3C"
 tags: []
 summary: 拉替拉韦（INN:raltegravir，简称RAL）以Isentress等品牌名称于市场中贩售，是一种抗反转录病毒药物，与其他药物并用以治疗爱滋病。
 kind: auto
 brief: true
 source_title: 拉替拉韦
 source_url: https://zh.wikipedia.org/wiki/%E6%8B%89%E6%9B%BF%E6%8B%89%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

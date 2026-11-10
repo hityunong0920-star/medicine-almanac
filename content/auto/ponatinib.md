@@ -4,12 +4,16 @@ name: 普纳替尼
 en: Ponatinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C29H27F3N6O
+mol_mass: 532.57
+cas: 943319-70-8
+smiles: "Cc1ccc(cc1C#Cc2cnc3n2nccc3)C(=O)Nc4ccc(c(c4)C(F)(F)F)CN5CCN(CC5)C"
 tags: []
 summary: 普纳替尼（INN: Ponatinib，商品名为Iclusig）是一种多靶点酪氨酸激酶抑制剂，用于治疗慢性粒细胞白血病（CML）和费城染色体阳性（Ph+）急性淋巴细胞白血病（ALL）。
 kind: auto
 source_title: 普纳替尼
 source_url: https://zh.wikipedia.org/wiki/%E6%99%AE%E7%BA%B3%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

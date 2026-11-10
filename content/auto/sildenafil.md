@@ -4,12 +4,16 @@ name: 西地那非
 en: Sildenafil
 category: 心血管
 family: 心血管药物
+formula: C22H30N6O4S
+mol_mass: 474.58
+cas: 139755-83-2
+smiles: "O=S(=O)(N1CCN(C)CC1)c4cc(C=2NC(=O)c3n(C)nc(CCC)c3N=2)c(OCC)cc4"
 tags: []
 summary: 西地那非，又译昔多芬，是一种研发治疗心血管疾病药物时意外发明出的治疗男性勃起功能障碍药物。
 kind: auto
 source_title: 西地那非
 source_url: https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%9C%B0%E9%82%A3%E9%9D%9E
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

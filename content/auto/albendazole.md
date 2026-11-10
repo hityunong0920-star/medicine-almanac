@@ -4,13 +4,17 @@ name: 阿苯达唑
 en: Albendazole
 category: 抗感染
 family: 抗感染药物
+formula: C12H15N3O2S
+mol_mass: 265.33
+cas: 54965-21-8
+smiles: "CCCSc2ccc1nc(NC(=O)OC)[nH]c1c2"
 tags: []
 summary: 阿苯达唑（INN：albendazole）又称丙硫咪唑，常用商品名Albenza，是一种苯并咪唑类的广谱驱虫药和，对线虫、血吸虫、绦虫等均有高度活性，且对虫卵发育亦有显著抑制作用。
 kind: auto
 brief: true
 source_title: 阿苯达唑
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E8%8B%AF%E8%BE%BE%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,17 @@ name: 阿扎那韦
 en: Atazanavir
 category: 抗感染
 family: 抗感染药物
+formula: C38H52N6O7
+mol_mass: 704.87
+cas: 198904-31-3
+smiles: "O=C(OC)N[C@H](C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)CN(NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)Cc3ccc(c2ncccc2)cc3)C(C)(C)C"
 tags: []
 summary: 阿扎那韦（英语：Atazanavir）以Reyataz等品牌销售，是一种用于治疗艾滋病的抗逆转录病毒药物。
 kind: auto
 brief: true
 source_title: 阿扎那韦
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%89%8E%E9%82%A3%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 硼替佐米
 en: Bortezomib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C19H25N4O4
+mol_mass: 384.24
+cas: 179324-69-7
+smiles: "O=C（N[C@@H]（Cc1ccccc1）C（=O）N[C@@H]（CC（C）C）B（O）O）c2cnccn2"
 tags: []
 summary: 硼替佐米（INN名称：，原代号名PS-341），千禧制药定商品名为，正式名称蛋酶靶泊。
 kind: auto
 source_title: 硼替佐米
 source_url: https://zh.wikipedia.org/wiki/%E7%A1%BC%E6%9B%BF%E4%BD%90%E7%B1%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

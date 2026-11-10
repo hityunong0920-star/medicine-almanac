@@ -4,13 +4,17 @@ name: 丙硫氧嘧啶
 en: Propylthiouracil
 category: 内分泌
 family: 内分泌药物
+formula: C7H10N2OS
+mol_mass: 170.23
+cas: 51-52-5
+smiles: "S=C1N/C(=C\C(=O)N1)CCC"
 tags: []
 summary: 丙硫氧嘧啶 （INN:propylthiouracil，简称PTU）是一种用于治疗甲状腺功能亢进症（包括因弥漫性毒性甲状腺肿（葛瑞夫兹氏病）和所引起的）的药物。
 kind: auto
 brief: true
 source_title: 丙硫氧嘧啶
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%99%E7%A1%AB%E6%B0%A7%E5%98%A7%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

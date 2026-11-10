@@ -4,12 +4,16 @@ name: 咪达唑仑
 en: Midazolam
 category: 神经精神
 family: 神经精神药物
+formula: C18H13ClFN3
+mol_mass: 325.77
+cas: 59467-70-8
+smiles: "ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=CN=C(C)N42)=C1"
 tags: []
 summary: 咪达唑仑（，INN，常见商品名为Versed）是一种苯二氮䓬类药物，临床上广泛用于麻醉、程序性镇静、睡眠障碍以及严重躁动的治疗。
 kind: auto
 source_title: 咪達唑侖
 source_url: https://zh.wikipedia.org/wiki/%E5%92%AA%E9%81%94%E5%94%91%E4%BE%96
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

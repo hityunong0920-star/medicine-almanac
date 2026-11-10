@@ -4,12 +4,16 @@ name: 黏菌素
 en: Colistin
 category: 抗感染
 family: 抗感染药物
+formula: C52H98N16O13
+mol_mass: 1155.45
+cas: 1066-17-7
+smiles: "O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC1)[C@H](O)C)CCN)CCN)CC(C)C)CC(C)C)CCN)CCN)[C@H](O)C)CCN)CCCC(C)CC"
 tags: []
 summary: 黏菌素（INN:colistin，也称为多黏菌素 E，）是一种抗生素，作为治疗包含肺炎在内的多重抗药性革兰氏阴性菌感染的最后手段。
 kind: auto
 source_title: 黏菌素
 source_url: https://zh.wikipedia.org/wiki/%E9%BB%8F%E8%8F%8C%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

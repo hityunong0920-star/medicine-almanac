@@ -4,13 +4,17 @@ name: 醋酸乌利司他
 en: Ulipristal
 category: 其他
 family: 其他药物
+formula: C30H37NO4
+mol_mass: 475.63
+cas: 126784-99-4
+smiles: "CC(=O)OC4(C(C)=O)CCC3C1CCC2=CC(=O)CCC2=C1C(CC34C)c5ccc(N(C)C)cc5"
 tags: []
 summary: 醋酸乌利司他（INN:ulipristal acetate）以商品名称Ella等于市场上销售，是一种用于紧急避孕和治疗子宫肌瘤的药物。
 kind: auto
 brief: true
 source_title: 醋酸烏利司他
 source_url: https://zh.wikipedia.org/wiki/%E9%86%8B%E9%85%B8%E7%83%8F%E5%88%A9%E5%8F%B8%E4%BB%96
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

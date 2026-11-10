@@ -4,12 +4,16 @@ name: 氯喹
 en: Chloroquine
 category: 抗感染
 family: 抗感染药物
+formula: C18H26ClN3
+mol_mass: 319.88
+cas: 54-05-7
+smiles: "Clc1cc2nccc(c2cc1)NC(C)CCCN(CC)CC"
 tags: [抗病毒, 抗疟]
 summary: 氯喹（INN：chloroquine）又称氯化-{}-奎宁，是一种常用于预防及治疗疟疾的药物，特别适用于对此药物尚未产生抗药性疟原虫所分布的地区。
 kind: auto
 source_title: 氯喹
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%AF%E5%96%B9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,17 @@ name: 维生素B12
 en: Vitamin B12
 category: 血液泌尿
 family: 血液泌尿药物
+formula: C63H88N14O14P
+mol_mass: 1355.37
+cas: 68-19-9
+smiles: "CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=C(C7=NC(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=O)N)C(C7(C)CC(=O)N)CCC(=O)N)C)[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]"
 tags: []
 summary: 维生素B12（Vitamin B12）为B族维生素之一，是一类含钴的复杂有机化合物。
 kind: auto
 brief: true
 source_title: 维生素B12
 source_url: https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%94%9F%E7%B4%A0B12
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,17 @@ name: 硝普钠
 en: Nitroprusside
 category: 心血管
 family: 心血管药物
+formula: C5FeN6Na2O
+mol_mass: 261.92
+cas: 13755-38-9
+smiles: "[Na+].[Na+].O=N[Fe--](C#N)(C#N)(C#N)(C#N)C#N"
 tags: []
 summary: 硝普钠简称SNP，又称亚硝基铁氰化钠（Sodium Nitroferricyanide），为强效动、静脉血管扩张药，可以用来降低血压。
 kind: auto
 brief: true
 source_title: 硝普钠
 source_url: https://zh.wikipedia.org/wiki/%E7%A1%9D%E6%99%AE%E9%92%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

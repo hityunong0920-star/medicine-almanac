@@ -4,13 +4,17 @@ name: 普拉格雷
 en: Prasugrel
 category: 心血管
 family: 心血管药物
+formula: C20H20FNO3S
+mol_mass: 373.44
+cas: 150322-43-3
+smiles: "CC(=O)Oc1cc2c(s1)CCN(C2)C(c3ccccc3F)C(=O)C4CC4"
 tags: []
 summary: 普拉格雷（在美国，澳大利亚和印度的商品名为Effient，在欧盟与台湾的商品名为Efient，抑凝安 ）是预防血凝块形成的药物。
 kind: auto
 brief: true
 source_title: 普拉格雷
 source_url: https://zh.wikipedia.org/wiki/%E6%99%AE%E6%8B%89%E6%A0%BC%E9%9B%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

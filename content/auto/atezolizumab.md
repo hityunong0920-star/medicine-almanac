@@ -4,13 +4,16 @@ name: 阿替利珠单抗
 en: Atezolizumab
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: S42
+mol_mass: 1346.52
+cas: 1380723-44-3
 tags: []
 summary: 阿替利珠单抗（Atezolizumab，商品名Tecentriq，中文商品名泰圣奇）是一种用于治疗尿路上皮癌、非小细胞肺癌（NSCLC）、三阴性乳腺癌…
 kind: auto
 brief: true
 source_title: 阿替利珠单抗
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%9B%BF%E5%88%A9%E7%8F%A0%E5%8D%95%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

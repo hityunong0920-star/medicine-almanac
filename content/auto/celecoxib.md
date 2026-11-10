@@ -4,13 +4,17 @@ name: 塞来昔布
 en: Celecoxib
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C17H14F3N3O2S
+mol_mass: 381.37
+cas: 169590-42-5
+smiles: "O=S(=O)(c3ccc(n1nc(cc1c2ccc(cc2)C)C(F)(F)F)cc3)N"
 tags: []
 summary: 塞来昔布（INN：Celecoxib），商品名有赛乐葆（Celebrex）、希乐葆、西乐葆（中国大陆）等，是一种选择性COX-2抑制剂，属磺酰胺非类固醇消炎止痛药（NSAIDs）。
 kind: auto
 brief: true
 source_title: 塞来昔布
 source_url: https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%9D%A5%E6%98%94%E5%B8%83
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

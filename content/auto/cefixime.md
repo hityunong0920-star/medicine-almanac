@@ -4,13 +4,17 @@ name: 头孢克肟
 en: Cefixime
 category: 抗感染
 family: 抗感染药物
+formula: C16H15N5O7S2
+mol_mass: 453.45
+cas: 79350-37-1
+smiles: "O=C2N1/C(=C(/C=C)CS[C@@H]1[C@@H]2NC(=O)C(=N\OCC(=O)O)/c3nc(sc3)N)C(=O)O"
 tags: [抗生素]
 summary: 头孢克肟以Suprax等品牌于市面上贩售，是一种抗生素药物，用于治疗多种细菌感染 - 包括中耳炎、链球菌性咽炎、肺炎、泌尿道感染、淋病和莱姆病。
 kind: auto
 brief: true
 source_title: 头孢克肟
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%B4%E5%AD%A2%E5%85%8B%E8%82%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

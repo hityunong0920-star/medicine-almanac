@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 每日一药 · 静态站点生成器
@@ -66,6 +66,31 @@ WEEKDAYS = ("星期一", "星期二", "星期三", "星期四", "星期五", "�
 # ---------------------------------------------------------------------------
 def esc(value: object) -> str:
     return html.escape(str(value), quote=True)
+
+
+ATOMIC_MASS = {
+    "H": 1.008, "Li": 6.94, "C": 12.011, "N": 14.007, "O": 15.999,
+    "F": 18.998, "Na": 22.990, "Mg": 24.305, "Al": 26.982, "Si": 28.085,
+    "P": 30.974, "S": 32.06, "Cl": 35.45, "K": 39.098, "Ca": 40.078,
+    "Fe": 55.845, "Cu": 63.546, "Zn": 65.38, "Br": 79.904, "Ag": 107.868,
+    "I": 126.904, "Ba": 137.327, "Pt": 195.084, "Au": 196.967, "Hg": 200.592,
+}
+
+
+def formula_mass(formula: str) -> float | None:
+    tokens = re.findall(r"([A-Z][a-z]?)(\d*)", formula)
+    if not tokens:
+        return None
+    total = 0.0
+    for symbol, count in tokens:
+        if symbol not in ATOMIC_MASS:
+            return None
+        total += ATOMIC_MASS[symbol] * (int(count) if count else 1)
+    return total
+
+
+def formula_html(formula: str) -> str:
+    return re.sub(r"(\d+)", r"<sub>\1</sub>", esc(formula))
 
 
 def cycle_index(day: date, total: int) -> int:
@@ -241,6 +266,14 @@ def load_drugs() -> list[dict]:
         meta["family"] = meta.get("family", "")
         meta["kind"] = kind
         meta["brief"] = str(meta.get("brief", "")).lower() == "true"
+        meta["formula"] = meta.get("formula", "")
+        meta["mol_mass"] = meta.get("mol_mass", "")
+        meta["cas"] = meta.get("cas", "")
+        meta["smiles"] = meta.get("smiles", "")
+        if not meta["mol_mass"] and meta["formula"]:
+            mass = formula_mass(meta["formula"])
+            if mass:
+                meta["mol_mass"] = f"{mass:.2f}"
         meta["source_title"] = meta.get("source_title", "")
         meta["source_url"] = meta.get("source_url", "")
         meta["updated"] = meta.get("updated", "")
@@ -373,7 +406,7 @@ def card_html(drug: dict) -> str:
             " ".join(drug["tags"]),
         ]
     ).lower()
-    return f"""      <a class="card" href="drug/{esc(drug['id'])}.html" data-category="{esc(drug['category'])}" data-search="{esc(blob)}">
+    return f"""      <a class="card" href="drug/{esc(drug['id'])}.html" data-id="{esc(drug['id'])}" data-category="{esc(drug['category'])}" data-search="{esc(blob)}">
         <span class="card__top"><span class="card__no">№ {drug['no']:02d}</span><span class="card__cat">{esc(drug['category'])}</span></span>
         <span class="card__name">{esc(drug['name'])}</span>
         <span class="card__en">{esc(drug['en'])}</span>
@@ -445,6 +478,11 @@ def build_index(drugs: list[dict], today: date, payload_script: str) -> str:
       <span class="hero__ghost" id="today-ghost" aria-hidden="true">{hero['no']:02d}</span>
     </section>
 
+    <section class="profile" id="profile" aria-label="阅读档案" hidden>
+      <p class="profile__text" id="profile-text">阅读记录保存在本机浏览器</p>
+      <button class="profile__toggle" id="fav-toggle" type="button" aria-pressed="false">只看收藏</button>
+    </section>
+
     <section class="week" id="week" aria-labelledby="week-title">
       <div class="section-head">
         <h2 class="section-title" id="week-title">未来七日</h2>
@@ -488,6 +526,7 @@ def build_index(drugs: list[dict], today: date, payload_script: str) -> str:
       <div class="grid" id="grid">
 {cards}
       </div>
+      <button class="load-more" id="load-more" type="button" hidden>加载更多</button>
       <p class="empty" id="empty" hidden>没有找到这味药，换个关键词试试。</p>
     </section>
   </div>
@@ -520,6 +559,30 @@ def build_drug(drug: dict, drugs: list[dict], payload_script: str) -> str:
     tags = "".join(f'<span class="tag">{esc(t)}</span>' for t in drug["tags"])
     tags_block = f'<div class="article__tags">{tags}</div>' if tags else ""
 
+    chem_rows = []
+    if drug["formula"]:
+        chem_rows.append(
+            f'<div><dt>分子式</dt><dd class="chem__formula">{formula_html(drug["formula"])}</dd></div>'
+        )
+    if drug["mol_mass"]:
+        chem_rows.append(f'<div><dt>分子量</dt><dd>{esc(drug["mol_mass"])} g/mol</dd></div>')
+    if drug["cas"]:
+        chem_rows.append(f'<div><dt>CAS</dt><dd>{esc(drug["cas"])}</dd></div>')
+
+    chem_block = ""
+    if chem_rows or drug["smiles"]:
+        smiles = (
+            f'<p class="chem__smiles"><span>SMILES</span><code>{esc(drug["smiles"])}</code></p>'
+            if drug["smiles"]
+            else ""
+        )
+        chem_block = f"""        <section class="chem" aria-label="化学信息">
+          <p class="chem__label">化学信息</p>
+          <dl class="chem__grid">{''.join(chem_rows)}</dl>
+          {smiles}
+        </section>
+"""
+
     if drug["kind"] == "auto":
         label = "简卡 · 自动汇编" if drug["brief"] else "资料卡 · 自动汇编"
         kind_badge = f'<p class="article__kind">{label}</p>'
@@ -539,6 +602,31 @@ def build_drug(drug: dict, drugs: list[dict], payload_script: str) -> str:
         kind_badge = ""
         source_block = ""
 
+    tools_block = """        <div class="article__tools">
+          <button class="tool" id="fav-btn" type="button" aria-pressed="false"><span id="fav-icon" aria-hidden="true">☆</span> <span id="fav-label">收藏</span></button>
+          <button class="tool" id="font-down" type="button" aria-label="缩小字号">A−</button>
+          <button class="tool" id="font-up" type="button" aria-label="放大字号">A+</button>
+          <button class="tool" id="share-btn" type="button">分享</button>
+        </div>
+"""
+
+    related = [
+        item
+        for item in drugs
+        if item["category"] == drug["category"] and item["id"] != drug["id"]
+    ][:4]
+    related_block = ""
+    if related:
+        related_cards = "".join(
+            f'<a class="mini" href="{esc(item["id"])}.html"><span class="mini__name">{esc(item["name"])}</span><span class="mini__en">{esc(item["en"])}</span></a>'
+            for item in related
+        )
+        related_block = f"""      <section class="related" aria-labelledby="related-title">
+        <h2 class="related__title" id="related-title">同类药物</h2>
+        <div class="related__grid">{related_cards}</div>
+      </section>
+"""
+
     content = f"""<div class="progress" id="progress" aria-hidden="true"></div>
 <main id="main">
   <div class="wrap">
@@ -557,11 +645,17 @@ def build_drug(drug: dict, drugs: list[dict], payload_script: str) -> str:
           <div><dt>阅读</dt><dd>约 {minutes} 分钟</dd></div>
         </dl>
         {tags_block}
+        {chem_block}
+        {tools_block}
       </header>
+      <nav class="toc" id="toc" hidden aria-label="文章目录">
+        <p class="toc__title">目录</p>
+        <ol class="toc__list" id="toc-list"></ol>
+      </nav>
       <div class="prose">
 {drug['html']}
       </div>
-{source_block}      <nav class="article__nav" aria-label="上一篇 / 下一篇">
+{source_block}{related_block}      <nav class="article__nav" aria-label="上一篇 / 下一篇">
         <a class="navcard" href="{esc(prev_drug['id'])}.html"><span class="navcard__label">← 上一味</span><span class="navcard__name">{esc(prev_drug['name'])}</span></a>
         <a class="navcard navcard--next" href="{esc(next_drug['id'])}.html"><span class="navcard__label">下一味 →</span><span class="navcard__name">{esc(next_drug['name'])}</span></a>
       </nav>
@@ -569,6 +663,7 @@ def build_drug(drug: dict, drugs: list[dict], payload_script: str) -> str:
     </article>
   </div>
 </main>
+<div class="toast" id="toast" role="status" hidden></div>
 """
     data_script = (
         f'<script>window.__DRUG_ID__ = "{esc(drug["id"])}";</script>\n' + payload_script

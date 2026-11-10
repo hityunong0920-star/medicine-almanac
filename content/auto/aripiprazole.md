@@ -4,13 +4,17 @@ name: 阿立哌唑
 en: Aripiprazole
 category: 神经精神
 family: 神经精神药物
+formula: C23H27Cl2N3O2
+mol_mass: 448.38
+cas: 129722-12-9
+smiles: "Clc4cccc(N3CCN(CCCCOc2ccc1c(NC(=O)CC1)c2)CC3)c4Cl"
 tags: [抗精神病]
 summary: 阿立哌唑是一种非典型的抗精神病药，常见商品名安律凡和博思清，化学式C23H27Cl2N3O2，主要治疗思觉失调症和双相障碍之躁症发作及混合型发作，其他用途包括作为重症忧郁症、妥瑞症…
 kind: auto
 brief: true
 source_title: 阿立哌唑
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E7%AB%8B%E5%93%8C%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

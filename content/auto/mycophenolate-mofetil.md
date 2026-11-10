@@ -4,12 +4,16 @@ name: 霉酚酸
 en: Mycophenolate mofetil
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C17H20O6
+mol_mass: 320.34
+cas: 24280-93-1
+smiles: "O=C1OCc2c1c(O)c(c(OC)c2C)C\C=C(/C)CCC(=O)O"
 tags: []
 summary: 霉酚酸（mycophenolic acid，MPA）又称麦考酚酸，是由短密青霉菌（Penicillium brevicompactum）等产生的小环内酯类抗生素…
 kind: auto
 source_title: 黴酚酸
 source_url: https://zh.wikipedia.org/wiki/%E9%BB%B4%E9%85%9A%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

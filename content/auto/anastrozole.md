@@ -4,13 +4,17 @@ name: 阿那曲唑
 en: Anastrozole
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C17H19N5
+mol_mass: 293.37
+cas: 120511-73-1
+smiles: "N#CC(C)(C)c1cc(Cn2cncn2)cc(c1)C(C)(C)C#N"
 tags: []
 summary: 阿那曲唑以商品名Arimidex（安美达锭）等于市面销售，是一种药物，用于辅助其他治疗方法以治疗乳癌。
 kind: auto
 brief: true
 source_title: 阿那曲唑
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%82%A3%E6%9B%B2%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

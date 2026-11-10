@@ -4,12 +4,16 @@ name: 5-氟尿嘧啶
 en: Fluorouracil
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C4H3FN2O2
+mol_mass: 130.08
+cas: 51-21-8
+smiles: "O=C1NC(=O)NC=C1F"
 tags: []
 summary: 5-氟尿嘧啶（INN:Fluorouracil，也可写为5-fluorouracil，或是5-FU)，以Adrucil等品牌名称于市场上销售，是一种细胞毒性化学治疗药物。
 kind: auto
 source_title: 5-氟尿嘧啶
 source_url: https://zh.wikipedia.org/wiki/5-%E6%B0%9F%E5%B0%BF%E5%98%A7%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

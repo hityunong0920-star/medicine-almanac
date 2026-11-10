@@ -4,12 +4,16 @@ name: 头孢氨苄
 en: Cephalexin
 category: 抗感染
 family: 抗感染药物
+formula: C16H17N3O4S
+mol_mass: 347.39
+cas: 15686-71-2
+smiles: "O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccccc3)N)C)C(=O)O"
 tags: [抗生素]
 summary: 头孢氨苄 （INN：cefalexin，USAN：cephalexin）是一种抗生素，可治疗多种病原细菌感染。
 kind: auto
 source_title: 頭孢氨苄
 source_url: https://zh.wikipedia.org/wiki/%E9%A0%AD%E5%AD%A2%E6%B0%A8%E8%8B%84
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

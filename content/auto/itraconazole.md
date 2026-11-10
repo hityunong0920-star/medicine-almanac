@@ -4,13 +4,17 @@ name: 伊曲康唑
 en: Itraconazole
 category: 抗感染
 family: 抗感染药物
+formula: C35H38Cl2N8O4
+mol_mass: 705.64
+cas: 84625-61-6
+smiles: "O=C1N(/N=C\N1c2ccc(cc2)N7CCN(c6ccc(OC[C@@H]3O[C@](OC3)(c4ccc(Cl)cc4Cl)Cn5ncnc5)cc6)CC7)C(C)CC"
 tags: []
 summary: 伊曲康唑（INN：itraconazole，ITZ）常见商品名 Sporanox（斯皮仁诺、适扑诺），是一种广谱的三唑类合成抗真菌药，用于治疗多种真菌感染，包括曲霉病、芽生菌病…
 kind: auto
 brief: true
 source_title: 伊曲康唑
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9B%B2%E5%BA%B7%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

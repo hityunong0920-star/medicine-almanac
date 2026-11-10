@@ -4,13 +4,17 @@ name: 链脲佐菌素
 en: Streptozocin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C8H15N3O7
+mol_mass: 265.22
+cas: 18883-66-4
+smiles: "CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O"
 tags: [降糖]
 summary: 链脲佐菌素（，简称STZ，又名链佐星、链脲霉素）是一种由链球菌产生的，对哺乳动物胰脏中产生胰岛素的胰岛B细胞有着特异毒性的天然化合物。
 kind: auto
 brief: true
 source_title: 链脲佐菌素
 source_url: https://zh.wikipedia.org/wiki/%E9%93%BE%E8%84%B2%E4%BD%90%E8%8F%8C%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

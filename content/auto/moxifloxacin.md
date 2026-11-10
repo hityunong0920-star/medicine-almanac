@@ -4,12 +4,16 @@ name: 莫西沙星
 en: Moxifloxacin
 category: 抗感染
 family: 抗感染药物
+formula: C21H24FN3O4
+mol_mass: 401.44
+cas: 151096-09-2
+smiles: "COc1c2c(cc(c1N3C[C@@H]4CCCN[C@@H]4C3)F)c(=O)c(cn2C5CC5)C(=O)O"
 tags: [抗生素]
 summary: 莫西沙星（INN：moxifloxacin）是一种第四代喹诺酮类抗细菌药（8-methoxy-fluoroquinolone类抗生素），其杀菌作用藉由干扰拓扑异构酶（topoisomerase）…
 kind: auto
 source_title: 莫西沙星
 source_url: https://zh.wikipedia.org/wiki/%E8%8E%AB%E8%A5%BF%E6%B2%99%E6%98%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,14 +4,22 @@ name: 索磷布韦
 en: Sofosbuvir
 category: 抗感染
 family: 抗感染药物
+formula: C22H29FN3O9P
+mol_mass: 529.46
+cas: 1190307-88-0
+smiles: "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3"
 tags: []
 summary: 索磷布韦（INN:sofosbuvir），以Sovaldi等品牌名称于市场中贩售，是一种用于治疗C型肝炎的药物。
 kind: auto
 brief: true
 source_title: 索磷布韋
 source_url: https://zh.wikipedia.org/wiki/%E7%B4%A2%E7%A3%B7%E5%B8%83%E9%9F%8B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
+
+## 合成
+
+在第32届DEF CON（全球最大的电脑安全会议之一）大会上，的代表发表一场题为"利用生物恐怖主义根除C型肝炎"的演讲。演讲主张开源工具与化学技术的进步，让个人能够在家庭环境下合成特定药物（如索磷布韦），而有可能规避制药公司高昂的成本。劳福在演讲过程中展示该组织用于合成药物的工具与技术，并现场展示制造出的药物样本。为证明该流程的有效性与安全性，他在台上当众服用下一剂索磷布韦。他本人并未患有C型肝炎，但此举的目的在象征性地表达对自行合成药物安全性的主张。
 
 ## 今日之用
 

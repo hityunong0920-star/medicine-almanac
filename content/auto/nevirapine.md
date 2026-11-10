@@ -4,12 +4,16 @@ name: 奈韦拉平
 en: Nevirapine
 category: 抗感染
 family: 抗感染药物
+formula: C15H14N4O
+mol_mass: 266.30
+cas: 129618-40-2
+smiles: "O=C2Nc1c(ccnc1N(c3ncccc23)C4CC4)C"
 tags: []
 summary: 奈韦拉平（INN：nevirapine，NVP）商品名有 Viramune（维乐命，或卫滋锭/卫滋内服悬液）等…
 kind: auto
 source_title: 奈韋拉平
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%88%E9%9F%8B%E6%8B%89%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

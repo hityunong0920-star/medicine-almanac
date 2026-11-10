@@ -4,12 +4,16 @@ name: 泼尼松龙
 en: Prednisolone
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C21H28O5
+mol_mass: 360.45
+cas: 50-24-8
+smiles: "O=C\1\C=C/[C@]4(/C(=C/1)CC[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@@H]23)C)C"
 tags: [抗炎]
 summary: 7.4）下和在ALPB（解析线性化泊松-玻尔兹曼（模型））溶剂Wetoctanol（湿辛醇）中的三维空间填充模型。
 kind: auto
 source_title: 泼尼松龙
 source_url: https://zh.wikipedia.org/wiki/%E6%B3%BC%E5%B0%BC%E6%9D%BE%E9%BE%99
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

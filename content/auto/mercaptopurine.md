@@ -4,12 +4,16 @@ name: 巯嘌呤
 en: Mercaptopurine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C5H4N4S
+mol_mass: 152.17
+cas: 50-44-2
+smiles: "S=c1nc[nH]c2nc[nH]c12"
 tags: []
 summary: 巯嘌呤 (INN:mercaptopurine，简称6-MP，又名6-巯基嘌呤、巯基嘌呤或巯唑嘌呤)，以品牌名称Purinethol等于市面上销售，是一种用于治疗癌症和自体免疫性疾病的药物。
 kind: auto
 source_title: 巯嘌呤
 source_url: https://zh.wikipedia.org/wiki/%E5%B7%AF%E5%98%8C%E5%91%A4
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

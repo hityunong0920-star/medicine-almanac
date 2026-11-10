@@ -4,12 +4,16 @@ name: 异烟肼
 en: Isoniazid
 category: 抗感染
 family: 抗感染药物
+formula: C6H7N3O
+mol_mass: 137.14
+cas: 54-85-3
+smiles: "C1=CN=CC=C1C(=O)NN"
 tags: []
 summary: 异烟肼（INN：isoniazid，INH）又称异烟酸酰肼（isonicotinic acid hydrazide，INAH）、异烟酰肼，是一种用于治疗结核病的合成抗生素，作为一线全效杀菌药物…
 kind: auto
 source_title: 异烟肼
 source_url: https://zh.wikipedia.org/wiki/%E5%BC%82%E7%83%9F%E8%82%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

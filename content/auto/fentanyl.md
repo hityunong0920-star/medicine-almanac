@@ -4,12 +4,16 @@ name: 芬太尼
 en: Fentanyl
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C22H28N2O
+mol_mass: 336.47
+cas: 437-38-7
+smiles: "O=C(CC)N(C1CCN(CC1)CCc2ccccc2)c3ccccc3"
 tags: []
 summary: 吩坦尼（INN：fentanyl）或-{zh-cn:吩坦尼;zh-hk:吩坦尼;zh-tw:芬太尼}-，化学式C²²H²⁸N²O，是一种强效的人工合成类阿片药物，主要作麻醉性镇痛药使用…
 kind: auto
 source_title: 芬太尼
 source_url: https://zh.wikipedia.org/wiki/%E8%8A%AC%E5%A4%AA%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

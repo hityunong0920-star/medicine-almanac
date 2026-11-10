@@ -4,12 +4,16 @@ name: 甲氨蝶呤
 en: Methotrexate
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C20H22N8O5
+mol_mass: 454.45
+cas: 59-05-2
+smiles: "O=C([C@H](CCC(O)=O)NC(C1=CC=C(N(CC2=CN=C(N=C(N)N=C3N)C3=N2)C)C=C1)=O)O"
 tags: []
 summary: 甲氨蝶呤（INN：methotrexate，MTX）旧称氨甲蝶呤（amethopterin），是一种叶酸拮抗剂及二氢叶酸还原酶抑制剂，其结构为叶酸的类似物…
 kind: auto
 source_title: 甲氨蝶呤
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E6%B0%A8%E8%9D%B6%E5%91%A4
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

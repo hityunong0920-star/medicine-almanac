@@ -4,12 +4,16 @@ name: 丙泊酚
 en: Propofol
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C12H18O
+mol_mass: 178.28
+cas: 2078-54-8
+smiles: "CC(C)c1cccc(c1O)C(C)C"
 tags: []
 summary: 7.4）的3D空间填充模型。
 kind: auto
 source_title: 丙泊酚
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%99%E6%B3%8A%E9%85%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

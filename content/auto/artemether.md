@@ -4,13 +4,17 @@ name: 蒿甲醚
 en: Artemether
 category: 抗感染
 family: 抗感染药物
+formula: C16H26O5
+mol_mass: 298.38
+cas: 71963-77-4
+smiles: "C[C@@H]1CC[C@@H]3C42OO[C@](C)(CC[C@@H]12)O[C@H]4O[C@H](OC)[C@@H]3C"
 tags: []
 summary: 蒿甲醚是一种用于治疗疟疾的药物。
 kind: auto
 brief: true
 source_title: 蒿甲醚
 source_url: https://zh.wikipedia.org/wiki/%E8%92%BF%E7%94%B2%E9%86%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

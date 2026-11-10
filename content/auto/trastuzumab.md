@@ -4,12 +4,15 @@ name: 曲妥珠单抗
 en: Trastuzumab
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: S42
+mol_mass: 1346.52
+cas: 180288-69-1
 tags: []
 summary: 曲妥珠单抗（INN:trastuzumab），以商品名称Herceptin（中国及香港译名"赫赛汀"，台湾译名"贺癌平"）等于市场上销售，是一种用于治疗乳癌与胃癌的单株抗体。
 kind: auto
 source_title: 曲妥珠单抗
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%B2%E5%A6%A5%E7%8F%A0%E5%8D%95%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 依那普利
 en: Enalapril
 category: 心血管
 family: 心血管药物
+formula: C20H28N2O5
+mol_mass: 376.45
+cas: 75847-73-3
+smiles: "O=C(O)[C@H]2N(C(=O)[C@@H](N[C@H](C(=O)OCC)CCc1ccccc1)C)CCC2"
 tags: []
 summary: 依那普利 以Vasotec等商品名于市面上销售，是一种血管张力素转化酶抑制剂（ACE抑制剂），用于治疗高血压、糖尿病肾病和心脏衰竭。
 kind: auto
 source_title: 依那普利
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%9D%E9%82%A3%E6%99%AE%E5%88%A9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,17 @@ name: 乙琥胺
 en: Ethosuximide
 category: 神经精神
 family: 神经精神药物
+formula: C7H11NO2
+mol_mass: 141.17
+cas: 77-67-8
+smiles: "O=C1NC(=O)CC1(C)CC"
 tags: []
 summary: 乙琥胺（INN:ethosuximide）以商品名称Zarontin等于市场上销售，是一种用于治疗的药物。
 kind: auto
 brief: true
 source_title: 乙琥胺
 source_url: https://zh.wikipedia.org/wiki/%E4%B9%99%E7%90%A5%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

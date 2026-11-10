@@ -4,12 +4,16 @@ name: 雷尼替丁
 en: Ranitidine
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C13H22N4O3S
+mol_mass: 314.40
+cas: 66357-35-5
+smiles: "CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C"
 tags: []
 summary: 雷尼替丁（INN:ranitidine）以Zantac等品牌名称于市场上贩售，是一种用于减少胃酸分泌的药物。
 kind: auto
 source_title: 雷尼替丁
 source_url: https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%B0%BC%E6%9B%BF%E4%B8%81
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

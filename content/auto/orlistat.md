@@ -4,12 +4,15 @@ name: 奥利司他
 en: Orlistat
 category: 内分泌
 family: 内分泌药物
+formula: C29H53NO5
+mol_mass: 495.74
+cas: 96829-58-2
 tags: []
 summary: 奥利司他是一种减肥药物。
 kind: auto
 source_title: 奧利司他
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%88%A9%E5%8F%B8%E4%BB%96
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

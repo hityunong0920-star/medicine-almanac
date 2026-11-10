@@ -4,13 +4,17 @@ name: 替格瑞洛
 en: Ticagrelor
 category: 心血管
 family: 心血管药物
+formula: C23H28F2N6O4S
+mol_mass: 522.57
+cas: 274693-27-5
+smiles: "CCCSC1=NC(=C2C(=N1)N(N=N2)[C@@H]3C[C@@H]([C@H]([C@H]3O)O)OCCO)N[C@@H]4C[C@H]4C5=CC(=C(C=C5)F)F"
 tags: []
 summary: 替格瑞洛（INN：ticagrelor）商品名倍林达（Brilinta）、百无凝，是一种血小板聚集抑制剂，可用于预防急性冠状动脉综合征患者发生中风、心肌梗死。
 kind: auto
 brief: true
 source_title: 替格瑞洛
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%BF%E6%A0%BC%E7%91%9E%E6%B4%9B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

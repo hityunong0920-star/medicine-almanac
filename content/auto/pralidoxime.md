@@ -4,13 +4,17 @@ name: 解磷定
 en: Pralidoxime
 category: 其他
 family: 其他药物
+formula: C7H9N2O
+mol_mass: 137.16
+cas: 6735-59-7
+smiles: "O=[NH+]C=C1\C=C/C=C\N1C"
 tags: []
 summary: 解磷定（pralidoxime, 2-pyridine aldoxime methyl, 2-PAM）是一种肟类乙酰胆碱酯酶。
 kind: auto
 brief: true
 source_title: 解磷定
 source_url: https://zh.wikipedia.org/wiki/%E8%A7%A3%E7%A3%B7%E5%AE%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

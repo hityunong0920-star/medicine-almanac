@@ -4,13 +4,17 @@ name: 美服培酮
 en: Mifepristone
 category: 其他
 family: 其他药物
+formula: C29H35NO2
+mol_mass: 429.60
+cas: 84371-65-3
+smiles: "O=C5\C=C4/C(=C3/[C@@H](c1ccc(N(C)C)cc1)C[C@]2([C@@H](CC[C@]2(C#CC)O)[C@@H]3CC4)C)CC5"
 tags: []
 summary: 美服培酮（INN：mifepristone），亦以其开发代号RU-486著称，是一种通常与米索前列醇并用的药物，在个体于怀孕期间进行药物流产之用。
 kind: auto
 brief: true
 source_title: 美服培酮
 source_url: https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%9C%8D%E5%9F%B9%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

@@ -4,12 +4,16 @@ name: 双硫仑
 en: Disulfiram
 category: 神经精神
 family: 神经精神药物
+formula: C10H20N2S4
+mol_mass: 296.52
+cas: 97-77-8
+smiles: "CCN(CC)C(=S)SSC(=S)N(CC)CC"
 tags: []
 summary: 双硫仑，商品名戒酒硫、安塔布司，是一种通过产生对乙醇（饮酒）的急性敏感性来用于支持治疗酒精成瘾的药物。
 kind: auto
 source_title: 双硫仑
 source_url: https://zh.wikipedia.org/wiki/%E5%8F%8C%E7%A1%AB%E4%BB%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

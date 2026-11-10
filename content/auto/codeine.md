@@ -4,12 +4,16 @@ name: 可待因
 en: Codeine
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C18H21NO3
+mol_mass: 299.37
+cas: 76-57-3
+smiles: "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O"
 tags: [镇痛]
 summary: 可待因（INN：codeine）是一种阿片剂，也是吗啡的前体药物，主要用于治疗疼痛、咳嗽和腹泻。
 kind: auto
 source_title: 可待因
 source_url: https://zh.wikipedia.org/wiki/%E5%8F%AF%E5%BE%85%E5%9B%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

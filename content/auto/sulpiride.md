@@ -4,13 +4,17 @@ name: 舒必利
 en: Sulpiride
 category: 神经精神
 family: 神经精神药物
+formula: C15H23N3O4S
+mol_mass: 341.43
+cas: 15676-16-1
+smiles: "O=S(=O)(N)c1cc(c(OC)cc1)C(=O)NCC2N(CC)CCC2"
 tags: [抗抑郁, 抗精神病]
 summary: 舒必利是一种典型抗精神病药物，是主要用于治疗精神分裂症和抑郁症相关疾病的苯甲酰胺类药物（商品名：Meresa， Bosnyl， Dogmatil， Dolmatil， Eglonyl）。
 kind: auto
 brief: true
 source_title: 舒必利
 source_url: https://zh.wikipedia.org/wiki/%E8%88%92%E5%BF%85%E5%88%A9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

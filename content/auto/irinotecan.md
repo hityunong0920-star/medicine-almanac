@@ -4,12 +4,16 @@ name: 伊立替康
 en: Irinotecan
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C33H38N4O6
+mol_mass: 586.69
+cas: 97682-44-5
+smiles: "O=C7OCC=6C(=O)N2C(\c1nc5c(c(c1C2)CC)cc(OC(=O)N4CCC(N3CCCCC3)CC4)cc5)=C/C=6[C@@]7(O)CC"
 tags: [免疫抑制]
 summary: 伊立替康（INN：irinotecan）商品名有 Camptosar、Campto（抗癌脱）等，是一种用于治疗大肠癌及小细胞癌的化学疗法药物。
 kind: auto
 source_title: 伊立替康
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%AB%8B%E6%9B%BF%E5%BA%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

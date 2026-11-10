@@ -4,13 +4,17 @@ name: 替莫唑胺
 en: Temozolomide
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C6H6N6O2
+mol_mass: 194.15
+cas: 85622-93-1
+smiles: "O=C(c1ncn2C(=O)N(\N=N/c12)C)N"
 tags: []
 summary: 替莫唑胺（英语：Temozolomide，简称：TMZ）是一种口服化疗药物（属于烷基化剂），在商品名帝盟多（英语：Temodar）等下贩售，用于治疗某些脑癌，如成人恶性神经胶质瘤和恶性黑色素瘤。
 kind: auto
 brief: true
 source_title: 替莫唑胺
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%BF%E8%8E%AB%E5%94%91%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

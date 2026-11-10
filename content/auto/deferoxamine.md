@@ -4,13 +4,17 @@ name: 去铁胺
 en: Deferoxamine
 category: 其他
 family: 其他药物
+formula: C25H48N6O8
+mol_mass: 560.69
+cas: 70-51-9
+smiles: "CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN"
 tags: []
 summary: 去铁胺 （，简称DFOA，也可写为desferrioxamine），以Desferal品牌在市面销售，是一种可与铁和铝结合的药物，专门用于治疗铁中毒…
 kind: auto
 brief: true
 source_title: 去鐵胺
 source_url: https://zh.wikipedia.org/wiki/%E5%8E%BB%E9%90%B5%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

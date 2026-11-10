@@ -4,12 +4,16 @@ name: 硫唑嘌呤
 en: Azathioprine
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C9H7N7O2S
+mol_mass: 277.26
+cas: 446-86-6
+smiles: "Cn1cnc(N(=O)=O)c1Sc2ncnc3nc[nH]c23"
 tags: [免疫抑制]
 summary: 硫唑嘌呤（INN：azathioprine，AZA）商品名为 Imuran 等，在台湾以安思平或移护宁较常见，是一种结构类似嘌呤的免疫抑制剂；用于治疗一系列的自体免疫性疾病，包括类风湿性关节炎…
 kind: auto
 source_title: 硫唑嘌呤
 source_url: https://zh.wikipedia.org/wiki/%E7%A1%AB%E5%94%91%E5%98%8C%E5%91%A4
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

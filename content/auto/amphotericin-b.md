@@ -4,12 +4,16 @@ name: 两性霉素B
 en: Amphotericin B
 category: 抗感染
 family: 抗感染药物
+formula: C47H73NO17
+mol_mass: 924.09
+cas: 12633-72-6
+smiles: "O=C(O)[C@@H]3[C@@H](O)C[C@@]2(O)C[C@@H](O)C[C@@H](O)[C@H](O)CC[C@@H](O)C[C@@H](O)CC(=O)O[C@@H](C)[C@H](C)[C@H](O)[C@@H](C)C=CC=CC=CC=CC=CC=CC=C[C@H](O[C@@H]1O[C@H](C)[C@@H](O)[C@H](N)[C@@H]1O)C[C@@H]3O2"
 tags: [降脂]
 summary: 两性霉素B是一种抗真菌药物，用于治疗严重的真菌感染和利什曼病。
 kind: auto
 source_title: 两性霉素B
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%A4%E6%80%A7%E9%9C%89%E7%B4%A0B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

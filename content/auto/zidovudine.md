@@ -4,12 +4,16 @@ name: 齐多夫定
 en: Zidovudine
 category: 抗感染
 family: 抗感染药物
+formula: C10H13N5O4
+mol_mass: 267.25
+cas: 30516-87-1
+smiles: "O=C1NC(C(C)=CN1[C@@H]2O[C@H](CO)[C@@H](N=[N+]=[N-])C2)=O"
 tags: []
 summary: 齐多夫定 (INN:zidovudine, 简称ZDV)，而在美国药典（USP）中称为azidothymidine（根据化学式，azidothymidine也可译为叠氮胸苷, 简称AZT)…
 kind: auto
 source_title: 齐多夫定
 source_url: https://zh.wikipedia.org/wiki/%E9%BD%90%E5%A4%9A%E5%A4%AB%E5%AE%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

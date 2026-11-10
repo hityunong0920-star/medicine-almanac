@@ -4,13 +4,17 @@ name: 拉坦前列素
 en: Latanoprost
 category: 皮肤五官
 family: 皮肤五官药物
+formula: C26H40O5
+mol_mass: 432.60
+cas: 130209-82-4
+smiles: "O=C(OC(C)C)CCC/C=C\C[C@H]2[C@@H](O)C[C@@H](O)[C@@H]2CC[C@@H](O)CCc1ccccc1"
 tags: []
 summary: 拉坦前列素 (INN:latanoprost)，以品牌名称Xalatan（舒而坦）等于市场上销售，是一种用于治疗眼压升高的药物。
 kind: auto
 brief: true
 source_title: 拉坦前列素
 source_url: https://zh.wikipedia.org/wiki/%E6%8B%89%E5%9D%A6%E5%89%8D%E5%88%97%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

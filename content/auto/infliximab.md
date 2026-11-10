@@ -4,12 +4,15 @@ name: 英夫利西单抗
 en: Infliximab
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S46
+mol_mass: 1474.76
+cas: 170277-31-3
 tags: []
 summary: 英夫利西单抗（INN：infliximab），商品名类克（Remicade），是一种用于治疗多种自身免疫性疾病的嵌合单克隆抗体。
 kind: auto
 source_title: 英夫利西单抗
 source_url: https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%A4%AB%E5%88%A9%E8%A5%BF%E5%8D%95%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

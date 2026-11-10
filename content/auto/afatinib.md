@@ -4,12 +4,16 @@ name: 阿法替尼
 en: Afatinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C24H25ClFN5O3
+mol_mass: 485.94
+cas: 850140-72-6
+smiles: "CN(C)C\C=C\C(=O)Nc3cc1c(Nc(cc2Cl)ccc2F)ncnc1cc3OC4COCC4"
 tags: []
 summary: 阿法替尼，是一种创新的抗癌标靶治疗药物，即新一代口服标靶药，为全球首种不可逆转地结合ErbB家族（包含四种不同的癌细胞表皮生长因子受体，如 EGFR、HER2…
 kind: auto
 source_title: 阿法替尼
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%95%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

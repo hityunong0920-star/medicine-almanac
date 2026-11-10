@@ -4,12 +4,15 @@ name: 利妥昔单抗
 en: Rituximab
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: S44
+mol_mass: 1410.64
+cas: 174722-31-7
 tags: []
 summary: 利妥昔单抗（INN:rituximab），以Rituxan等商品名称于市场上销售，是一种用于治疗特定自体免疫性疾病与癌症的单株抗体药物。
 kind: auto
 source_title: 利妥昔單抗
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E5%A6%A5%E6%98%94%E5%96%AE%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

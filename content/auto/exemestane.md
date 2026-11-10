@@ -4,13 +4,17 @@ name: 依西美坦
 en: Exemestane
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C20H24O2
+mol_mass: 296.41
+cas: 107868-30-4
+smiles: "O=C\1\C=C/[C@]3(C(=C/1)/C(=C)C[C@H]4[C@@H]2CCC(=O)[C@]2(CC[C@H]34)C)C"
 tags: []
 summary: 依西美坦（INN:，商品名Aromasin，台湾译名诺曼癌素）是治疗乳癌的抗雌激素药物，属于芳香化酶抑制剂。
 kind: auto
 brief: true
 source_title: 依西美坦
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%9D%E8%A5%BF%E7%BE%8E%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

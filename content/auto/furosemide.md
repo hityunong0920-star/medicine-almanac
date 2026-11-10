@@ -4,12 +4,16 @@ name: 呋塞米
 en: Furosemide
 category: 心血管
 family: 心血管药物
+formula: C12H11ClN2O5S
+mol_mass: 330.74
+cas: 54-31-9
+smiles: "o1cccc1CNc(cc2Cl)c(C(=O)O)cc2S(=O)(=O)N"
 tags: []
 summary: 呋塞米（INN：furosemide）著名商品名为 Lasix（来适泄），是一种袢利尿剂（环利尿剂），用于治疗因心脏衰竭、肝硬化或肾病变引起的水肿，也可用于治疗高血压。
 kind: auto
 source_title: 呋塞米
 source_url: https://zh.wikipedia.org/wiki/%E5%91%8B%E5%A1%9E%E7%B1%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

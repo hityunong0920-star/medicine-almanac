@@ -4,12 +4,16 @@ name: 阿昔洛韦
 en: Aciclovir
 category: 抗感染
 family: 抗感染药物
+formula: C8H11N5O3
+mol_mass: 225.21
+cas: 59277-89-3
+smiles: "O=C2/N=C(\Nc1n(cnc12)COCCO)N"
 tags: []
 summary: 阿昔洛韦 （INN：aciclovir，USAN：acyclovir，ACV）又称无环鸟苷，是一种化学合成的广谱嘌呤类核苷类似物（类核苷）抗病毒药物，主要用于治疗单纯疱疹病毒（HSV）…
 kind: auto
 source_title: 阿昔洛韦
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%98%94%E6%B4%9B%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

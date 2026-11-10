@@ -4,13 +4,17 @@ name: 噻吗洛尔
 en: Timolol
 category: 皮肤五官
 family: 皮肤五官药物
+formula: C13H24N4O3S
+mol_mass: 316.42
+cas: 26839-75-8
+smiles: "CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1"
 tags: []
 summary: 噻吗洛尔（INN:timolol）是一种β受体阻滞剂，可透过口服或是作为眼药水使用。
 kind: auto
 brief: true
 source_title: 噻嗎洛爾
 source_url: https://zh.wikipedia.org/wiki/%E5%99%BB%E5%97%8E%E6%B4%9B%E7%88%BE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

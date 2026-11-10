@@ -4,13 +4,17 @@ name: 地拉罗司
 en: Deferasirox
 category: 血液泌尿
 family: 血液泌尿药物
+formula: C21H15N3O4
+mol_mass: 373.37
+cas: 201530-41-8
+smiles: "OC(=O)c1ccc(cc1)n2nc(nc2c3ccccc3O)c4ccccc4O"
 tags: []
 summary: 地拉罗司（INN：deferasirox）是一种口服铁药物，于市面销售的品牌中，商品名有诺华公司在不同国家生产的Exjade（中文恩瑞格）、Asunra和Oleptiss（均为片剂）。
 kind: auto
 brief: true
 source_title: 地拉羅司
 source_url: https://zh.wikipedia.org/wiki/%E5%9C%B0%E6%8B%89%E7%BE%85%E5%8F%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

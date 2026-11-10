@@ -4,13 +4,16 @@ name: 托珠单抗
 en: Tocilizumab
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S42
+mol_mass: 1346.52
+cas: 375823-41-9
 tags: []
 summary: 托珠单抗（INN药名 tocilizumab；又名 atlizumab；商品名 雅美罗、Actemra）是一种主要治疗类风湿关节炎和幼年特发性关节炎的免疫抑制药。
 kind: auto
 brief: true
 source_title: 托珠单抗
 source_url: https://zh.wikipedia.org/wiki/%E6%89%98%E7%8F%A0%E5%8D%95%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

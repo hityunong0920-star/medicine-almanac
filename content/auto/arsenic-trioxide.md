@@ -10,8 +10,14 @@ kind: auto
 brief: true
 source_title: 三氧化二砷
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%89%E6%B0%A7%E5%8C%96%E4%BA%8C%E7%A0%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
+
+## 合成
+
+三氧化二砷一般可以用两种方法制备：氧化三硫化二砷或水解三氯化砷：
+\rm 2 As_2S_3 + 9O_2 {=\!=\!=\!=} 2As_2O_3 + 6SO_2 
+\rm 2AsCl_3 + 3H_2O {=\!=\!=\!=} As_2O_3 + 6HCl
 
 ## 今日之用
 

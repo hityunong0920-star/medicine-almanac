@@ -4,12 +4,16 @@ name: 丙卡巴肼
 en: Procarbazine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C12H19N3O
+mol_mass: 221.30
+cas: 671-16-9
+smiles: "O=C(c1ccc(cc1)CNNC)NC(C)C"
 tags: []
 summary: 丙卡巴肼 （INN:procarbazine）是一种化疗药物，用于治疗霍奇金淋巴瘤和脑癌。
 kind: auto
 source_title: 丙卡巴肼
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%99%E5%8D%A1%E5%B7%B4%E8%82%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

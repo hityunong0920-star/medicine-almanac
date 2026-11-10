@@ -4,12 +4,16 @@ name: 比卡鲁胺
 en: Bicalutamide
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C18H14F4N2O4S
+mol_mass: 430.37
+cas: 90357-06-5
+smiles: "CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1"
 tags: []
 summary: 比卡鲁胺以Casodex（-{zh-hans:康士得;zh-hant:可苏多锭;}-）等品牌于市面销售，是种抗雄激素药物，主要用于治疗摄护腺癌。
 kind: auto
 source_title: 比卡魯胺
 source_url: https://zh.wikipedia.org/wiki/%E6%AF%94%E5%8D%A1%E9%AD%AF%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,16 @@ name: 更昔洛韦
 en: Ganciclovir
 category: 抗感染
 family: 抗感染药物
+formula: C9H13N5O4
+mol_mass: 255.23
+cas: 82410-32-0
 tags: []
 summary: 更昔洛韦（INN：ganciclovir，GCV）旧称丙氧鸟苷，是一种抗病毒药物，属于去氧鸟苷类化合物，能抑制病毒DNA的合成，对抗所有的疱疹病毒，对巨细胞病毒抑制作用较强…
 kind: auto
 brief: true
 source_title: 更昔洛韦
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%B4%E6%98%94%E6%B4%9B%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

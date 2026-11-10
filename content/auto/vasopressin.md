@@ -4,13 +4,17 @@ name: 抗利尿激素
 en: Vasopressin
 category: 心血管
 family: 心血管药物
+formula: C46H65N15O12S2
+mol_mass: 1084.24
+cas: 11000-17-2
+smiles: "c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)N)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N"
 tags: []
 summary: 抗利尿激素（，也称为，简称 ），又称精氨酸血管加压素（, ）、血管升压素、血管加压素等，是一种多肽激素，在人体中的主要作用是控制尿排出的水量。
 kind: auto
 brief: true
 source_title: 抗利尿激素
 source_url: https://zh.wikipedia.org/wiki/%E6%8A%97%E5%88%A9%E5%B0%BF%E6%BF%80%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

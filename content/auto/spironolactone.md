@@ -4,12 +4,16 @@ name: 螺内酯
 en: Spironolactone
 category: 心血管
 family: 心血管药物
+formula: C24H32O4S
+mol_mass: 416.58
+cas: 52-01-7
+smiles: "O=C5O[C@@]4([C@@]3([C@H]([C@@H]2[C@H](SC(=O)C)C/C1=C/C(=O)CC[C@]1(C)[C@H]2CC3)CC4)C)CC5"
 tags: [降压]
 summary: 螺内酯（INN:spironolactone），以"Aldactone"（安体舒通、安达通）等商品名称于市场上销售，是一种利尿剂。
 kind: auto
 source_title: 螺内酯
 source_url: https://zh.wikipedia.org/wiki/%E8%9E%BA%E5%86%85%E9%85%AF
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

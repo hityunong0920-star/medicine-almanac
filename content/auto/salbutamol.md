@@ -4,12 +4,16 @@ name: 沙丁胺醇
 en: Salbutamol
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C13H21NO3
+mol_mass: 239.31
+cas: 18559-94-9
+smiles: "CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O"
 tags: []
 summary: 沙丁胺醇（INN:salbutamol，亦称为albuterol），以Ventolin（有"泛得林"和"万托林"等译名）等品牌名称于市场上销售，是一种能扩张肺部中大型气道（支气管）的药物。
 kind: auto
 source_title: 沙丁胺醇
 source_url: https://zh.wikipedia.org/wiki/%E6%B2%99%E4%B8%81%E8%83%BA%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

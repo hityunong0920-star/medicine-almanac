@@ -4,12 +4,16 @@ name: 维生素A
 en: Vitamin A
 category: 营养维生素
 family: 营养维生素药物
+formula: C20H30O
+mol_mass: 286.45
+cas: 68-26-8
+smiles: "C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C"
 tags: []
 summary: 维生素A又称维他命A，是一组不饱和营养有机化合物，是人类的必需营养素之一，当中包括视黄醇、视黄醛、及多种维生素原A类胡萝卜素（最著名的是β-胡萝卜素）。
 kind: auto
 source_title: 維生素A
 source_url: https://zh.wikipedia.org/wiki/%E7%B6%AD%E7%94%9F%E7%B4%A0A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

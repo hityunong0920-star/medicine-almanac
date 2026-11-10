@@ -4,12 +4,16 @@ name: 苯巴比妥
 en: Phenobarbital
 category: 神经精神
 family: 神经精神药物
+formula: C12H12N2O3
+mol_mass: 232.24
+cas: 50-06-6
+smiles: "O=C1NC(=O)NC(=O)C1(c2ccccc2)CC"
 tags: []
 summary: 苯巴比妥（INN:phenobarbital，又称为phenobarbitone，或是phenobarb），以Luminal等品牌名称于市场上销售，是一种巴比妥类药物。
 kind: auto
 source_title: 苯巴比妥
 source_url: https://zh.wikipedia.org/wiki/%E8%8B%AF%E5%B7%B4%E6%AF%94%E5%A6%A5
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,17 @@ name: 利格列汀
 en: Linagliptin
 category: 内分泌
 family: 内分泌药物
+formula: C25H28N8O2
+mol_mass: 472.54
+cas: 668270-12-0
+smiles: "CC#CCN1C2=C(N=C1N3CCC[C@H](C3)N)N(C(=O)N(C2=O)CC4=NC5=CC=CC=C5C(=N4)C)C"
 tags: [降糖]
 summary: 利格列汀（INN：linagliptin）或译利拉利汀，属于新一代DPP-4抑制剂（DPP-4 inhibitors）的糖尿病药物，于2011年5月获美国食品及药物管理局核准，在配合饮食及运动下…
 kind: auto
 brief: true
 source_title: 利格列汀
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E6%A0%BC%E5%88%97%E6%B1%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

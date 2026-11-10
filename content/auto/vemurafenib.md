@@ -4,13 +4,17 @@ name: 维莫非尼
 en: Vemurafenib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C23H18ClF2N3O3S
+mol_mass: 489.92
+cas: 918504-65-1
+smiles: "CCCS(=O)(=O)Nc1ccc(F)c(c1F)C(=O)c2c[nH]c3c2cc(cn3)c4ccc(Cl)cc4"
 tags: []
 summary: 维莫非尼（INN：vemurafenib，商品名为佐博伏），或译维罗非尼，是Plexxikon和基因泰克开发的B-Raf酶抑制剂…
 kind: auto
 brief: true
 source_title: 维莫非尼
 source_url: https://zh.wikipedia.org/wiki/%E7%BB%B4%E8%8E%AB%E9%9D%9E%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

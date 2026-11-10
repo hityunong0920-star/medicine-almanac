@@ -4,12 +4,16 @@ name: 伐昔洛韦
 en: Valaciclovir
 category: 抗感染
 family: 抗感染药物
+formula: C13H20N6O4
+mol_mass: 324.34
+cas: 124832-26-4
+smiles: "O=C(OCCOCn1c2N\C(=N/C(=O)c2nc1)N)[C@@H](N)C(C)C"
 tags: [抗病毒]
 summary: 伐昔洛韦（INN：valaciclovir，USAN：valacyclovir，VCV）又称万乃洛韦，商品名维德思（Valtrex）等，是一种化学合成的广谱鸟嘌呤核苷类似物（类核苷）抗病毒药物…
 kind: auto
 source_title: 伐昔洛韦
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%90%E6%98%94%E6%B4%9B%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

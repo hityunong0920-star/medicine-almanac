@@ -4,12 +4,15 @@ name: 吲哚美辛
 en: Indometacin
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C19H16ClNO4
+mol_mass: 357.79
+cas: 53-86-1
 tags: [镇痛, 抗炎, 钙通道阻滞剂]
 summary: 吲哚美辛（INN名称：，USAN和BAN名称：）-{zh-tw:，又称因多美沙信;zh-cn:，又称消炎痛}-，是一种非甾体抗炎药（NSAID），可消炎止痛、治疗发热和缓解身体僵硬…
 kind: auto
 source_title: 吲哚美辛
 source_url: https://zh.wikipedia.org/wiki/%E5%90%B2%E5%93%9A%E7%BE%8E%E8%BE%9B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

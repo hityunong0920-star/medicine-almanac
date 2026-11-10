@@ -4,13 +4,17 @@ name: 文拉法辛
 en: Venlafaxine
 category: 神经精神
 family: 神经精神药物
+formula: C17H27NO2
+mol_mass: 277.41
+cas: 93413-69-5
+smiles: "OC2(C(c1ccc(OC)cc1)CN(C)C)CCCCC2"
 tags: []
 summary: 盐酸文拉法辛（，商品名: 怡诺斯 或 博乐欣）是一种5-羟色胺和去甲肾上腺素再摄取抑制剂（SNRI）类的抗抑郁药。
 kind: auto
 brief: true
 source_title: 文拉法辛
 source_url: https://zh.wikipedia.org/wiki/%E6%96%87%E6%8B%89%E6%B3%95%E8%BE%9B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

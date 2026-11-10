@@ -4,13 +4,17 @@ name: 双氯芬酸
 en: Diclofenac
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C14H11Cl2NO2
+mol_mass: 296.15
+cas: 15307-86-5
+smiles: "O=C(O)Cc1ccccc1Nc2c(Cl)cccc2Cl"
 tags: []
 summary: 双氯芬酸（INN：diclofenac）是一种邻氨基苯甲酸类的非甾体抗炎药，具镇痛、消炎、解热作用。
 kind: auto
 brief: true
 source_title: 双氯芬酸
 source_url: https://zh.wikipedia.org/wiki/%E5%8F%8C%E6%B0%AF%E8%8A%AC%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

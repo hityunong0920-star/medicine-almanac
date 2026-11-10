@@ -4,12 +4,16 @@ name: 阿托伐他汀
 en: Atorvastatin
 category: 心血管
 family: 心血管药物
+formula: C33H35FN2O5
+mol_mass: 558.64
+cas: 134523-00-5
+smiles: "O=C(O)C[C@H](O)C[C@H](O)CCn2c(c(c(c2c1ccc(F)cc1)c3ccccc3)C(=O)Nc4ccccc4)C(C)C"
 tags: [降脂]
 summary: 阿托伐他汀（INN：atorvastatin）商品名立普妥（Lipitor）、妥宁等，是一种他汀类药物，主要作用是降低血液胆固醇水平。
 kind: auto
 source_title: 阿托伐他汀
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%89%98%E4%BC%90%E4%BB%96%E6%B1%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 胍法辛
 en: Guanfacine
 category: 心血管
 family: 心血管药物
+formula: C9H9Cl2N3O
+mol_mass: 246.09
+cas: 29110-47-2
+smiles: "Clc1cccc(Cl)c1CC(=O)\N=C(/N)N"
 tags: []
 summary: 胍法辛以Tenex（速释剂型（immediate-release dosage）和Intuniv、乐儿静等品牌销售，是一种口服，用于治疗注意力不足过动症(ADHD) 和高血压。
 kind: auto
 source_title: 胍法辛
 source_url: https://zh.wikipedia.org/wiki/%E8%83%8D%E6%B3%95%E8%BE%9B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

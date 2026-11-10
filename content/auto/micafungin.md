@@ -4,13 +4,16 @@ name: 米卡芬净
 en: Micafungin
 category: 抗感染
 family: 抗感染药物
+formula: C56H71N9O23S
+mol_mass: 1270.28
+cas: 235114-32-6
 tags: []
 summary: 米卡芬净（INN：Micafungin），商品名米开民（Mycamine），是一种多烯类抗真菌药物，属于 echinocandin类药物。
 kind: auto
 brief: true
 source_title: 米卡芬净
 source_url: https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%8D%A1%E8%8A%AC%E5%87%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,15 @@ name: 地特胰岛素注射液
 en: Insulin detemir
 category: 内分泌
 family: 内分泌药物
+formula: C267N64O76S6
+mol_mass: 5913.00
+cas: 169148-63-4
 tags: [降糖]
 summary: 地特胰岛素注射液（英文名：insulin Detemir）为长效胰岛素类似物，无色澄明液体，用于治疗糖尿病。
 kind: auto
 source_title: 地特胰岛素注射液
 source_url: https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%89%B9%E8%83%B0%E5%B2%9B%E7%B4%A0%E6%B3%A8%E5%B0%84%E6%B6%B2
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

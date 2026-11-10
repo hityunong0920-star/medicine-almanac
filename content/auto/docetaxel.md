@@ -4,12 +4,16 @@ name: 欧洲紫杉醇
 en: Docetaxel
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C43H53NO14
+mol_mass: 807.89
+cas: 114977-28-5
+smiles: "O=C(OC(C)(C)C)N[C@@H](c1ccccc1)[C@@H](O)C(=O)O[C@@H]4C(=C3/[C@@H](O)C(=O)[C@]6([C@H]([C@H](OC(=O)c2ccccc2)[C@@](O)(C3(C)C)C4)[C@@]5(OC(=O)C)[C@H](OC5)C[C@@H]6O)C)/C"
 tags: []
 summary: 多西他赛，商品名泰素帝，又称-{zh-cn:欧洲紫杉醇、多烯紫杉醇、多西紫杉醇;zh-tw:多西他赛}-，是一种用于治疗多种癌症的化疗药物 - 包括乳癌、头颈癌、胃癌、摄护腺癌和。
 kind: auto
 source_title: 歐洲紫杉醇
 source_url: https://zh.wikipedia.org/wiki/%E6%AD%90%E6%B4%B2%E7%B4%AB%E6%9D%89%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

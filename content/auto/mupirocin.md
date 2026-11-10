@@ -4,12 +4,16 @@ name: 莫匹罗星
 en: Mupirocin
 category: 抗感染
 family: 抗感染药物
+formula: C26H44O9
+mol_mass: 500.63
+cas: 12650-69-0
+smiles: "O=C(O)CCCCCCCCOC(=O)\C=C(/C)C[C@@H]2OC[C@H](C[C@@H]1O[C@H]1[C@@H](C)[C@@H](O)C)[C@@H](O)[C@H]2O"
 tags: []
 summary: 莫匹罗星（INN：mupirocin）旧称假单胞菌酸（pseudomonic acid），商品名百多邦（Bactroban），是一种外用抗生素类抗感染药，对革兰氏阳性球菌敏感…
 kind: auto
 source_title: 莫匹罗星
 source_url: https://zh.wikipedia.org/wiki/%E8%8E%AB%E5%8C%B9%E7%BD%97%E6%98%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理
@@ -19,6 +23,12 @@ updated: 2026-11-05
 莫匹罗星能抑制细菌中的，导致异亮胺醯-tRNA耗尽，并积聚相应的未充电tRNA。异亮胺醯-tRNA耗尽后会抑制蛋白质合成。未充电形式的tRNA会与核糖体的胺醯-tRNA结合位点结合，触发形成，进而抑制RNA合成。蛋白质合成和RNA合成的双重抑制作用会导致抑菌。这种作用机制与异亮胺酸的类似物呋喃霉素相同。
 
 莫匹罗星分子中菌酸“头部”与异亮胺醯-腺苷酸 (Ile-AMS) 之间的结构相似性，导致其能抑制tRNA连接酶/合成酶。其独特的9-羟基壬酸"尾部"会环绕著酵素，进一步稳定复合物，使催化部分卡住。莫匹罗星能够与细菌和古菌版本的酵素结合，但不能与真核生物版本的酵素结合。
+
+## 合成
+
+/AT = /DH = /ER = 烯醯还原酶 (enoyl reductase)/HMG = 3-羟基-3-甲基戊二酸 (3-hydroxy-3-methylglutaric acid)/MeT = /KR = 酮还原酶 (ketoreductase)/KS = 酮合酶 (ketosynthase)/TE =。
+
+莫匹罗星是多种假单胞菌酸的混合物，其中假单胞菌酸A (PA-A) 占混合物中90%以上。莫匹罗星中也存在：在C8处多一个羟基的假单胞菌酸B、在C10和C11之间有一个双键（而非PA-A的环氧化物）的假单胞菌酸 C，以及在莫匹罗星的9-羟基壬酸部分，C4'和C5'之间有一个双键的假单胞菌酸D。
 
 ## 今日之用
 

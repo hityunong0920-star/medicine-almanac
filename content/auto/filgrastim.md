@@ -4,13 +4,16 @@ name: 非格司亭
 en: Filgrastim
 category: 血液泌尿
 family: 血液泌尿药物
+formula: N223O243S9
+mol_mass: 7299.86
+cas: 121181-53-1
 tags: []
 summary: 非格司亭（INN:filgrastim），以Neupogen（有"惠尔血添"的译名）等品牌名称于市场上销售，是一种用于治疗嗜中性白血球低下的药物。
 kind: auto
 brief: true
 source_title: 非格司亭
 source_url: https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%A0%BC%E5%8F%B8%E4%BA%AD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

@@ -4,13 +4,17 @@ name: 青霉胺
 en: Penicillamine
 category: 其他
 family: 其他药物
+formula: C5H11NO2S
+mol_mass: 149.21
+cas: 52-67-5
+smiles: "CC(C)([C@H](C(=O)O)N)S"
 tags: []
 summary: 青霉胺 (INN:penicillamine) 是一种主要用于治疗肝豆状核变性（又称威尔森氏症） 的药物，商品名有"Cuprimine" 等。
 kind: auto
 brief: true
 source_title: 青霉胺
 source_url: https://zh.wikipedia.org/wiki/%E9%9D%92%E9%9C%89%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

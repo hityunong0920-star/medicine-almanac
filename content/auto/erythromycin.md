@@ -4,12 +4,16 @@ name: 红霉素
 en: Erythromycin
 category: 抗感染
 family: 抗感染药物
+formula: C37H67NO13
+mol_mass: 733.94
+cas: 114-07-8
+smiles: "CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O"
 tags: []
 summary: 红霉素是一种抗生素，用于治疗多种病原细菌感染,包括如呼吸道感染、、披衣菌感染、骨盆腔发炎和梅毒。
 kind: auto
 source_title: 红霉素
 source_url: https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%9C%89%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

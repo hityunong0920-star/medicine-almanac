@@ -4,12 +4,16 @@ name: 利多卡因
 en: Lidocaine
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C14H22N2O
+mol_mass: 234.34
+cas: 137-58-6
+smiles: "Cc1cccc(C)c1NC(=O)CN(CC)CC"
 tags: []
 summary: 利多卡因 （INN:lidocaine)，又称里格卡因 (lignocaine)，并以品牌名称Xylocaine等于市面上销售，是一种胺和醯胺类（由胺和醯胺基团组成）局部麻醉剂。
 kind: auto
 source_title: 利多卡因
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E5%A4%9A%E5%8D%A1%E5%9B%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

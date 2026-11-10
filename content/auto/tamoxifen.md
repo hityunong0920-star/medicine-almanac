@@ -4,12 +4,16 @@ name: 他莫昔芬
 en: Tamoxifen
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C26H29NO
+mol_mass: 371.52
+cas: 10540-29-1
+smiles: "CN(C)CCOc1ccc(cc1)/C(c2ccccc2)=C(/CC)c3ccccc3"
 tags: []
 summary: 他莫昔芬（INN:tamoxifen)，以Nolvadex（有"诺瓦得士"的中文译名）等品牌名称于市场上销售，是一种选择性雌激素受体调节剂 (SERM)…
 kind: auto
 source_title: 他莫昔芬
 source_url: https://zh.wikipedia.org/wiki/%E4%BB%96%E8%8E%AB%E6%98%94%E8%8A%AC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

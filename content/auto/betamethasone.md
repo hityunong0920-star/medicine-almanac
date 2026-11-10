@@ -4,13 +4,17 @@ name: 倍他米松
 en: Betamethasone
 category: 皮肤五官
 family: 皮肤五官药物
+formula: C22H29FO5
+mol_mass: 392.47
+cas: 378-44-9
+smiles: "O=C(CO)[C@]3(O)[C@]2(C[C@H](O)[C@]4(F)[C@@]/1(\C(=C/C(=O)\C=C\1)CC[C@H]4[C@@H]2C[C@@H]3C)C)C"
 tags: []
 summary: 倍他米松（INN：betamethasone）是一种人工合成的糖皮质激素，作为强效抗炎类固醇药物，可治疗多种疾病，包括类风湿性关节炎和全身性红斑狼疮等风湿性疾病、皮肤炎和干癣等皮肤病…
 kind: auto
 brief: true
 source_title: 倍他米松
 source_url: https://zh.wikipedia.org/wiki/%E5%80%8D%E4%BB%96%E7%B1%B3%E6%9D%BE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

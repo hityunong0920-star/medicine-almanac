@@ -4,12 +4,16 @@ name: 氢氯噻嗪
 en: Hydrochlorothiazide
 category: 心血管
 family: 心血管药物
+formula: C7H8ClN3O4S2
+mol_mass: 297.73
+cas: 58-93-5
+smiles: "O=S(=O)(N)c1c(Cl)cc2c(c1)S(=O)(=O)NCN2"
 tags: []
 summary: 氢氯噻嗪（INN:hydrochlorothiazide），以商品名称Hydrodiuril等于市面上销售，是一种利尿剂，用于治疗高血压和因体液积聚而引起的水肿。
 kind: auto
 source_title: 氢氯噻嗪
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%A2%E6%B0%AF%E5%99%BB%E5%97%AA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

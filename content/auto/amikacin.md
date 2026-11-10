@@ -4,12 +4,16 @@ name: 阿米卡星
 en: Amikacin
 category: 抗感染
 family: 抗感染药物
+formula: C22H43N5O13
+mol_mass: 585.61
+cas: 37517-28-5
+smiles: "O=C(N[C@H]3[C@H](O[C@H]1O[C@@H]([C@@H](O)[C@H](N)[C@H]1O)CO)[C@@H](O)[C@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](N)C3)[C@@H](O)CCN"
 tags: []
 summary: 阿米卡星是一种抗生素药物，用于治疗多种病原细菌感染,包括败血性关节炎、、脑膜炎、肺炎、败血症和泌尿道感染。
 kind: auto
 source_title: 阿米卡星
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E7%B1%B3%E5%8D%A1%E6%98%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

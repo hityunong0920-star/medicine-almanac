@@ -4,13 +4,17 @@ name: 替米沙坦
 en: Telmisartan
 category: 心血管
 family: 心血管药物
+formula: C33H30N4O2
+mol_mass: 514.63
+cas: 144701-48-4
+smiles: "O=C(O)c1ccccc1c2ccc(cc2)Cn3c4cc(cc(c4nc3CCC)C)c5nc6ccccc6n5C"
 tags: [降糖, ARB]
 summary: 替米沙坦（INN：Telmisartan），商品名美卡素（Micardis）等，是一种血管紧张素II受体拮抗剂，用于治疗高血压，也是心衰和慢性肾病治疗的一部分。
 kind: auto
 brief: true
 source_title: 替米沙坦
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%BF%E7%B1%B3%E6%B2%99%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

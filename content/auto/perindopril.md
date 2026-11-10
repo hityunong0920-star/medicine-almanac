@@ -4,12 +4,16 @@ name: 培哚普利
 en: Perindopril
 category: 心血管
 family: 心血管药物
+formula: C19H32N2O5
+mol_mass: 368.47
+cas: 82834-16-0
+smiles: "O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@@H]2CCCC[C@H]12)C)CCC"
 tags: []
 summary: 培哚普利 (INN:perindopril) 以品牌名称Coversyl等于市场上销售，是一种用于治疗高血压、心脏衰竭或稳定型冠状动脉疾病的药物。
 kind: auto
 source_title: 培哚普利
 source_url: https://zh.wikipedia.org/wiki/%E5%9F%B9%E5%93%9A%E6%99%AE%E5%88%A9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

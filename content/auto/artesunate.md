@@ -4,12 +4,16 @@ name: 青蒿琥酯
 en: Artesunate
 category: 抗感染
 family: 抗感染药物
+formula: C19H28O8
+mol_mass: 384.43
+cas: 88495-63-0
+smiles: "[H][C@@]12CC[C@@]3(C)OO[C@@]11[C@@]([H])(CC[C@H]2C)[C@@H](C)[C@H](OC(=O)CCC(O)=O)O[C@]1([H])O3"
 tags: []
 summary: 青蒿琥酯 （，简称AS）是一种用于治疗疟疾的药物。
 kind: auto
 source_title: 青蒿琥酯
 source_url: https://zh.wikipedia.org/wiki/%E9%9D%92%E8%92%BF%E7%90%A5%E9%85%AF
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

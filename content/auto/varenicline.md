@@ -4,12 +4,16 @@ name: 伐尼克兰
 en: Varenicline
 category: 其他
 family: 其他药物
+formula: C13H13N3
+mol_mass: 211.27
+cas: 249296-44-4
+smiles: "n1c2cc3c(cc2ncc1)[C@@H]4CNC[C@H]3C4"
 tags: []
 summary: 伐尼克兰（INN:varenicline），以Chantix和Champix等商品名称于市场上销售，是一种用于戒烟以及治疗干眼症的药物。
 kind: auto
 source_title: 伐尼克兰
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%90%E5%B0%BC%E5%85%8B%E5%85%B0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

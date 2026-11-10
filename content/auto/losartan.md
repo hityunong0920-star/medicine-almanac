@@ -4,12 +4,16 @@ name: 氯沙坦
 en: Losartan
 category: 心血管
 family: 心血管药物
+formula: C22H23ClN6O
+mol_mass: 422.92
+cas: 114798-26-4
+smiles: "CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1"
 tags: []
 summary: 氯沙坦 (INN:losartan)，以Cozaar（可悦您，中国大陆译为科素亚）等品牌名称于市面上销售，是一种用于治疗高血压的药物。
 kind: auto
 source_title: 氯沙坦
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%AF%E6%B2%99%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

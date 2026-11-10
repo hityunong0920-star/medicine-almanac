@@ -4,12 +4,15 @@ name: 硫糖铝
 en: Sucralfate
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C12H54Al16O75S8
+mol_mass: 2086.68
+cas: 54182-58-0
 tags: []
 summary: 硫糖铝（INN：sucralfate）音译斯克拉非，是蔗糖硫酸酯的碱式铝盐，用于治疗胃溃疡、胃食道逆流、放射性直肠炎、胃炎，以及预防压力性溃疡的药物，但对于幽门螺旋杆菌感染的效果有限。
 kind: auto
 source_title: 硫糖鋁
 source_url: https://zh.wikipedia.org/wiki/%E7%A1%AB%E7%B3%96%E9%8B%81
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

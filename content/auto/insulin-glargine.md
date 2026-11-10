@@ -4,12 +4,15 @@ name: 甘精胰岛素
 en: Insulin glargine
 category: 内分泌
 family: 内分泌药物
+formula: C267N72O78S6
+mol_mass: 5655.72
+cas: 160337-95-1
 tags: []
 summary: 甘精胰岛素以Lantus（兰德仕）等为品牌销售，是一种长效的医用胰岛素类似物，用于治疗第1型糖尿病和第2型糖尿病。
 kind: auto
 source_title: 甘精胰島素
 source_url: https://zh.wikipedia.org/wiki/%E7%94%98%E7%B2%BE%E8%83%B0%E5%B3%B6%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

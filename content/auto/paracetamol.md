@@ -4,12 +4,16 @@ name: 对乙酰氨基酚
 en: Paracetamol
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C8H9NO2
+mol_mass: 151.16
+cas: 103-90-2
+smiles: "CC(=O)Nc1ccc(O)cc1"
 tags: [镇痛, 抗炎]
 summary: 对乙酰-{}-氨基酚（INN：paracetamol），音译扑热息痛，又称乙醯-{}-胺酚（USAN：acetaminophen）是一种常见的乙酰苯胺类（非阿片类）解热镇痛药（antipyreti…
 kind: auto
 source_title: 对乙酰氨基酚
 source_url: https://zh.wikipedia.org/wiki/%E5%AF%B9%E4%B9%99%E9%85%B0%E6%B0%A8%E5%9F%BA%E9%85%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

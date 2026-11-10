@@ -4,12 +4,16 @@ name: 毕索洛尔
 en: Bisoprolol
 category: 心血管
 family: 心血管药物
+formula: C18H31NO4
+mol_mass: 325.45
+cas: 66722-44-9
+smiles: "O(c1ccc(cc1)COCCOC(C)C)CC(O)CNC(C)C"
 tags: [β受体阻滞剂]
 summary: 毕索洛尔（INN：bisoprolol）以Zebeta、Concor（康肯）等商品名于市面上贩售，是一种β受体阻滞剂，对具选择性，用于治疗心血管疾病（包括心跳过速、高血压、心绞痛和心脏衰竭 ）。
 kind: auto
 source_title: 毕索洛尔
 source_url: https://zh.wikipedia.org/wiki/%E6%AF%95%E7%B4%A2%E6%B4%9B%E5%B0%94
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

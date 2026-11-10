@@ -4,12 +4,16 @@ name: 氨苄西林
 en: Ampicillin
 category: 抗感染
 family: 抗感染药物
+formula: C16H19N3O4S
+mol_mass: 349.40
+cas: 69-53-4
+smiles: "CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C"
 tags: [抗生素]
 summary: 氨苄西林是一种抗生素，属于青霉素家族的氨基青霉素类，用于预防和治疗多种细菌感染，如呼吸道感染、泌尿道感染、脑膜炎、沙门氏菌感染症和心内膜炎。
 kind: auto
 source_title: 氨苄西林
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%A8%E8%8B%84%E8%A5%BF%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

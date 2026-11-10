@@ -4,12 +4,16 @@ name: 麻黄碱
 en: Ephedrine
 category: 心血管
 family: 心血管药物
+formula: C10H15NO
+mol_mass: 165.24
+cas: 299-42-3
+smiles: "C[C@@H]([C@@H](C1=CC=CC=C1)O)NC"
 tags: []
 summary: 麻黄碱是一种中枢神经系统 (简称CNS) 兴奋剂，常用于预防麻醉期间出现的低血压。
 kind: auto
 source_title: 麻黃鹼
 source_url: https://zh.wikipedia.org/wiki/%E9%BA%BB%E9%BB%83%E9%B9%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

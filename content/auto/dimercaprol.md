@@ -4,12 +4,16 @@ name: 二巯基丙醇
 en: Dimercaprol
 category: 其他
 family: 其他药物
+formula: C3H8OS2
+mol_mass: 124.22
+cas: 59-52-9
+smiles: "OCC(S)CS"
 tags: [降压]
 summary: 二巯基丙醇，也称为英国抗路易氏剂（，简称BAL)、二巯丙醇、与双硫代甘油，是一种用于治疗急性砷、汞、金和铅中毒的药物。
 kind: auto
 source_title: 二巯基丙醇
 source_url: https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%B7%AF%E5%9F%BA%E4%B8%99%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

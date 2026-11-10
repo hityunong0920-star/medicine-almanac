@@ -4,13 +4,17 @@ name: 噻托溴铵
 en: Tiotropium
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C19H22BrNO4S2
+mol_mass: 472.41
+cas: 136310-93-5
+smiles: "C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C.[Br-]"
 tags: []
 summary: 噻托溴铵（INN:tiotropium bromide），以商品名称"Spiriva"（在台湾有适喘乐的译名）等于市场上销售，是一种长效型支气管扩张药（LAMA：长效型抗胆碱拮抗剂）…
 kind: auto
 brief: true
 source_title: 噻托溴铵
 source_url: https://zh.wikipedia.org/wiki/%E5%99%BB%E6%89%98%E6%BA%B4%E9%93%B5
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

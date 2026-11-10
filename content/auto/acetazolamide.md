@@ -4,12 +4,16 @@ name: 乙酰唑胺
 en: Acetazolamide
 category: 心血管
 family: 心血管药物
+formula: C4H6N4O3S2
+mol_mass: 222.24
+cas: 59-66-5
+smiles: "NS(=O)(=O)c1nnc(s1)NC(=O)C"
 tags: []
 summary: 乙醯唑胺，商品名丹木斯（Diamox），是一种用于治疗青光眼、癫痫、急性高山症、、（原因不明的脑压升高）、心脏衰竭和碱化尿液的药物。
 kind: auto
 source_title: 乙酰唑胺
 source_url: https://zh.wikipedia.org/wiki/%E4%B9%99%E9%85%B0%E5%94%91%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

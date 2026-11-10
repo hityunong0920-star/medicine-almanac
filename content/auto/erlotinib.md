@@ -4,13 +4,17 @@ name: 厄洛替尼
 en: Erlotinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C22H23N3O4
+mol_mass: 393.44
+cas: 183321-74-6
+smiles: "COCCOc1cc2c(cc1OCCOC)ncnc2Nc3cccc(c3)C#C"
 tags: []
 summary: 厄洛替尼以Tarceva（中文译名"得舒缓"或"特罗凯"）等品牌于市面销售，是一种用于治疗（NSCLC）和胰脏癌的药物。
 kind: auto
 brief: true
 source_title: 厄洛替尼
 source_url: https://zh.wikipedia.org/wiki/%E5%8E%84%E6%B4%9B%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

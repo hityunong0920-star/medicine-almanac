@@ -4,13 +4,17 @@ name: 厄贝沙坦
 en: Irbesartan
 category: 心血管
 family: 心血管药物
+formula: C25H28N6O
+mol_mass: 428.54
+cas: 138402-11-6
+smiles: "O=C1N(\C(=N/C12CCCC2)CCCC)Cc5ccc(c3ccccc3c4nnnn4)cc5"
 tags: [ARB]
 summary: 厄贝沙坦（CADN，INN：Irbesartan，）是一种血管紧张素II受体拮抗剂，主要用于高血压的治疗，在中国已被列入国家基本药物目录。
 kind: auto
 brief: true
 source_title: 厄贝沙坦
 source_url: https://zh.wikipedia.org/wiki/%E5%8E%84%E8%B4%9D%E6%B2%99%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

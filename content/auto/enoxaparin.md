@@ -4,13 +4,14 @@ name: 依诺肝素钠
 en: Enoxaparin
 category: 心血管
 family: 心血管药物
+cas: 679809-58-6
 tags: [抗凝]
 summary: 依诺肝素钠，在台湾商品名克立生（Clexane）较为人所知，是一种抗凝剂（抗凝血药），用于治疗和预防深静脉栓塞（DVT）和肺栓塞（PE），也包括在怀孕期间和某些手术后使用。
 kind: auto
 brief: true
 source_title: 依诺肝素钠
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%9D%E8%AF%BA%E8%82%9D%E7%B4%A0%E9%92%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

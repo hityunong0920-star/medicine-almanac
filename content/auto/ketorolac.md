@@ -4,12 +4,16 @@ name: 酮咯酸
 en: Ketorolac
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C15H13NO3
+mol_mass: 255.27
+cas: 74103-06-3
+smiles: "O=C(c1ccc2n1CCC2C(=O)O)c3ccccc3"
 tags: [镇痛]
 summary: 酮咯酸（INN：ketorolac）或音译克多罗多克，以商品名 Toradol、Biorolac 等等销售，是一种用于治疗疼痛的非类固醇类抗发炎药（NSAID），属非选择性环氧合酶抑制剂。
 kind: auto
 source_title: 酮咯酸
 source_url: https://zh.wikipedia.org/wiki/%E9%85%AE%E5%92%AF%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

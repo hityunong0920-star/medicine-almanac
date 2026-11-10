@@ -4,13 +4,17 @@ name: 马拉韦罗
 en: Maraviroc
 category: 抗感染
 family: 抗感染药物
+formula: C29H41F2N5O
+mol_mass: 513.68
+cas: 376348-65-1
+smiles: "Cc5nnc(n5[C@@H]1C[C@H]4CC[C@@H](C1)N4CC[C@H](NC(=O)C2CCC(F)(F)CC2)c3ccccc3)C(C)C"
 tags: []
 summary: 马拉韦罗（INN：maraviroc）, 商品名为Selzentry（美）和Celsentri（欧），是辉瑞公司开发的一种治疗HIV-1感染的口服药，属CCR5受体拮抗剂…
 kind: auto
 brief: true
 source_title: 马拉韦罗
 source_url: https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%8B%89%E9%9F%A6%E7%BD%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

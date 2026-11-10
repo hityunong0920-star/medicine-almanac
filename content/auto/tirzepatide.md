@@ -4,13 +4,16 @@ name: 替尔泊肽
 en: Tirzepatide
 category: 内分泌
 family: 内分泌药物
+formula: C225N48O68
+mol_mass: 4462.74
+cas: 2023788-19-2
 tags: []
 summary: 替尔泊肽，或名替西帕肽是由礼来公司开发的治疗2型糖尿病和肥胖之药物，该药物是葡萄糖依赖性促胰岛素多肽（GIP）和胰高血糖素样肽-1（GLP-1）受体的双重激动剂。
 kind: auto
 brief: true
 source_title: 替尔泊肽
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%BF%E5%B0%94%E6%B3%8A%E8%82%BD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

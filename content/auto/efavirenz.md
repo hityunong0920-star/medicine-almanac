@@ -4,12 +4,16 @@ name: 依法韦仑
 en: Efavirenz
 category: 抗感染
 family: 抗感染药物
+formula: C14H9ClF3NO2
+mol_mass: 315.67
+cas: 154598-52-4
+smiles: "O=C1Nc2ccc(Cl)cc2[C@@](C#CC2CC2)(C(F)(F)F)O1"
 tags: []
 summary: 依法韦仑（，简称EFV） 以Sustiva等品牌于市面贩售，是一种用于治疗和预防爱滋病的抗反转录病毒药物。
 kind: auto
 source_title: 依法韦仑
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%9D%E6%B3%95%E9%9F%A6%E4%BB%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

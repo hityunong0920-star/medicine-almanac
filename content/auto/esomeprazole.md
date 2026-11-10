@@ -4,13 +4,17 @@ name: 埃索美拉唑
 en: Esomeprazole
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C17H19N3O3S
+mol_mass: 345.42
+cas: 119141-88-7
+smiles: "COc1ccc2nc([nH]c2c1)S(=O)Cc1ncc(C)c(OC)c1C"
 tags: []
 summary: 埃索美拉唑（英语：Esomeprazole）是氢离子帮浦阻断剂，商品名为耐适恩（英语：Nexium，又译“耐信”）；由阿斯利康研发并在瑞典上市。
 kind: auto
 brief: true
 source_title: 埃索美拉唑
 source_url: https://zh.wikipedia.org/wiki/%E5%9F%83%E7%B4%A2%E7%BE%8E%E6%8B%89%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

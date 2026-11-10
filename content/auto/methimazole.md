@@ -4,12 +4,16 @@ name: 甲巯咪唑
 en: Methimazole
 category: 内分泌
 family: 内分泌药物
+formula: C4H6N2S
+mol_mass: 114.17
+cas: 60-56-0
+smiles: "Cn1cc[nH]c1=S"
 tags: []
 summary: 甲巯咪唑 (INN:thiamazole，在美国药典则名为methimazole），是一种用于治疗甲状腺功能亢进症的药物。
 kind: auto
 source_title: 甲巰咪唑
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E5%B7%B0%E5%92%AA%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史
@@ -23,6 +27,10 @@ updated: 2026-11-05
 甲巯咪唑不会抑制卵泡细胞上钠依赖性碘转运蛋白的作用，要有像高氯酸盐或是硫氰酸盐等竞争性的抑制剂才能抑制该作用。
 
 甲巯咪唑会作用在CXCL10。
+
+## 合成
+
+甲巯咪唑自1889年起便为人所知，当时是透过以2,2-二乙氧基乙胺（2,2-diethoxyethaneamine）为起始原料的两阶段制程制得，原料先与异硫氰酸甲酯 (methyl isothiocyanate) 进行反应。反应的产物随后在酸催化反应中进行环化 (cyclised)，而形成甲巯咪唑。
 
 ## 今日之用
 

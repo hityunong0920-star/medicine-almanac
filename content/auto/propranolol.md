@@ -4,12 +4,16 @@ name: 普萘洛尔
 en: Propranolol
 category: 心血管
 family: 心血管药物
+formula: C16H21NO2
+mol_mass: 259.35
+cas: 525-66-6
+smiles: "OC(COC1=C2C=CC=CC2=CC=C1)CNC(C)C"
 tags: []
 summary: 普萘洛尔（INN:propranolol）是一种β受体阻滞剂类药物。
 kind: auto
 source_title: 普萘洛尔
 source_url: https://zh.wikipedia.org/wiki/%E6%99%AE%E8%90%98%E6%B4%9B%E5%B0%94
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

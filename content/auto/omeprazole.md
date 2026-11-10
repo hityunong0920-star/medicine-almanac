@@ -4,12 +4,16 @@ name: 奥美拉唑
 en: Omeprazole
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C17H19N3O3S
+mol_mass: 345.42
+cas: 73590-58-6
+smiles: "CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC"
 tags: [质子泵抑制剂]
 summary: 奥美拉唑（INN:omeprazole）是第一个上市的质子泵抑制剂（氢离子帮浦阻断剂），用于治疗胃食道逆流、胃及十二指肠溃疡和（一系列由胃泌素瘤所导致的症状组合）。
 kind: auto
 source_title: 奥美拉唑
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A5%E7%BE%8E%E6%8B%89%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

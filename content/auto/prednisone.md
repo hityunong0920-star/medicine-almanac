@@ -4,12 +4,16 @@ name: 泼尼松
 en: Prednisone
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C21H26O5
+mol_mass: 358.43
+cas: 53-03-2
+smiles: "OCC(=O)C1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(=O)CC12C"
 tags: [免疫抑制, 抗炎]
 summary: 泼尼松又名强的松、去氢可的松，是一种口服的糖皮质激素药物，通常用于抑制免疫系统和减轻炎症的情况，如哮喘、慢性阻塞性肺病和风湿症。
 kind: auto
 source_title: 泼尼松
 source_url: https://zh.wikipedia.org/wiki/%E6%B3%BC%E5%B0%BC%E6%9D%BE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

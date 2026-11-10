@@ -4,12 +4,16 @@ name: 异丙托溴铵
 en: Ipratropium
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C20H30BrNO3
+mol_mass: 412.37
+cas: 22254-24-6
+smiles: "CC(C)[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C.[Br-]"
 tags: []
 summary: 异丙托溴铵（INN：ipratropium bromide），商品名 Atrovent（中文译名有定喘乐，或是爱全乐），属于一种抗胆碱剂，作为支气管扩张药或抑制鼻漏药物。
 kind: auto
 source_title: 異丙托溴銨
 source_url: https://zh.wikipedia.org/wiki/%E7%95%B0%E4%B8%99%E6%89%98%E6%BA%B4%E9%8A%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

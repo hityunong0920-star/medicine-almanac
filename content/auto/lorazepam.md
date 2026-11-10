@@ -4,12 +4,16 @@ name: 劳拉西泮
 en: Lorazepam
 category: 神经精神
 family: 神经精神药物
+formula: C15H10Cl2N2O2
+mol_mass: 321.16
+cas: 846-49-1
+smiles: "O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O"
 tags: []
 summary: 。
 kind: auto
 source_title: 劳拉西泮
 source_url: https://zh.wikipedia.org/wiki/%E5%8A%B3%E6%8B%89%E8%A5%BF%E6%B3%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

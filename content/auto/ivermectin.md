@@ -4,12 +4,13 @@ name: 伊维菌素
 en: Ivermectin
 category: 抗感染
 family: 抗感染药物
+cas: 70288-86-7
 tags: []
 summary: 伊维菌素（INN：ivermectin）常见动物用药商品名 Ivomec（爱获灭），人类用药商品名 Stromectol，是阿维菌素的衍生物，属于阿维菌素家族药物，能有效抗多种寄生虫…
 kind: auto
 source_title: 伊維菌素
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%B6%AD%E8%8F%8C%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

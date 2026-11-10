@@ -4,12 +4,16 @@ name: 依维莫司
 en: Everolimus
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C53H83NO14
+mol_mass: 958.24
+cas: 159351-69-6
+smiles: "OCCO[C@@H]1CC[C@H](C[C@H]1OC)C[C@@H](C)[C@@H]4CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(/C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N3CCCC[C@H]3C(=O)O4"
 tags: []
 summary: 依维莫司（INN:everolimus），以Afinitor（有飞尼妥、癌伏妥等译名）等品牌名称于市场上销售，是一种用作免疫抑制的药物，以预防器官移植后的排斥反应，并作为标靶治疗药物…
 kind: auto
 source_title: 依维莫司
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%9D%E7%BB%B4%E8%8E%AB%E5%8F%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

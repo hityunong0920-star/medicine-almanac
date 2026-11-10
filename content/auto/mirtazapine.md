@@ -4,13 +4,17 @@ name: 米氮平
 en: Mirtazapine
 category: 神经精神
 family: 神经精神药物
+formula: C17H19N3
+mol_mass: 265.36
+cas: 61337-67-5
+smiles: "n1cccc3c1N4C(c2ccccc2C3)CN(C)CC4"
 tags: []
 summary: 米氮平，商品名为乐活忧（港台）/瑞美隆（中国大陆）（Remeron），是一种去甲肾上腺素和特异性5-羟色胺能抗抑郁药（NaSSA），主要用来治疗抑郁症。
 kind: auto
 brief: true
 source_title: 米氮平
 source_url: https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B0%AE%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

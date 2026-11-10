@@ -4,12 +4,16 @@ name: 克拉屈滨
 en: Cladribine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C10H12ClN5O3
+mol_mass: 285.69
+cas: 4291-63-8
+smiles: "Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)C3)CO)N"
 tags: []
 summary: 克拉屈滨（INN：cladribine），商品名有Leustatin等，是一种嘌呤类似物，作为治疗（旧称白血病性网状内皮组织增生病）、B细胞慢性淋巴细胞白血病及多发性硬化症的药物。
 kind: auto
 source_title: 克拉屈濱
 source_url: https://zh.wikipedia.org/wiki/%E5%85%8B%E6%8B%89%E5%B1%88%E6%BF%B1
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

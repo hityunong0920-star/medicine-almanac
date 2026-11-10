@@ -4,13 +4,17 @@ name: 肉碱
 en: Levocarnitine
 category: 营养维生素
 family: 营养维生素药物
+formula: C7H15NO3
+mol_mass: 161.20
+cas: 541-15-1
+smiles: "C[N+](C)(C)CC(CC(=O)[O-])O"
 tags: []
 summary: 肉碱（carnitine），或音译卡尼丁，是一种类氨基酸，属于季铵阳离子复合物，可以透过生物合成方法从赖氨酸及甲硫氨酸两种氨基酸合成产生。
 kind: auto
 brief: true
 source_title: 肉碱
 source_url: https://zh.wikipedia.org/wiki/%E8%82%89%E7%A2%B1
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

@@ -4,12 +4,16 @@ name: 赖诺普利
 en: Lisinopril
 category: 心血管
 family: 心血管药物
+formula: C21H31N3O5
+mol_mass: 405.50
+cas: 83915-83-7
+smiles: "C1CC(N(C1)C(=O)C(CCCCN)NC(CCC2=CC=CC=C2)C(=O)O)C(=O)O"
 tags: []
 summary: 赖诺普利是一种血管张力素转化酶抑制剂（ACE抑制剂）药物，用于治疗高血压、心脏衰竭和心肌梗塞。
 kind: auto
 source_title: 賴諾普利
 source_url: https://zh.wikipedia.org/wiki/%E8%B3%B4%E8%AB%BE%E6%99%AE%E5%88%A9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

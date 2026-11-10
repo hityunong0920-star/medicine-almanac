@@ -4,13 +4,17 @@ name: 茶碱
 en: Theophylline
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C7H8N4O2
+mol_mass: 180.17
+cas: 58-55-9
+smiles: "Cn1c2c(c(=O)n(c1=O)C)[nH]cn2"
 tags: []
 summary: 茶碱是一种化学物质，广泛存在于自然界中的红茶和绿茶中，是一种磷酸二酯酶 (PDE) 抑制剂，可广泛用于治疗呼吸系统疾病。
 kind: auto
 brief: true
 source_title: 茶碱
 source_url: https://zh.wikipedia.org/wiki/%E8%8C%B6%E7%A2%B1
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

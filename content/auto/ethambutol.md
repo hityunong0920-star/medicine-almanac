@@ -4,13 +4,17 @@ name: 乙胺丁醇
 en: Ethambutol
 category: 抗感染
 family: 抗感染药物
+formula: C10H24N2O2
+mol_mass: 204.31
+cas: 74-55-5
+smiles: "CC[C@@H](CO)NCCN[C@@H](CC)CO"
 tags: []
 summary: 乙胺丁醇（INN：ethambutol，EMB）是一种合成的抗生素，作为一线抑菌药物，主要用于治疗结核病，可能通过阻碍RNA合成而抑制结核分枝杆菌的生长，属于目前敏感结核病治疗方案的核心药物。
 kind: auto
 brief: true
 source_title: 乙胺丁醇
 source_url: https://zh.wikipedia.org/wiki/%E4%B9%99%E8%83%BA%E4%B8%81%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

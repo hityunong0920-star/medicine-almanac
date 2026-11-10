@@ -4,13 +4,17 @@ name: 苯磺酸阿曲库铵
 en: Atracurium
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C65H82N2O18S2
+mol_mass: 1243.49
+cas: 64228-81-5
+smiles: "C[N+]1(CCc2cc(c(cc2C1Cc3ccc(c(c3)OC)OC)OC)OC)CCC(=O)OCCCCCOC(=O)CC[N+]4(CCc5cc(c(cc5C4Cc6ccc(c(c6)OC)OC)OC)OC)C.c1ccc(cc1)S(=O)(=O)[O-].c1ccc(cc1)S(=O)(=O)[O-]"
 tags: []
 summary: 苯磺酸阿曲库铵（INN：atracurium besilate，USAN：atracurium besylate ）简称阿曲库铵，是一种非去极化类肌肉松弛剂…
 kind: auto
 brief: true
 source_title: 苯磺酸阿曲庫銨
 source_url: https://zh.wikipedia.org/wiki/%E8%8B%AF%E7%A3%BA%E9%85%B8%E9%98%BF%E6%9B%B2%E5%BA%AB%E9%8A%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

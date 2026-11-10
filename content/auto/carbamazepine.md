@@ -4,12 +4,16 @@ name: 卡马西平
 en: Carbamazepine
 category: 神经精神
 family: 神经精神药物
+formula: C15H12N2O
+mol_mass: 236.27
+cas: 298-46-4
+smiles: "c1ccc2c(c1)C=Cc3ccccc3N2C(=O)N"
 tags: [抗癫痫, 钙通道阻滞剂]
 summary: 卡马西平 （INN：carbamazepine，CBZ），常见商品名 Tegretol（得理多），是一种治疗癫痫和神经性疼痛的。
 kind: auto
 source_title: 卡马西平
 source_url: https://zh.wikipedia.org/wiki/%E5%8D%A1%E9%A9%AC%E8%A5%BF%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

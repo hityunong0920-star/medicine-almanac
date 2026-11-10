@@ -4,12 +4,16 @@ name: 过氧化苯甲酰
 en: Benzoyl peroxide
 category: 皮肤五官
 family: 皮肤五官药物
+formula: C14H10O4
+mol_mass: 242.23
+cas: 94-36-0
+smiles: "c1ccc(cc1)C(=O)OOC(=O)c2ccccc2"
 tags: []
 summary: 过氧化苯甲醯 （INN：benzoyl peroxide，BPO，(BzO)2）属于一种氧化剂（有机过氧化物），用作药物与化学品（如：面粉改良剂）。
 kind: auto
 source_title: 过氧化苯甲酰
 source_url: https://zh.wikipedia.org/wiki/%E8%BF%87%E6%B0%A7%E5%8C%96%E8%8B%AF%E7%94%B2%E9%85%B0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

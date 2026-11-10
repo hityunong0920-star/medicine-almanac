@@ -4,13 +4,17 @@ name: 头孢呋辛
 en: Cefuroxime
 category: 抗感染
 family: 抗感染药物
+formula: C16H16N4O8S
+mol_mass: 424.38
+cas: 55268-75-2
+smiles: "O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)\c3occc3)COC(=O)N)C(=O)O"
 tags: []
 summary: 头孢呋辛是一种第二代头孢类抗生素，用于治疗和预防多种病原细菌感染。
 kind: auto
 brief: true
 source_title: 頭孢呋辛
 source_url: https://zh.wikipedia.org/wiki/%E9%A0%AD%E5%AD%A2%E5%91%8B%E8%BE%9B
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

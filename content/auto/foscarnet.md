@@ -4,13 +4,17 @@ name: 膦甲酸
 en: Foscarnet
 category: 抗感染
 family: 抗感染药物
+formula: CH3O5P
+mol_mass: 126.00
+cas: 4428-95-9
+smiles: "O=C(O)P(=O)(O)O"
 tags: [抗病毒]
 summary: Foscarnet （膦甲酸），商品名Foscavir，是一种抗病毒药物，主要用于治疗疱疹病毒科的病毒感染，属于焦磷酸类似物DNA聚合酶抑制剂。
 kind: auto
 brief: true
 source_title: 膦甲酸
 source_url: https://zh.wikipedia.org/wiki/%E8%86%A6%E7%94%B2%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 氟康唑
 en: Fluconazole
 category: 抗感染
 family: 抗感染药物
+formula: C13H12F2N6O
+mol_mass: 306.28
+cas: 86386-73-4
+smiles: "OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F"
 tags: []
 summary: 氟康唑（INN：fluconazole）又称氟康那唑，属于氟代三唑类抗真菌药，对白念珠菌、犬小孢子菌、新型隐球菌、表皮癣菌及荚膜组织胞浆菌等有强力抗菌活性…
 kind: auto
 source_title: 氟康唑
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%9F%E5%BA%B7%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

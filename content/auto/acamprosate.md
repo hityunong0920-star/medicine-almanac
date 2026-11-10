@@ -4,13 +4,17 @@ name: 阿坎酸
 en: Acamprosate
 category: 神经精神
 family: 神经精神药物
+formula: C5H11NO4S
+mol_mass: 181.21
+cas: 77337-76-9
+smiles: "[Ca+2].O=C(NCCCS(=O)(=O)[O-])C.[O-]S(=O)(=O)CCCNC(=O)C"
 tags: []
 summary: 阿坎酸以Campral及Alglutol（戒酒妥）等品牌销售，是一种与治疗酒精使用疾患（酗酒）咨询合并使用的药物。
 kind: auto
 brief: true
 source_title: 阿坎酸
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%9D%8E%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

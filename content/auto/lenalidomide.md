@@ -4,13 +4,17 @@ name: 来那度胺
 en: Lenalidomide
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C13H13N3O3
+mol_mass: 259.27
+cas: 191732-72-6
+smiles: "O=C1NC(=O)CCC1N3C(=O)c2cccc(c2C3)N"
 tags: []
 summary: 来那度胺以Revlimid（瑞复美）等商品名称出售，是一种用于治疗多发性骨髓瘤、和骨髓增生异常症候群 (MDS) 的药物。
 kind: auto
 brief: true
 source_title: 來那度胺
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%86%E9%82%A3%E5%BA%A6%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,13 +4,24 @@ name: 奥氮平
 en: Olanzapine
 category: 神经精神
 family: 神经精神药物
+formula: C17H20N4S
+mol_mass: 312.44
+cas: 132539-06-1
+smiles: "CN1CCN(CC1)C/2=N/c4ccccc4Nc3sc(C)cc\23"
 tags: []
 summary: 奥氮平 （INN:olanzapine），以Zyprexa等品牌名称于市场上销售，是一种非典型抗精神病药物，主要用于治疗思觉失调症和双向障碍（躁郁症）。
 kind: auto
 source_title: 奥氮平
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%B0%AE%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
+
+## 合成
+
+奥氮平的制备方法最早于1990年代由礼来公司在多项取得的专利文件中揭露。其最后两个步骤为：
+
+首先，在乙醇中以氯化亚锡（stannous chloride）将 5-甲基-2-[(2-硝基苯基)胺基]-3-噻吩甲腈还原，以得到取代的噻吩苯二氮䓬环系。
+然后，将此环系与甲基哌嗪（methylpiperazine）在二甲亚砜（dimethyl sulfoxide）和甲苯的混合溶剂中反应，即可制得此药物。
 
 ## 今日之用
 

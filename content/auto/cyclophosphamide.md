@@ -4,12 +4,16 @@ name: 环磷酰胺
 en: Cyclophosphamide
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C7H15Cl2N2O2P
+mol_mass: 261.08
+cas: 50-18-0
+smiles: "O=P1(OCCCN1)N(CCCl)CCCl"
 tags: []
 summary: 环磷醯胺（INN：cyclophosphamide，CP，CPA，CYC；旧名：cytophosphane）是一种化学疗法药物和免疫抑制剂。
 kind: auto
 source_title: 环磷酰胺
 source_url: https://zh.wikipedia.org/wiki/%E7%8E%AF%E7%A3%B7%E9%85%B0%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

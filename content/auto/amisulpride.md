@@ -4,13 +4,17 @@ name: 氨磺必利
 en: Amisulpride
 category: 神经精神
 family: 神经精神药物
+formula: C17H27N3O4S
+mol_mass: 369.48
+cas: 71675-85-9
+smiles: "O=S(=O)(c1cc(c(OC)cc1N)C(=O)NCC2N(CC)CCC2)CC"
 tags: []
 summary: 氨磺必利（INN：），又译阿米舒必利，它是一种治疗精神分裂症的抗精神病药。
 kind: auto
 brief: true
 source_title: 氨磺必利
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%A8%E7%A3%BA%E5%BF%85%E5%88%A9
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

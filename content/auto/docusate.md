@@ -4,13 +4,17 @@ name: 通利妥
 en: Docusate
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C20H37O7S
+mol_mass: 421.57
+cas: 10041-19-7
+smiles: "CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(O)(=O)=O"
 tags: []
 summary: 多库酯也称为通利妥，是阴离子双(2-乙基己基)磺基琥珀酸盐的常见化学和药物名称，通常也称为磺基琥珀酸二辛酯 (简称DOSS)。
 kind: auto
 brief: true
 source_title: 通利妥
 source_url: https://zh.wikipedia.org/wiki/%E9%80%9A%E5%88%A9%E5%A6%A5
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

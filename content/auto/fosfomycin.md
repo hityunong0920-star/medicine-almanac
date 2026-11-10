@@ -4,12 +4,16 @@ name: 磷霉素
 en: Fosfomycin
 category: 抗感染
 family: 抗感染药物
+formula: C3H7O4P
+mol_mass: 138.06
+cas: 23155-02-4
+smiles: "C[C@H]1[C@H](O1)P(=O)(O)O"
 tags: []
 summary: 磷霉素（INN：fosfomycin）常见商品名 Monurol，由弗氏链霉菌（Streptomyces fradiae）产生而发现，为含磷抗生素，有抑制或杀灭革兰氏阳性和阴性菌的作用…
 kind: auto
 source_title: 磷霉素
 source_url: https://zh.wikipedia.org/wiki/%E7%A3%B7%E9%9C%89%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

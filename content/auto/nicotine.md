@@ -4,13 +4,17 @@ name: 烟碱
 en: Nicotine
 category: 其他
 family: 其他药物
+formula: C10H14N2
+mol_mass: 162.24
+cas: 54-11-5
+smiles: "CN(CCC1)[C@@H]1C2=CC=CN=C2"
 tags: []
 summary: 烟碱又称烟草素，音译尼古丁，是主要从茄科植物烟草中分离得到的吡啶类生物碱，具强效拟副交感神经刺激作用，为香烟的主要化学成分和主要致瘾成分，会使人上瘾或产生依赖性，也属于兴奋剂的一种。
 kind: auto
 brief: true
 source_title: 菸鹼
 source_url: https://zh.wikipedia.org/wiki/%E8%8F%B8%E9%B9%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

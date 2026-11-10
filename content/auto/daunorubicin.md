@@ -4,13 +4,17 @@ name: 道诺霉素
 en: Daunorubicin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C27H29NO10
+mol_mass: 527.53
+cas: 20830-81-3
+smiles: "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)C)O)N)O"
 tags: []
 summary: 道诺霉素（，也可写为daunomycin），是一种用于治疗癌症的化疗药物。
 kind: auto
 brief: true
 source_title: 道諾黴素
 source_url: https://zh.wikipedia.org/wiki/%E9%81%93%E8%AB%BE%E9%BB%B4%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

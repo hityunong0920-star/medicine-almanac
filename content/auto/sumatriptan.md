@@ -4,12 +4,16 @@ name: 舒马曲普坦
 en: Sumatriptan
 category: 神经精神
 family: 神经精神药物
+formula: C14H21N3O2S
+mol_mass: 295.40
+cas: 103628-46-2
+smiles: "O=S(=O)(NC)Cc1cc2c(cc1)[nH]cc2CCN(C)C"
 tags: []
 summary: 舒马曲普坦（INN:sumatriptan），以商品名称Imitrex等于市场上销售。
 kind: auto
 source_title: 舒马曲普坦
 source_url: https://zh.wikipedia.org/wiki/%E8%88%92%E9%A9%AC%E6%9B%B2%E6%99%AE%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

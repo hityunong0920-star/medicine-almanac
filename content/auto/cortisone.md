@@ -4,13 +4,16 @@ name: 可的松
 en: Cortisone
 category: 内分泌
 family: 内分泌药物
+formula: C21H28O5
+mol_mass: 360.45
+cas: 53-06-5
 tags: []
 summary: 可的松（cortisone）又称可体松，俗称皮质素，与皮质醇都属于肾上腺皮质激素之中的糖皮质激素，化学学名：17-羟-11脱氢皮质（甾）酮。
 kind: auto
 brief: true
 source_title: 可的松
 source_url: https://zh.wikipedia.org/wiki/%E5%8F%AF%E7%9A%84%E6%9D%BE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

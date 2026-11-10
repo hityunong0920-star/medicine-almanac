@@ -4,13 +4,17 @@ name: 格拉司琼
 en: Granisetron
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C18H24N4O
+mol_mass: 312.42
+cas: 109889-09-0
+smiles: "CN4[C@@H]1CCC[C@H]4C[C@H](C1)NC(=O)c3nn(C)c2ccccc23"
 tags: []
 summary: 格拉司琼（INN:granisetron）是一种，作止吐剂使用，以治疗化学疗法和放射治疗后出现的恶心和呕吐。
 kind: auto
 brief: true
 source_title: 格拉司瓊
 source_url: https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%8B%89%E5%8F%B8%E7%93%8A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

@@ -4,13 +4,17 @@ name: 哌替啶
 en: Pethidine
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C15H21NO2
+mol_mass: 247.33
+cas: 57-42-1
+smiles: "O=C(C1(CCN(CC1)C)C2=CC=CC=C2)OCC"
 tags: []
 summary: 配西汀（；USAN：），又名-{zh-cn:配西汀; zh-tw:哌替啶; zh-hk:配西汀;}-、美吡利啶、唛啶等；商品名包括杜冷丁／度冷丁（，亦为常见别名）及地美露。
 kind: auto
 brief: true
 source_title: 哌替啶
 source_url: https://zh.wikipedia.org/wiki/%E5%93%8C%E6%9B%BF%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

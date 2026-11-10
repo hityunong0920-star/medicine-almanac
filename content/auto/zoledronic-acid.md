@@ -4,13 +4,17 @@ name: 唑来磷酸
 en: Zoledronic acid
 category: 内分泌
 family: 内分泌药物
+formula: C5H10N2O7P2
+mol_mass: 272.09
+cas: 118072-93-8
+smiles: "O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O"
 tags: []
 summary: 唑来膦酸（INN:zoledronic acid），亦称zoledronate（美国药典（USP）），是一种用于治疗多种的药物。
 kind: auto
 brief: true
 source_title: 唑來磷酸
 source_url: https://zh.wikipedia.org/wiki/%E5%94%91%E4%BE%86%E7%A3%B7%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

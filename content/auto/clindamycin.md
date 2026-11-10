@@ -4,13 +4,17 @@ name: 克林霉素
 en: Clindamycin
 category: 抗感染
 family: 抗感染药物
+formula: C18H33ClN2O5S
+mol_mass: 424.98
+cas: 18323-44-9
+smiles: "Cl[C@@H](C)[C@@H](NC(=O)[C@H]1N(C)C[C@H](CCC)C1)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O"
 tags: [抗生素, 抗疟]
 summary: 克林霉素（INN：clindamycin）是一种林可酰胺类抗生素，用于治疗多种细菌感染，包括骨髓炎或关节感染、盆腔炎、链球菌性咽喉炎、肺炎、急性中耳炎和心内膜炎。
 kind: auto
 brief: true
 source_title: 克林黴素
 source_url: https://zh.wikipedia.org/wiki/%E5%85%8B%E6%9E%97%E9%BB%B4%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,13 +4,17 @@ name: 甲基泼尼松龙
 en: Methylprednisolone
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C22H30O5
+mol_mass: 374.48
+cas: 83-43-2
+smiles: "O=C\1\C=C/[C@]4(/C(=C/1)[C@@H](C)C[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@@H]23)C)C"
 tags: []
 summary: 甲基泼尼松龙（，也称甲基培尼皮质醇，简称甲泼松龙）是一种合成糖皮质素，主要具有抗发炎和免疫抑制的作用。
 kind: auto
 brief: true
 source_title: 甲基泼尼松龙
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E5%9F%BA%E6%B3%BC%E5%B0%BC%E6%9D%BE%E9%BE%99
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

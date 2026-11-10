@@ -4,12 +4,16 @@ name: 多替拉韦
 en: Dolutegravir
 category: 抗感染
 family: 抗感染药物
+formula: C20H19F2N3O5
+mol_mass: 419.38
+cas: 1051375-16-6
+smiles: "C[C@@H]1CCO[C@@H]2N1C(=O)c3c(c(=O)c(cn3C2)C(=O)NCc4ccc(cc4F)F)O"
 tags: []
 summary: 多替拉韦（，简称DTG）以商品名称Tivicay（特威凯）等于市面上销售，是一种抗反转录病毒药物，用途为与其他药物联合，以治疗爱滋病。
 kind: auto
 source_title: 多替拉韦
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%9A%E6%9B%BF%E6%8B%89%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

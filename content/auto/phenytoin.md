@@ -4,12 +4,16 @@ name: 苯妥英
 en: Phenytoin
 category: 神经精神
 family: 神经精神药物
+formula: C15H12N2O2
+mol_mass: 252.27
+cas: 57-41-0
+smiles: "C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3"
 tags: [抗癫痫]
 summary: 苯妥英（INN:phenytoin，简称PHT），以Dilantin（有大仑丁的译名）等品牌名称于市场上销售，是一种。
 kind: auto
 source_title: 苯妥英
 source_url: https://zh.wikipedia.org/wiki/%E8%8B%AF%E5%A6%A5%E8%8B%B1
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

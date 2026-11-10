@@ -4,12 +4,15 @@ name: 贝伐珠单抗
 en: Bevacizumab
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: S44
+mol_mass: 1410.64
+cas: 216974-75-3
 tags: []
 summary: 贝伐珠单抗以Avastin（中文名称有癌思停，或安维汀）商品名于市面销售，是一种单株抗体药物，用于治疗一些类型的癌症和特定的眼部疾病。
 kind: auto
 source_title: 贝伐珠单抗
 source_url: https://zh.wikipedia.org/wiki/%E8%B4%9D%E4%BC%90%E7%8F%A0%E5%8D%95%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

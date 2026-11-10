@@ -4,12 +4,16 @@ name: 加兰他敏
 en: Galantamine
 category: 神经精神
 family: 神经精神药物
+formula: C17H21NO3
+mol_mass: 287.36
+cas: 357-70-0
+smiles: "O(c2c1O[C@H]4C[C@@H](O)/C=C\[C@@]43c1c(cc2)CN(C)CC3)C"
 tags: []
 summary: 加兰他敏（学名：Galantamine；商品名包括Razadyne、Reminyl等），用于治疗轻度至中度阿尔茨海默病和各种其他记忆障碍导致的认知衰退。
 kind: auto
 source_title: 加兰他敏
 source_url: https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%85%B0%E4%BB%96%E6%95%8F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理
@@ -19,6 +23,10 @@ updated: 2026-11-05
 加兰他敏是脑某些区域的人烟碱乙酰胆碱受体（nAChRs）α4β2，α3β4，和α6β4，和鸡/小鼠nAChRsα7/5-HT3的一种有效的变构增效配体。通过与nAChRs的变构位点结合，发生构象变化，从而增加了受体对乙酰胆碱的反应。胆碱能神经元上的烟碱胆碱能受体的这种调节反过来引起乙酰胆碱释放量的增加。加兰他敏在人体的所有部位也起弱竞争性和可逆性胆碱酯酶抑制剂的作用。 通过抑制乙酰胆碱酯酶，它可以增加乙酰胆碱的浓度，从而增加大脑某些部位的乙酰胆碱作用。加兰他敏对nAChRs的影响和互补的乙酰胆碱酯酶抑制作用构成双重作用机制。据推测，这种作用可能减轻阿尔茨海默氏症的某些症状。
 
 纯净形式的加兰他敏是白色粉末。加兰他敏及其靶标乙酰胆碱酯酶的复合物的原子分辨率3D结构是在1999年通过X射线晶体学确定的（PDB代码：1DX6；参见复合物）。没有证据表明加兰他敏会改变潜在的痴呆过程的进程。
+
+## 合成
+
+加兰他敏是从自然资源中获得的，但也有许多工业合成方法。Janssen，Ortho-McNeil Pharmaceutical，Sanochemia Pharmazeutika，Shire和Takeda Pharmaceutical Company等公司都有用于合成加兰他敏的工业流程。
 
 ## 今日之用
 

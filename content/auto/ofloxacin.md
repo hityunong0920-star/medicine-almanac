@@ -4,12 +4,16 @@ name: 氧氟沙星
 en: Ofloxacin
 category: 抗感染
 family: 抗感染药物
+formula: C18H20FN3O4
+mol_mass: 361.37
+cas: 82419-36-1
+smiles: "Fc4cc1c2N(/C=C(\C1=O)C(=O)O)C(COc2c4N3CCN(C)CC3)C"
 tags: [抗生素]
 summary: 氧氟沙星 （INN:ofloxacin）是一种喹诺酮类抗生素，可用于治疗多种细菌感染。
 kind: auto
 source_title: 氧氟沙星
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%A7%E6%B0%9F%E6%B2%99%E6%98%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

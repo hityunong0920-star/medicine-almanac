@@ -4,13 +4,17 @@ name: 阿扎胞苷
 en: Azacitidine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C8H12N4O5
+mol_mass: 244.21
+cas: 320-67-2
+smiles: "O=C1/N=C(\N=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)N"
 tags: []
 summary: 阿扎胞苷（INN：Azacitidine），有时也称为5-阿扎胞苷（5-Azacitidine），商品名维达莎或委丹扎（Vidaza），是一种胞苷（组成DNA与RNA的核苷之一）类似物…
 kind: auto
 brief: true
 source_title: 阿扎胞苷
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%89%8E%E8%83%9E%E8%8B%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

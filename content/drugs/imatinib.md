@@ -5,6 +5,9 @@ en: Imatinib
 alias: 格列卫
 category: 抗肿瘤
 family: BCR-ABL 酪氨酸激酶抑制剂
+formula: C29H31N7O
+mol_mass: 493.60
+cas: 152459-95-5
 year: 2001
 tags: [慢性髓性白血病, 费城染色体, 靶向治疗, 格列卫]
 summary: 第一个"理性设计"的抗癌药：科学家先找到癌细胞的分子开关，再为它量身定做一把钥匙，把致命白血病变成了慢性病。

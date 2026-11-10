@@ -4,12 +4,16 @@ name: 恩替卡韦
 en: Entecavir
 category: 抗感染
 family: 抗感染药物
+formula: C12H15N5O3
+mol_mass: 277.28
+cas: 142217-69-4
+smiles: "C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N"
 tags: []
 summary: 恩替卡韦（INN：entecavir）商品名有博路定（Baraluc）、贝乐克等，是环戊基鸟嘌呤核苷类似物，对B型肝炎病毒的复制和表达有抑制作用，属于一种抗病毒药物。
 kind: auto
 source_title: 恩替卡韦
 source_url: https://zh.wikipedia.org/wiki/%E6%81%A9%E6%9B%BF%E5%8D%A1%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

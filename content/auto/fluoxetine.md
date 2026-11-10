@@ -4,12 +4,16 @@ name: 氟西汀
 en: Fluoxetine
 category: 神经精神
 family: 神经精神药物
+formula: C17H18F3NO
+mol_mass: 309.33
+cas: 54910-89-3
+smiles: "CNCCC(c1ccccc1)Oc2ccc(cc2)C(F)(F)F"
 tags: []
 summary: 氟西汀（INN：fluoxetine），商品名百优解（Prozac），是一种选择性5-羟色胺再摄取抑制剂（SSRI）类抗抑郁药。
 kind: auto
 source_title: 氟西汀
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%9F%E8%A5%BF%E6%B1%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

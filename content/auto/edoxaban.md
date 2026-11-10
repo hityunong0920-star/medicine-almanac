@@ -4,13 +4,17 @@ name: 艾多沙班
 en: Edoxaban
 category: 心血管
 family: 心血管药物
+formula: C24H30ClN7O4S
+mol_mass: 548.06
+cas: 480449-70-5
+smiles: "CN1CCC2=C(C1)SC(=N2)C(=O)N[C@@H]3C[C@H](CC[C@@H]3NC(=O)C(=O)NC4=NC=C(C=C4)Cl)C(=O)N(C)C"
 tags: []
 summary: 艾多沙班（通用名 Edoxaban，商品名 Lixiana，台湾商品名 里先安）是一种口服Xa凝血因子直接抑制剂，作为抗凝剂。
 kind: auto
 brief: true
 source_title: 艾多沙班
 source_url: https://zh.wikipedia.org/wiki/%E8%89%BE%E5%A4%9A%E6%B2%99%E7%8F%AD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

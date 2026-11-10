@@ -4,12 +4,16 @@ name: 尼洛替尼
 en: Nilotinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C28H22F3N7O
+mol_mass: 529.53
+cas: 641571-10-0
+smiles: "Cc1ccc(cc1Nc2nccc(n2)c3cccnc3)C(=O)Nc4cc(cc(c4)n5cc(nc5)C)C(F)(F)F"
 tags: []
 summary: 尼洛替尼（INN:nilotinib），是由瑞士诺华公司研制销售，治疗慢性骨髓性白血病的第二代/新一代标靶药物。
 kind: auto
 source_title: 尼洛替尼
 source_url: https://zh.wikipedia.org/wiki/%E5%B0%BC%E6%B4%9B%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

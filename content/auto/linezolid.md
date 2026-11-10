@@ -4,12 +4,16 @@ name: 利奈唑胺
 en: Linezolid
 category: 抗感染
 family: 抗感染药物
+formula: C16H20FN3O4
+mol_mass: 337.35
+cas: 165800-03-3
+smiles: "O=C1O[C@@H](CNC(=O)C)CN1c3cc(F)c(N2CCOCC2)cc3"
 tags: [抗生素, 抗抑郁]
 summary: 利奈唑胺（INN：linezolid）商品名 Zyvox，为一种人工合成的2-恶唑烷酮类抗生素，其抑制细菌蛋白质合成，主要用于治疗对其他抗生素具有抗药性的需氧革兰氏阳性菌感染…
 kind: auto
 source_title: 利奈唑胺
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E5%A5%88%E5%94%91%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

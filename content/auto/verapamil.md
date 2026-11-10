@@ -4,12 +4,16 @@ name: 维拉帕米
 en: Verapamil
 category: 心血管
 family: 心血管药物
+formula: C27H38N2O4
+mol_mass: 454.61
+cas: 52-53-9
+smiles: "N#CC(c1cc(OC)c(OC)cc1)(CCCN(CCc2ccc(OC)c(OC)c2)C)C(C)C"
 tags: [降压, 钙通道阻滞剂]
 summary: 维拉帕米（INN:verapamil），以多种品牌名称于市场上贩售，是一种钙通道阻滞剂，用于治疗高血压、心绞痛（因流向心脏的血流不足引起的心胸痛）以及室上性心跳过速。
 kind: auto
 source_title: 维拉帕米
 source_url: https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%8B%89%E5%B8%95%E7%B1%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

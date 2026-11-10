@@ -4,12 +4,15 @@ name: 尤斯泰金单抗
 en: Ustekinumab
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S46
+mol_mass: 1474.76
+cas: 815610-63-0
 tags: []
 summary: 尤斯泰金单抗（INN:ustekinumab)，以商品名称Stelara（有喜达诺的译名）等于市场上贩售，是一种单株抗体药物，临床上用于治疗克隆氏症、溃疡性结肠炎、斑块状干癣及干癣性关节炎。
 kind: auto
 source_title: 尤斯泰金單抗
 source_url: https://zh.wikipedia.org/wiki/%E5%B0%A4%E6%96%AF%E6%B3%B0%E9%87%91%E5%96%AE%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

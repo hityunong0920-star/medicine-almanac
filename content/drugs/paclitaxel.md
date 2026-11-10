@@ -5,6 +5,9 @@ en: Paclitaxel
 alias: 泰素
 category: 抗肿瘤
 family: 紫杉烷类微管稳定剂
+formula: C47H51NO14
+mol_mass: 853.91
+cas: 33069-62-4
 year: 1971
 tags: [红豆杉, 微管, 卵巢癌, 植物筛选]
 summary: 从太平洋紫杉树皮里找到的抗癌分子，曾让"砍树还是救人"成为一道艰难的选择题。

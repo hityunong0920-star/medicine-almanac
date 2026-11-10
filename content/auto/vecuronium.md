@@ -4,12 +4,16 @@ name: 维库溴铵
 en: Vecuronium
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C34H57BrN2O4
+mol_mass: 637.74
+cas: 50700-72-6
+smiles: "CC(=O)O[C@H]1C[C@@H]2CC[C@@H]3[C@@H]([C@]2(C[C@@H]1N4CCCCC4)C)CC[C@]5([C@H]3C[C@@H]([C@@H]5OC(=O)C)[N+]6(CCCCC6)C)C.[Br-]"
 tags: []
 summary: 维库溴铵（INN:vecuronium bromide），以Norcuron等商品名称于市场上贩售，是一种在进行全身麻醉过程中使用的药物，用于外科手术或是机械换气期间，让骨骼肌松弛。
 kind: auto
 source_title: 維庫溴銨
 source_url: https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%BA%AB%E6%BA%B4%E9%8A%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

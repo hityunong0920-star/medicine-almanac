@@ -4,12 +4,16 @@ name: 乙胺嘧啶
 en: Pyrimethamine
 category: 抗感染
 family: 抗感染药物
+formula: C12H13ClN4
+mol_mass: 248.71
+cas: 58-14-0
+smiles: "Clc2ccc(c1c(nc(nc1CC)N)N)cc2"
 tags: [抗疟]
 summary: 乙胺嘧啶 (INN:pyrimethamine)，以Daraprim等品牌名称于市场上销售，是一种与亚叶酸并用的药物（亚叶酸的作用是减少乙胺嘧啶的副作用，其本身并不具备抗寄生虫活性）…
 kind: auto
 source_title: 乙胺嘧啶
 source_url: https://zh.wikipedia.org/wiki/%E4%B9%99%E8%83%BA%E5%98%A7%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 伊布替尼
 en: Ibrutinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C25H24N6O2
+mol_mass: 440.51
+cas: 936563-96-1
+smiles: "C=CC(=O)N1CCC[C@H](C1)N2C3=C(C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)C(=NC=N3)N"
 tags: []
 summary: 依布替尼（INN：ibrutinib），商品名 Imbruvica，是一种小分子，可通过不可逆地结合 (BTK) 进而抑制B细胞的增殖和存活。
 kind: auto
 source_title: 伊布替尼
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%B8%83%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

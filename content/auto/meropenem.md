@@ -4,12 +4,16 @@ name: 美罗培南
 en: Meropenem
 category: 抗感染
 family: 抗感染药物
+formula: C17H25N3O5S
+mol_mass: 383.46
+cas: 119478-56-7
+smiles: "O=C3N2\C(=C(\S[C@H]1C[C@@H](C(=O)N(C)C)NC1)[C@H](C)[C@@H]2[C@H]3[C@H](O)C)C(=O)O"
 tags: [抗生素]
 summary: 美洛培南 (INN:meropenem)，以品牌名称Merrem等于市面上销售，是一种经由静脉注射给药的碳青霉烯类抗生素，用于治疗多种病原细菌感染。
 kind: auto
 source_title: 美羅培南
 source_url: https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%BE%85%E5%9F%B9%E5%8D%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

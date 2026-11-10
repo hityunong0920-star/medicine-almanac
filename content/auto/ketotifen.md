@@ -4,13 +4,17 @@ name: 酮替酚
 en: Ketotifen
 category: 皮肤五官
 family: 皮肤五官药物
+formula: C19H19NOS
+mol_mass: 309.43
+cas: 34580-14-8
+smiles: "O=C3c1sccc1C(\c2c(cccc2)C3)=C4/CCN(C)CC4"
 tags: []
 summary: 酮替酚，商品名包括Zaditor等，是第一代非竞争性H1抗组胺药和肥大细胞稳定剂，常见的酮替酚药物一般为其富马酸盐（富马酸酮替酚）。
 kind: auto
 brief: true
 source_title: 酮替酚
 source_url: https://zh.wikipedia.org/wiki/%E9%85%AE%E6%9B%BF%E9%85%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

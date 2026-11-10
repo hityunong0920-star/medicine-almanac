@@ -4,13 +4,17 @@ name: 卡培他滨
 en: Capecitabine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C15H22FN3O6
+mol_mass: 359.35
+cas: 154361-50-9
+smiles: "FC=1\C(=N/C(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)C)\NC(=O)OCCCCC"
 tags: []
 summary: 卡培他滨 以Xeloda（截瘤达）等商品名称于市面销售，是一种用于治疗乳癌、胃癌和大肠癌的化疗药物。
 kind: auto
 brief: true
 source_title: 卡培他滨
 source_url: https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%9F%B9%E4%BB%96%E6%BB%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,13 +4,17 @@ name: 丁螺环酮
 en: Buspirone
 category: 神经精神
 family: 神经精神药物
+formula: C21H31N5O2
+mol_mass: 385.51
+cas: 36505-84-7
+smiles: "O=C1N(C(=O)CC2(C1)CCCC2)CCCCN4CCN(c3ncccn3)CC4"
 tags: []
 summary: 丁螺环酮(Buspirone；8-[4-[4-(2-pyrimidinyl)-1- piperazinyl]butyl]-8-aza- spiro[4.5]decane-7,9- dione mo…
 kind: auto
 brief: true
 source_title: 丁螺環酮
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%81%E8%9E%BA%E7%92%B0%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

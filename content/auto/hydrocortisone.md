@@ -4,13 +4,17 @@ name: 氢羟肾上腺皮质素
 en: Hydrocortisone
 category: 内分泌
 family: 内分泌药物
+formula: C21H30O5
+mol_mass: 362.47
+cas: 50-23-7
+smiles: "O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)CC[C@H]3[C@@H]1CC2)C)(C)CC4"
 tags: []
 summary: 氢羟肾上腺皮质素（INN:hydrocortisone），又称氢化皮质酮或氢化可体松，是皮质醇作为药物使用时的名称。
 kind: auto
 brief: true
 source_title: 氫羥腎上腺皮質素
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%AB%E7%BE%A5%E8%85%8E%E4%B8%8A%E8%85%BA%E7%9A%AE%E8%B3%AA%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

@@ -4,13 +4,16 @@ name: 特立帕肽
 en: Teriparatide
 category: 内分泌
 family: 内分泌药物
+formula: C181H291N55O51S2
+mol_mass: 4117.72
+cas: 52232-67-4
 tags: []
 summary: 特立帕肽（通用名：teriparatide，商品名：Forteo）为一种重组的人类甲状旁腺激素活性片段，具有诱导成骨细胞活性和增加新骨形成的作用，用于治疗骨质疏松。
 kind: auto
 brief: true
 source_title: 特立帕肽
 source_url: https://zh.wikipedia.org/wiki/%E7%89%B9%E7%AB%8B%E5%B8%95%E8%82%BD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

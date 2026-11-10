@@ -4,13 +4,17 @@ name: 奥曲肽
 en: Octreotide
 category: 内分泌
 family: 内分泌药物
+formula: C49H66N10O10S2
+mol_mass: 1019.25
+cas: 83150-76-9
+smiles: "C[C@H]([C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccccc4)NC(=O)[C@@H](Cc5ccccc5)N)C(=O)N[C@H](CO)[C@@H](C)O)O"
 tags: [镇痛]
 summary: 奥曲肽（INN：octreotide）商品名 Sandostatin（善宁，善得定），是一种人工合成的生长抑素胜肽，为八肽环状化合物（生长抑素八肽类似物），具有与天然内源性生长抑素类似的作用。
 kind: auto
 brief: true
 source_title: 奧曲肽
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%9B%B2%E8%82%BD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,16 @@ name: 阿那白滞素
 en: Anakinra
 category: 免疫风湿
 family: 免疫风湿药物
+formula: N208O232S10
+mol_mass: 6945.82
+cas: 143090-92-0
 tags: []
 summary: 阿那白滞素（INN：anakinra）商品名Kineret，是一种白介素-1信号传递抑制剂或IL-1受体拮抗剂（IL-1Ra），用于治疗类风湿性关节炎、、、成人史迪尔氏病，属于一种生物制药。
 kind: auto
 brief: true
 source_title: 阿那白滯素
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%82%A3%E7%99%BD%E6%BB%AF%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,14 +4,24 @@ name: 灰黄霉素
 en: Griseofulvin
 category: 抗感染
 family: 抗感染药物
+formula: C17H17ClO6
+mol_mass: 352.77
+cas: 126-07-8
+smiles: "O=C2c3c(O[C@@]21C(/OC)=C\C(=O)C[C@H]1C)c(Cl)c(OC)cc3OC"
 tags: []
 summary: 灰黄霉素（INN:griseofulvin）是一种抗真菌药，用于治疗多种皮癣菌病。
 kind: auto
 brief: true
 source_title: 灰黃黴素
 source_url: https://zh.wikipedia.org/wiki/%E7%81%B0%E9%BB%83%E9%BB%B4%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
+
+## 合成
+
+灰黄霉素是通过发酵灰黄青霉菌属来进行大量生产。
+
+首先是灰黄青霉菌属利用聚酮化合物合成酶（PKS）合成14碳聚酮链。接著，此链经环化和芳香化形成二苯基甲酮中间体，再经两次甲基化生成灰黄酮C。灰黄酮C经卤化、酚氧化和自由基偶联，最终形成灰黄霉素。
 
 ## 今日之用
 

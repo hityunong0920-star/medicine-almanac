@@ -4,12 +4,16 @@ name: 米索前列醇
 en: Misoprostol
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C22H38O5
+mol_mass: 382.54
+cas: 59122-46-2
+smiles: "CCCC[C@](C)(O)C/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC"
 tags: []
 summary: 米索前列醇（INN:misoprostol）是一种合成前列腺素药物，用于预防和治疗胃溃疡、引产、堕胎，以及治疗因子宫收缩不良而引起的产后出血。
 kind: auto
 source_title: 米索前列醇
 source_url: https://zh.wikipedia.org/wiki/%E7%B1%B3%E7%B4%A2%E5%89%8D%E5%88%97%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

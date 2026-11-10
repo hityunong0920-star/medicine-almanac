@@ -4,12 +4,16 @@ name: 吉西他滨
 en: Gemcitabine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C9H11F2N3O4
+mol_mass: 263.20
+cas: 95058-81-4
+smiles: "c1cn(c(=O)nc1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F"
 tags: []
 summary: 吉西他滨 (INN：gemcitabine）商品名有 Gemzar 等，是一种阿糖胞苷类似物，作为抗嘧啶核苷酸代谢的化疗药物，用于治疗睪丸癌、乳癌、卵巢癌、、胰脏癌和膀胱癌[。
 kind: auto
 source_title: 吉西他滨
 source_url: https://zh.wikipedia.org/wiki/%E5%90%89%E8%A5%BF%E4%BB%96%E6%BB%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 吡哆醇
 en: Pyridoxine
 category: 营养维生素
 family: 营养维生素药物
+formula: C8H11NO3
+mol_mass: 169.18
+cas: 65-23-6
+smiles: "OCc1cnc(C)c(O)c1CO"
 tags: []
 summary: 吡哆醇（INN：pyridoxine, PN）是维生素B6的一种形式，常见于食物中，并被用作膳食补充剂。
 kind: auto
 source_title: 吡哆醇
 source_url: https://zh.wikipedia.org/wiki/%E5%90%A1%E5%93%86%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 苏沃雷生
 en: Suvorexant
 category: 神经精神
 family: 神经精神药物
+formula: C23H23ClN6O2
+mol_mass: 450.93
+cas: 1030377-33-3
+smiles: "C[C@@H]1CCN(CCN1C(=O)C2=C(C=CC(=C2)C)N3N=CC=N3)C4=NC5=C(O4)C=CC(=C5)Cl"
 tags: []
 summary: 苏沃雷生（Suvorexant），品牌名Belsomra，是一种，被用于治疗失眠症，主要用于入睡或睡眠维持困难的成年患者的治疗。
 kind: auto
 source_title: 苏沃雷生
 source_url: https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%B2%83%E9%9B%B7%E7%94%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

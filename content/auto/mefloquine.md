@@ -4,12 +4,16 @@ name: 美尔奎宁
 en: Mefloquine
 category: 抗感染
 family: 抗感染药物
+formula: C17H16F6N2O
+mol_mass: 378.32
+cas: 53230-10-7
+smiles: "FC(F)(F)c2cccc1c(cc(nc12)C(F)(F)F)[C@H](O)[C@@H]3NCCCC3"
 tags: []
 summary: 美尔奎宁 (INN:mefloquine，中国称甲氟喹)，以Lariam等品牌名称于市场上贩售，是一种用于预防或治疗疟疾的药物。
 kind: auto
 source_title: 美爾奎寧
 source_url: https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%88%BE%E5%A5%8E%E5%AF%A7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

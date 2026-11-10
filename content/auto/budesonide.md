@@ -4,13 +4,17 @@ name: 布地奈德
 en: Budesonide
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C25H34O6
+mol_mass: 430.54
+cas: 51333-22-3
+smiles: "CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C"
 tags: []
 summary: 布地奈德 （，也称为可灭喘），以Pulmicort ("普米克") 等品牌名称于市面销售，是一种糖皮质素药物。
 kind: auto
 brief: true
 source_title: 布地奈德
 source_url: https://zh.wikipedia.org/wiki/%E5%B8%83%E5%9C%B0%E5%A5%88%E5%BE%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

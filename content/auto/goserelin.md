@@ -4,13 +4,17 @@ name: 戈舍瑞林
 en: Goserelin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C59H84N18O14
+mol_mass: 1269.43
+cas: 65807-02-5
+smiles: "CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O"
 tags: []
 summary: 戈舍瑞林（INN：goserelin），商品名诺雷德（Zoladex），是一种性激素（睾酮和雌二醇）合成抑制剂，通过抑制脑垂体合成促黄体生成素，来降低血清中睾酮（男）或雌二醇（女）含量…
 kind: auto
 brief: true
 source_title: 戈舍瑞林
 source_url: https://zh.wikipedia.org/wiki/%E6%88%88%E8%88%8D%E7%91%9E%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

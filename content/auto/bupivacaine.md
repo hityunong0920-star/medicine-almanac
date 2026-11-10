@@ -4,12 +4,16 @@ name: 布比卡因
 en: Bupivacaine
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C18H28N2O
+mol_mass: 288.44
+cas: 38396-39-3
+smiles: "O=C(C1N(CCCC1)CCCC)NC2=C(C)C=CC=C2C"
 tags: []
 summary: 布比卡因（INN：bupivacaine）商品名Marcaine，是一种强效和长效的酰胺类局部麻醉药，可降低人体特定小区域知觉。
 kind: auto
 source_title: 布比卡因
 source_url: https://zh.wikipedia.org/wiki/%E5%B8%83%E6%AF%94%E5%8D%A1%E5%9B%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

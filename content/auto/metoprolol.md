@@ -4,12 +4,16 @@ name: 美托洛尔
 en: Metoprolol
 category: 心血管
 family: 心血管药物
+formula: C15H25NO3
+mol_mass: 267.37
+cas: 51384-51-1
+smiles: "O(c1ccc(cc1)CCOC)CC(O)CNC(C)C"
 tags: [β受体阻滞剂]
 summary: 美托洛尔（INN：metoprolol）又称美托普洛，旧名美多心安，是一种选择性的β1-受体阻断剂，用于治疗高血压、心绞痛，还有一些与心搏过速有关的病征（室上性心动过速、室性心律失常等）。
 kind: auto
 source_title: 美托洛尔
 source_url: https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%89%98%E6%B4%9B%E5%B0%94
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,13 +4,17 @@ name: 碘化钾
 en: Potassium iodide
 category: 内分泌
 family: 内分泌药物
+formula: H2
+mol_mass: 2.02
+cas: 7681-11-0
+smiles: "[K+].[I-]"
 tags: []
 summary: 碘化钾 (INN:potassium iodide) 的化学式是KI，是一种化合物、药物和膳食补充剂。
 kind: auto
 brief: true
 source_title: 碘化钾
 source_url: https://zh.wikipedia.org/wiki/%E7%A2%98%E5%8C%96%E9%92%BE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

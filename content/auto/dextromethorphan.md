@@ -4,13 +4,17 @@ name: 右美沙芬
 en: Dextromethorphan
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C18H25NO
+mol_mass: 271.40
+cas: 125-71-3
+smiles: "CN1CC[C@@]23CCCC[C@@H]2[C@@H]1Cc4c3cc(cc4)OC"
 tags: [抗抑郁]
 summary: 右美沙芬（INN：dextromethorphan，DXM，DM）又名右甲吗喃，是一种镇咳药物，它的氢溴酸盐（dextromethorphan hydrobromide）常用于药品中。
 kind: auto
 brief: true
 source_title: 右美沙芬
 source_url: https://zh.wikipedia.org/wiki/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%AC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

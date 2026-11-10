@@ -4,12 +4,16 @@ name: 安非他酮
 en: Bupropion
 category: 神经精神
 family: 神经精神药物
+formula: C13H18ClNO
+mol_mass: 239.74
+cas: 34841-39-9
+smiles: "O=C(C(C)NC(C)(C)C)C1=CC=CC(Cl)=C1"
 tags: []
 summary: 安非他酮（国际非专利药品名称：，旧名：amfebutamone） 或盐酸安非他酮，商品名威博隽（Wellbutrin），是一种主要作为抗抑郁药和戒烟药使用的药物…
 kind: auto
 source_title: 安非他酮
 source_url: https://zh.wikipedia.org/wiki/%E5%AE%89%E9%9D%9E%E4%BB%96%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

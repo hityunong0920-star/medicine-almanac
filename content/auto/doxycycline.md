@@ -4,12 +4,16 @@ name: 多西环素
 en: Doxycycline
 category: 抗感染
 family: 抗感染药物
+formula: C22H24N2O8
+mol_mass: 444.44
+cas: 564-25-0
+smiles: "CN(C)[C@@H]3C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C2/C(=O)c1c(cccc1O)[C@H](C)[C@H]2[C@H](O)[C@@H]34"
 tags: [抗生素, 抗疟]
 summary: 独克士霉素（INN:doxycycline，也称为多喜霉素、强力霉素、伟霸霉素、脱氧土霉素或去氧土霉素）是种，用于治疗病原细菌和某些寄生虫的感染 - 如细菌性肺炎、痤疮、披衣菌感染、莱姆病、霍乱…
 kind: auto
 source_title: 多西环素
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%9A%E8%A5%BF%E7%8E%AF%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 左炔诺孕酮
 en: Levonorgestrel
 category: 其他
 family: 其他药物
+formula: C21H28O2
+mol_mass: 312.45
+cas: 797-63-7
+smiles: "CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34"
 tags: []
 summary: 左炔诺孕酮（INN:levonorgestrel）是一种激素药物，广泛应用于多种避孕方式中。
 kind: auto
 source_title: 左炔诺孕酮
 source_url: https://zh.wikipedia.org/wiki/%E5%B7%A6%E7%82%94%E8%AF%BA%E5%AD%95%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

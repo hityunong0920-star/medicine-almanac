@@ -4,13 +4,17 @@ name: 环丝氨酸
 en: Cycloserine
 category: 抗感染
 family: 抗感染药物
+formula: C3H6N2O2
+mol_mass: 102.09
+cas: 68-41-7
+smiles: "O=C1NOC[C@H]1N"
 tags: [抗生素]
 summary: 环丝氨酸，以商品名Seromycin出售，是一种用于治疗结核病的γ-氨基丁酸转氨酶抑制剂和抗生素。
 kind: auto
 brief: true
 source_title: 环丝氨酸
 source_url: https://zh.wikipedia.org/wiki/%E7%8E%AF%E4%B8%9D%E6%B0%A8%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

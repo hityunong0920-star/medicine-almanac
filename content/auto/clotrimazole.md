@@ -4,12 +4,16 @@ name: 克霉唑
 en: Clotrimazole
 category: 抗感染
 family: 抗感染药物
+formula: C22H17ClN2
+mol_mass: 344.84
+cas: 23593-75-1
+smiles: "Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4"
 tags: []
 summary: 克霉唑（INN：clotrimazole）或克氯霉唑、克催玛汝，是一种合成的吡咯类广谱抗真菌药。
 kind: auto
 source_title: 克霉唑
 source_url: https://zh.wikipedia.org/wiki/%E5%85%8B%E9%9C%89%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

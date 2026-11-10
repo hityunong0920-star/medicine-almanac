@@ -4,13 +4,16 @@ name: 阿巴西普
 en: Abatacept
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S32
+mol_mass: 1025.92
+cas: 332348-12-6
 tags: []
 summary: 阿巴西普，商品名为恩瑞舒是一种治疗类风湿性关节炎、幼年特发性关节炎以及干癣性关节炎的药物。
 kind: auto
 brief: true
 source_title: 阿巴西普
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B7%B4%E8%A5%BF%E6%99%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

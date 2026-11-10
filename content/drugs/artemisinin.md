@@ -5,6 +5,9 @@ en: Artemisinin
 alias: 黄花蒿素
 category: 抗感染
 family: 青蒿素类抗疟药
+formula: C15H22O5
+mol_mass: 282.33
+cas: 63968-64-9
 year: 1972
 tags: [屠呦呦, 523项目, 疟疾, 过氧桥, 诺贝尔奖]
 summary: 一句晋代古方里的"青蒿一握，绞取汁"，让中国科学家绕开高温提取的死路，找到了拯救数百万人的抗疟新药。

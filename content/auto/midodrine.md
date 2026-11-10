@@ -4,13 +4,17 @@ name: 迈妥林
 en: Midodrine
 category: 心血管
 family: 心血管药物
+formula: C12H18N2O4
+mol_mass: 254.29
+cas: 42794-76-3
+smiles: "O=C(NCC(O)c1cc(OC)ccc1OC)CN"
 tags: []
 summary: 迈妥林（Midodrine）是血管加压/抗低血压药物，在1996年被美国食品药品监督管理局（FDA）批准用于治疗自主神经功能障碍和姿位性低血压。
 kind: auto
 brief: true
 source_title: 邁妥林
 source_url: https://zh.wikipedia.org/wiki/%E9%82%81%E5%A6%A5%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

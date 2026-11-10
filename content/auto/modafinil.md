@@ -4,12 +4,16 @@ name: 莫达非尼
 en: Modafinil
 category: 神经精神
 family: 神经精神药物
+formula: C15H15NO2S
+mol_mass: 273.35
+cas: 68693-11-8
+smiles: "NC(=O)CS(=O)C(C1=CC=CC=C1)C1=CC=CC=C1"
 tags: [抗肿瘤]
 summary: 莫达非尼（英文名Modafinil）是一种，被用于对发作性嗜睡病、轮班工作睡眠紊乱以及与阻塞性睡眠呼吸暂停相关的等紊乱症的治疗。
 kind: auto
 source_title: 莫达非尼
 source_url: https://zh.wikipedia.org/wiki/%E8%8E%AB%E8%BE%BE%E9%9D%9E%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

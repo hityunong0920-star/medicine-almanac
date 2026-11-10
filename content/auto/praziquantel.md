@@ -4,12 +4,16 @@ name: 吡喹酮
 en: Praziquantel
 category: 抗感染
 family: 抗感染药物
+formula: C19H24N2O2
+mol_mass: 312.41
+cas: 55268-74-1
+smiles: "O=C4N2C(c1c(cccc1)CC2)CN(C(=O)C3CCCCC3)C4"
 tags: []
 summary: 吡喹酮（INN：praziquantel）常见商品名有 Biltricide、Pyquiton等，是一种广谱抗蠕虫药，用于治疗哺乳动物、鸟类、两栖动物、爬行动物和鱼类中多种蠕虫病感染。
 kind: auto
 source_title: 吡喹酮
 source_url: https://zh.wikipedia.org/wiki/%E5%90%A1%E5%96%B9%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

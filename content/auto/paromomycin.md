@@ -4,12 +4,16 @@ name: 巴龙霉素
 en: Paromomycin
 category: 抗感染
 family: 抗感染药物
+formula: C23H47N5O18S
+mol_mass: 713.71
+cas: 1263-89-4
+smiles: "O=S(=O)(O)O.O([C@H]3[C@H](O[C@@H]2O[C@H](CO)[C@@H](O[C@H]1O[C@@H](CN)[C@@H](O)[C@H](O)[C@H]1N)[C@H]2O)[C@@H](O)[C@H](N)C[C@@H]3N)[C@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4N)CO"
 tags: [抗生素]
 summary: 巴龙霉素（INN:paromomycin）是一种抗微生物药物，用于治疗多种寄生虫感染，包括阿米巴病、梨形鞭毛虫病、利什曼病和多节绦虫亚纲感染。
 kind: auto
 source_title: 巴龙霉素
 source_url: https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%BE%99%E9%9C%89%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,15 @@ name: 司美格鲁肽
 en: Semaglutide
 category: 内分泌
 family: 内分泌药物
+formula: C187H291N45O59
+mol_mass: 4113.64
+cas: 910463-68-2
 tags: [降糖]
 summary: 贩售的3毫升（ml）胰妥赞®司美格鲁肽注射剂预填充注射笔（每1ml注射液含1.34毫克（mg）司美格鲁肽）。
 kind: auto
 source_title: 司美格鲁肽
 source_url: https://zh.wikipedia.org/wiki/%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

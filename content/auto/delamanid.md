@@ -4,13 +4,17 @@ name: 德拉马尼
 en: Delamanid
 category: 抗感染
 family: 抗感染药物
+formula: C25H25F3N4O6
+mol_mass: 534.49
+cas: 681492-22-8
+smiles: "FC(F)(F)Oc5ccc(OC4CCN(c3ccc(OC[C@@]2(Oc1nc(cn1C2)[N+]([O-])=O)C)cc3)CC4)cc5"
 tags: [抗生素]
 summary: 德拉马尼 （INN：delamanid）以Deltyba品牌在市面贩售，是一种用于治疗结核病的药物。
 kind: auto
 brief: true
 source_title: 德拉馬尼
 source_url: https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%8B%89%E9%A6%AC%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

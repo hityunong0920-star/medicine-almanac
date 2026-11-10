@@ -4,13 +4,17 @@ name: 奥希替尼
 en: Osimertinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C28H33N7O2
+mol_mass: 499.62
+cas: 1421373-65-0
+smiles: "CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC"
 tags: []
 summary: 奥希替尼 （，又名奥沙替尼） 是一种用于治疗非小细胞肺癌的小分子靶向抗肿瘤药物， 它由阿斯利康公司开发，为第三代表皮生长因子受体抑制剂。
 kind: auto
 brief: true
 source_title: 奥希替尼
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B8%8C%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

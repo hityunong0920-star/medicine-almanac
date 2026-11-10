@@ -4,12 +4,16 @@ name: 琥珀胆碱
 en: Succinylcholine
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C14H30Cl2N2O4
+mol_mass: 361.30
+cas: 306-40-1
+smiles: "[Cl-].[Cl-].O=C(OCC[N+](C)(C)C)CCC(=O)OCC[N+](C)(C)C"
 tags: []
 summary: 氯化琥珀胆碱（INN:suxamethonium chloride），商品名称有Scoline与Sucostrin等，亦称为琥珀胆碱（美国药典名称:Suxamethonium…
 kind: auto
 source_title: 琥珀胆碱
 source_url: https://zh.wikipedia.org/wiki/%E7%90%A5%E7%8F%80%E8%83%86%E7%A2%B1
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 阿奇霉素
 en: Azithromycin
 category: 抗感染
 family: 抗感染药物
+formula: C38H72N2O12
+mol_mass: 749.00
+cas: 83905-01-5
+smiles: "CN(C)[C@H]3C[C@@H](C)O[C@@H](O[C@@H]2[C@@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@@H](C)C(=O)O[C@H](CC)[C@@](C)(O)[C@H](O)[C@@H](C)N(C)C[C@H](C)C[C@@]2(C)O)[C@@H]3O"
 tags: []
 summary: 阿奇霉素（INN：azithromycin）另译阿红霉素、阿齐红霉素及亚兹索霉素，以 Zithromax（希舒美，口服形式）和 Azasite（眼药水形式）等商品名称于市面销售…
 kind: auto
 source_title: 阿奇霉素
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

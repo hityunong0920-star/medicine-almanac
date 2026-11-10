@@ -4,12 +4,16 @@ name: 氯吡格雷
 en: Clopidogrel
 category: 心血管
 family: 心血管药物
+formula: C16H16ClNO2S
+mol_mass: 321.82
+cas: 113665-84-2
+smiles: "COC(=O)[C@H](c1ccccc1Cl)N2CCc3c(ccs3)C2"
 tags: []
 summary: 氯吡格雷（INN：clopidogrel）商品名为波立维（中国大陆）、保栓通（台湾，Plavix），是一种（抗血小板聚集剂），用于降低高风险族群在心血管疾病和中风发病的风险。
 kind: auto
 source_title: 氯吡格雷
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%AF%E5%90%A1%E6%A0%BC%E9%9B%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,13 +4,17 @@ name: 甲苯咪唑
 en: Mebendazole
 category: 抗感染
 family: 抗感染药物
+formula: C16H13N3O3
+mol_mass: 295.30
+cas: 31431-39-7
+smiles: "COC(=O)Nc3nc2ccc(C(=O)c1ccccc1)cc2[nH]3"
 tags: []
 summary: 甲苯咪唑（英语：Mebendazole，简称MBZ），又名安乐士、美鞭达唑，为治疗多种寄生虫感染的指定用药。
 kind: auto
 brief: true
 source_title: 甲苯咪唑
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E8%8B%AF%E5%92%AA%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

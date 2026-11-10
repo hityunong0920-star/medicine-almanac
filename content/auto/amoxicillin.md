@@ -4,12 +4,16 @@ name: 阿莫西林
 en: Amoxicillin
 category: 抗感染
 family: 抗感染药物
+formula: C16H19N3O5S
+mol_mass: 365.40
+cas: 26787-78-0
+smiles: "O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccc(O)cc1)N)[C@H]3SC2(C)C"
 tags: [抗生素]
 summary: 阿莫西林（INN:amoxicillin）是一种抗生素药物，属于青霉素家族的氨基青霉素类，用于治疗细菌感染，如中耳炎、链球菌性咽炎、肺炎、皮肤感染、和泌尿道感染。
 kind: auto
 source_title: 阿莫西林
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E8%8E%AB%E8%A5%BF%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

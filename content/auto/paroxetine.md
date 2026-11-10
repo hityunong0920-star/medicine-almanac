@@ -4,13 +4,17 @@ name: 帕罗西汀
 en: Paroxetine
 category: 神经精神
 family: 神经精神药物
+formula: C19H20FNO3
+mol_mass: 329.37
+cas: 61869-08-7
+smiles: "Fc1ccc(cc1)[C@@H]1CCNC[C@H]1COc1ccc2OCOc2c1"
 tags: []
 summary: 帕罗西汀（INN：paroxetine）是一种选择性5-羟色胺再吸收抑制剂（SSRI）型的抗抑郁药，其药物形态为盐酸帕罗西汀（paroxetine hydrochloride）…
 kind: auto
 brief: true
 source_title: 帕罗西汀
 source_url: https://zh.wikipedia.org/wiki/%E5%B8%95%E7%BD%97%E8%A5%BF%E6%B1%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

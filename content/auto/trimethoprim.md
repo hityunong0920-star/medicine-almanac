@@ -4,13 +4,17 @@ name: 甲氧苄啶
 en: Trimethoprim
 category: 抗感染
 family: 抗感染药物
+formula: C14H18N4O3
+mol_mass: 290.32
+cas: 738-70-5
+smiles: "Nc1nc(N)ncc1Cc(cc2OC)cc(OC)c2OC"
 tags: []
 summary: 甲氧苄啶（INN:trimethoprim，简称TMP）是一种抗生素，主要用于治疗膀胱感染。
 kind: auto
 brief: true
 source_title: 甲氧苄啶
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E6%B0%A7%E8%8B%84%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

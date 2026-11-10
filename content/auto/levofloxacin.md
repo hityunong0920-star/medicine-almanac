@@ -4,12 +4,16 @@ name: 左氧氟沙星
 en: Levofloxacin
 category: 抗感染
 family: 抗感染药物
+formula: C18H20FN3O4
+mol_mass: 361.37
+cas: 100986-85-4
+smiles: "C[C@H]1COc2c3n1cc(c(=O)c3cc(c2N4CCN(CC4)C)F)C(=O)O"
 tags: [抗生素]
 summary: 左氧氟沙星（INN：levofloxacin），常见商品名可乐必妥，是一种广谱抗生素，用于治疗多种细菌感染，包括急性细菌性鼻窦炎、肺炎、幽门螺杆菌（与其他药物联合使用）、尿路感染…
 kind: auto
 source_title: 左氧氟沙星
 source_url: https://zh.wikipedia.org/wiki/%E5%B7%A6%E6%B0%A7%E6%B0%9F%E6%B2%99%E6%98%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

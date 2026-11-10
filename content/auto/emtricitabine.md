@@ -4,13 +4,17 @@ name: 恩曲他滨
 en: Emtricitabine
 category: 抗感染
 family: 抗感染药物
+formula: C8H10FN3O3S
+mol_mass: 247.24
+cas: 143491-57-0
+smiles: "FC=1\C(=N/C(=O)N(C=1)[C@H]2O[C@H](SC2)CO)\N"
 tags: []
 summary: 恩曲他滨（Emtricitabine，缩写：FTC，商品名为Emtriva、惠尔丁），是一种核苷类逆转录酶抑制剂(NRTI)，用于预防和治疗成人和儿童的HIV感染，同时亦可治疗HBV感染。
 kind: auto
 brief: true
 source_title: 恩曲他滨
 source_url: https://zh.wikipedia.org/wiki/%E6%81%A9%E6%9B%B2%E4%BB%96%E6%BB%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

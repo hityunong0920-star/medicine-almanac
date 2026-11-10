@@ -4,12 +4,16 @@ name: 贝达喹啉
 en: Bedaquiline
 category: 抗感染
 family: 抗感染药物
+formula: C32H31BrN2O2
+mol_mass: 555.52
+cas: 843663-66-1
+smiles: "Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C"
 tags: []
 summary: 贝达喹啉以Sirturo的品牌销售，是种用于治疗活动性结核病的药物。
 kind: auto
 source_title: 貝達喹啉
 source_url: https://zh.wikipedia.org/wiki/%E8%B2%9D%E9%81%94%E5%96%B9%E5%95%89
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

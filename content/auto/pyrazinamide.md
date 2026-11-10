@@ -4,12 +4,16 @@ name: 吡嗪酰胺
 en: Pyrazinamide
 category: 抗感染
 family: 抗感染药物
+formula: C5H5N3O
+mol_mass: 123.11
+cas: 98-96-4
+smiles: "O=C(N)c1nccnc1"
 tags: []
 summary: 吡嗪醯胺（INN：pyrazinamide，PZA）是一种用于治疗结核病的药物，作为一线半效杀菌药物，对处于吞噬细胞内尤其是酸性环境中缓慢生长的结核分枝杆菌有杀灭作用…
 kind: auto
 source_title: 吡嗪酰胺
 source_url: https://zh.wikipedia.org/wiki/%E5%90%A1%E5%97%AA%E9%85%B0%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

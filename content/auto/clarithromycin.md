@@ -4,13 +4,17 @@ name: 克拉霉素
 en: Clarithromycin
 category: 抗感染
 family: 抗感染药物
+formula: C38H69NO13
+mol_mass: 747.96
+cas: 81103-11-9
+smiles: "CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O"
 tags: [抗生素, 降脂, 钙通道阻滞剂]
 summary: 克拉霉素（INN：clarithromycin）又称甲红霉素，商品名有 Biaxin 等，是一种半合成大环内酯类抗生素，其抗菌谱与红霉素相似，抗菌作用则比红霉素强，用于治疗多种病菌感染…
 kind: auto
 brief: true
 source_title: 克拉黴素
 source_url: https://zh.wikipedia.org/wiki/%E5%85%8B%E6%8B%89%E9%BB%B4%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

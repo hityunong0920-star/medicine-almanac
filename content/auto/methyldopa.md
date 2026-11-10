@@ -4,12 +4,16 @@ name: 甲基多巴
 en: Methyldopa
 category: 心血管
 family: 心血管药物
+formula: C10H13NO4
+mol_mass: 211.22
+cas: 41372-08-1
+smiles: "C[C@](N)(Cc1ccc(O)c(O)c1)C(=O)O"
 tags: []
 summary: 甲基多巴（INN:methyldopa），又称α-甲基-L-DOPA，以Aldomet等品牌名称于市场上贩售，是一种用于治疗高血压的药物。
 kind: auto
 source_title: 甲基多巴
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E5%9F%BA%E5%A4%9A%E5%B7%B4
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

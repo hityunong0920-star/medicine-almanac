@@ -4,13 +4,17 @@ name: 伏立康唑
 en: Voriconazole
 category: 抗感染
 family: 抗感染药物
+formula: C16H14F3N5O
+mol_mass: 349.32
+cas: 137234-62-9
+smiles: "Fc1cncnc1[C@@H]([C@@](O)(c2ccc(F)cc2F)Cn3ncnc3)C"
 tags: []
 summary: 伏立康唑（INN:voriconazole）以Vfend等品牌名称于市场上销售。
 kind: auto
 brief: true
 source_title: 伏立康唑
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%8F%E7%AB%8B%E5%BA%B7%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

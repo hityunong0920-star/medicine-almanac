@@ -4,12 +4,16 @@ name: 氨苯砜
 en: Dapsone
 category: 抗感染
 family: 抗感染药物
+formula: C12H12N2O2S
+mol_mass: 248.30
+cas: 80-08-0
+smiles: "O=S(=O)(c1ccc(N)cc1)c2ccc(N)cc2"
 tags: [抗疟]
 summary: 氨苯砜（INN：dapsone）全称 4,4′-二氨基二苯砜（DDS）或 4,4'-磺酰二苯胺（SDA），音译达普颂，是一种抗菌剂，其结构为磺胺样砜类的母体化合物…
 kind: auto
 source_title: 氨苯碸
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%A8%E8%8B%AF%E7%A2%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

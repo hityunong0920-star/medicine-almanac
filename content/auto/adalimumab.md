@@ -4,12 +4,15 @@ name: 阿达木单抗
 en: Adalimumab
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S46
+mol_mass: 1474.76
+cas: 331731-18-1
 tags: []
 summary: 阿达木单抗（INN：adalimumab）或阿达木单克隆抗体，商品名有 Humira（复迈、修美乐）等，是重组全人源化肿瘤坏死因子α单克隆抗体注射液，属于一种改善病情抗风湿药…
 kind: auto
 source_title: 阿達木單抗
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%94%E6%9C%A8%E5%96%AE%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

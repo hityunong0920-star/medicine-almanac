@@ -4,12 +4,16 @@ name: 哌甲酯
 en: Methylphenidate
 category: 神经精神
 family: 神经精神药物
+formula: C14H19NO2
+mol_mass: 233.31
+cas: 113-45-1
+smiles: "O=C(OC)C(C1CCCCN1)C2=CC=CC=C2"
 tags: []
 summary: 派醋甲酯（INN：methylphenidate，MPH，MPD），商品名利他林（Ritalin）或缓释锭商品名专注达（Concerta），是一种中枢神经系统兴奋剂。
 kind: auto
 source_title: 哌甲酯
 source_url: https://zh.wikipedia.org/wiki/%E5%93%8C%E7%94%B2%E9%85%AF
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

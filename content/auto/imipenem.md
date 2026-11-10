@@ -4,13 +4,17 @@ name: 亚胺培南
 en: Imipenem
 category: 抗感染
 family: 抗感染药物
+formula: C12H17N3O4S
+mol_mass: 299.35
+cas: 64221-86-9
+smiles: "O=C(O)/C1=C(\SCC/N=C/N)C[C@H]2N1C(=O)[C@@H]2[C@H](O)C.O"
 tags: [抗生素]
 summary: 亚胺培南（INN：imipenem）是一种半合成的碳青霉烯类抗生素， 属于β-内酰胺类。
 kind: auto
 brief: true
 source_title: 亚胺培南
 source_url: https://zh.wikipedia.org/wiki/%E4%BA%9A%E8%83%BA%E5%9F%B9%E5%8D%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

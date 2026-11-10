@@ -4,12 +4,16 @@ name: 恩格列净
 en: Empagliflozin
 category: 内分泌
 family: 内分泌药物
+formula: C23H27ClO7
+mol_mass: 450.91
+cas: 864070-44-0
+smiles: "C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl"
 tags: [降糖]
 summary: 恩格列净 (英文：Empagliflozin)，商品名为「Jardiance」，中文商名为「欧糖静」(大陆地区)、「恩排糖」(台湾地区) 或「适糖达」(香港地区)…
 kind: auto
 source_title: 恩格列淨
 source_url: https://zh.wikipedia.org/wiki/%E6%81%A9%E6%A0%BC%E5%88%97%E6%B7%A8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 纳曲酮
 en: Naltrexone
 category: 神经精神
 family: 神经精神药物
+formula: C20H23NO4
+mol_mass: 341.41
+cas: 16590-41-3
+smiles: "O=C4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)CC6CC6"
 tags: []
 summary: 纳曲酮（INN：naltrexone）商品名有 Revia、Vivitrol 等，是一种阿片受体拮抗剂，主要用于阿片类药物成瘾（阿片类药物使用障碍）者的治疗，对酒精使用障碍亦有功效…
 kind: auto
 source_title: 纳曲酮
 source_url: https://zh.wikipedia.org/wiki/%E7%BA%B3%E6%9B%B2%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

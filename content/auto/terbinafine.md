@@ -4,13 +4,17 @@ name: 特比萘芬
 en: Terbinafine
 category: 抗感染
 family: 抗感染药物
+formula: C21H25N
+mol_mass: 291.43
+cas: 91161-71-6
+smiles: "C(#C\C=C\CN(C)Cc2cccc1ccccc12)C(C)(C)C"
 tags: []
 summary: 特比萘芬（INN：terbinafine），商品名兰美抒（中国大陆）、疗霉舒（台湾）、癣断清（日本）、乐肤舒（香港）是由诺华公司（一家瑞士制药公司）人工合成生产之丙烯胺抗真菌药物。
 kind: auto
 brief: true
 source_title: 特比萘芬
 source_url: https://zh.wikipedia.org/wiki/%E7%89%B9%E6%AF%94%E8%90%98%E8%8A%AC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,13 +4,17 @@ name: 曲美他嗪
 en: Trimetazidine
 category: 心血管
 family: 心血管药物
+formula: C14H22N2O3
+mol_mass: 266.34
+cas: 5011-34-7
+smiles: "O(c1ccc(c(OC)c1OC)CN2CCNCC2)C"
 tags: []
 summary: 曲美他嗪（trimetazidine）是一种治疗心绞痛的药物，已被冠以许多种商品名销售。
 kind: auto
 brief: true
 source_title: 曲美他嗪
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%B2%E7%BE%8E%E4%BB%96%E5%97%AA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 头孢唑林
 en: Cefazolin
 category: 抗感染
 family: 抗感染药物
+formula: C14H14N8O4S3
+mol_mass: 454.50
+cas: 25953-19-9
+smiles: "O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)Cn3nnnc3)CSc4nnc(s4)C)C(=O)O"
 tags: [抗生素]
 summary: 头孢唑林 (，也可拼写为cephazolin，或是cefazoline)，是种第一代头孢菌素类抗生素，用于治疗多种病原细菌感染。
 kind: auto
 source_title: 头孢唑林
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%B4%E5%AD%A2%E5%94%91%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

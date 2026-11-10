@@ -4,13 +4,17 @@ name: 利培酮
 en: Risperidone
 category: 神经精神
 family: 神经精神药物
+formula: C23H27FN4O2
+mol_mass: 410.49
+cas: 106266-06-2
+smiles: "Cc1c(c(=O)n2c(n1)CCCC2)CCN3CCC(CC3)c4c5ccc(cc5on4)F"
 tags: []
 summary: 利培酮（INN：risperidone），商品名有理思必妥（Risperdal）、维思通，为一种非典型抗精神病药物，主要用于治疗思觉失调症、双相情感障碍，以及自闭症症状者的易怒情形。
 kind: auto
 brief: true
 source_title: 利培酮
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E5%9F%B9%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

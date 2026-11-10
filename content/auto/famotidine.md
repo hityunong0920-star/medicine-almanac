@@ -4,13 +4,17 @@ name: 法莫替丁
 en: Famotidine
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C8H15N7O2S3
+mol_mass: 337.45
+cas: 76824-35-6
+smiles: "NS(=O)(=O)/N=C(\N)CCSCc1csc(n1)N=C(N)N"
 tags: []
 summary: 法莫替丁（INN：famotidine），商品名Gaster、Pepcid等，是一种组胺2受体拮抗剂，主要用于抑制胃酸的分泌，并用于治疗消化性溃疡和胃食道逆流。
 kind: auto
 brief: true
 source_title: 法莫替丁
 source_url: https://zh.wikipedia.org/wiki/%E6%B3%95%E8%8E%AB%E6%9B%BF%E4%B8%81
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

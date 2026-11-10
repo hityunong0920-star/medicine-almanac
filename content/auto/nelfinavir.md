@@ -4,13 +4,17 @@ name: 奈非那韦
 en: Nelfinavir
 category: 抗感染
 family: 抗感染药物
+formula: C32H45N3O4S
+mol_mass: 567.79
+cas: 159989-64-7
+smiles: "O=C(c1cccc(O)c1C)N[C@@H](CSc2ccccc2)[C@H](O)CN4[C@H](C(=O)NC(C)(C)C)C[C@@H]3CCCC[C@@H]3C4"
 tags: [抗病毒]
 summary: 奈非那韦（英语：Nelfinavir）是在一个名为Viracept的品牌下售卖的药物。
 kind: auto
 brief: true
 source_title: 奈非那韦
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%88%E9%9D%9E%E9%82%A3%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

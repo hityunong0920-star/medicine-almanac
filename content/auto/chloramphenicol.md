@@ -4,12 +4,16 @@ name: 氯霉素
 en: Chloramphenicol
 category: 抗感染
 family: 抗感染药物
+formula: C11H12Cl2N2O5
+mol_mass: 323.13
+cas: 56-75-7
+smiles: "c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]"
 tags: []
 summary: 氯霉素是一种抗生素，可用于治疗许多细菌感染症状，包括脑膜炎、瘟疫、霍乱和伤寒等。
 kind: auto
 source_title: 氯霉素
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%AF%E9%9C%89%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 洛哌丁胺
 en: Loperamide
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C29H33ClN2O2
+mol_mass: 477.04
+cas: 53179-11-6
+smiles: "ClC1=CC=C(C2(CCN(CC2)CCC(C3=CC=CC=C3)(C(N(C)C)=O)C4=CC=CC=C4)O)C=C1"
 tags: []
 summary: 洛哌丁胺 (INN:loperamide，亦有乐必宁的翻译)，商品名称有易蒙停（Imodium）等， 是一种阿片类受体激动剂药物，用于减少腹泻的频率。
 kind: auto
 source_title: 洛哌丁胺
 source_url: https://zh.wikipedia.org/wiki/%E6%B4%9B%E5%93%8C%E4%B8%81%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 苯丁酸氮芥
 en: Chlorambucil
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C14H19Cl2NO2
+mol_mass: 304.21
+cas: 305-03-3
+smiles: "ClCCN(CCCl)c1ccc(cc1)CCCC(=O)O"
 tags: []
 summary: 苯丁酸氮芥以Leukeran（瘤可宁）等商品名于市场上销售，是一种化学治疗药物，用于治疗慢性淋巴细胞白血病 (CLL)、霍奇金淋巴瘤和非霍奇金氏淋巴瘤。
 kind: auto
 source_title: 苯丁酸氮芥
 source_url: https://zh.wikipedia.org/wiki/%E8%8B%AF%E4%B8%81%E9%85%B8%E6%B0%AE%E8%8A%A5
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

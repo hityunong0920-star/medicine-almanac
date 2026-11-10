@@ -4,12 +4,16 @@ name: 甲硝唑
 en: Metronidazole
 category: 抗感染
 family: 抗感染药物
+formula: C6H9N3O3
+mol_mass: 171.16
+cas: 443-48-1
+smiles: "OCCn1c(C)ncc1[N+](=O)[O-]"
 tags: []
 summary: 甲硝唑（INN：metronidazole，MNZ）又称甲硝哒唑、咪唑尼达，以商品名 Flagyl、Metrogyl 等著称，是一种抗生素和。
 kind: auto
 source_title: 甲硝唑
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E7%A1%9D%E5%94%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史
@@ -19,6 +23,10 @@ updated: 2026-11-05
 ## 机理
 
 甲硝唑属于硝基咪唑类药物。它是一种前体药物，透过形成亚硝基自由基来抑制核酸合成，而能破坏微生物细胞的DNA。甲硝唑的活化过程是：它从厌氧生物体中（PFOR)（相当于好氧生物体中的丙酮酸脱氢酶）产生的还原型铁氧还蛋白中接收一个电子，而转变成一个高反应性的自由基阴离子。当这个自由基将电子传递给其目标后，它会再循环回甲硝唑的非活化形式，准备再次被活化。
+
+## 合成
+
+2-甲基咪唑 (1) 可透过Debus-Radziszewski咪唑合成法，或由乙二胺和醋酸 反应，随后用石灰处理，再使用雷尼镍制备。2-甲基咪唑经硝化反应得到2-甲基-4(5)-硝基咪唑 (2)，然后再与环氧乙烷或2-氯乙醇进行烷基化反应，即可得到甲硝唑 (metronidazole) (3)：
 
 ## 今日之用
 

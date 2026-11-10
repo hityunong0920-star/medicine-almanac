@@ -4,12 +4,16 @@ name: 去氨加压素
 en: Desmopressin
 category: 内分泌
 family: 内分泌药物
+formula: C46H64N14O12S2
+mol_mass: 1069.22
+cas: 16679-58-6
+smiles: "c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSCCC(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)C(=O)N4CCC[C@H]4C(=O)N[C@H](CCCNC(=N)N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N"
 tags: [降压]
 summary: 去氨加压素 以商品名DDAVP等于市面销售，是一种用于治疗尿崩症、尿床、、类血友病和尿毒症的药物。
 kind: auto
 source_title: 去氨加壓素
 source_url: https://zh.wikipedia.org/wiki/%E5%8E%BB%E6%B0%A8%E5%8A%A0%E5%A3%93%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

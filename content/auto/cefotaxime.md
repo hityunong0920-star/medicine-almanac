@@ -4,12 +4,16 @@ name: 头孢噻肟
 en: Cefotaxime
 category: 抗感染
 family: 抗感染药物
+formula: C16H17N5O7S2
+mol_mass: 455.47
+cas: 63527-52-6
+smiles: "O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)\c3nc(sc3)N)COC(=O)C)C(=O)O"
 tags: [抗生素]
 summary: 头孢噻肟，是用于治疗多种细菌感染的抗生素，其分类为第三代头孢菌素。
 kind: auto
 source_title: 头孢噻肟
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%B4%E5%AD%A2%E5%99%BB%E8%82%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

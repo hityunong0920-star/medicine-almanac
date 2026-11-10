@@ -4,13 +4,16 @@ name: 戈利木单抗
 en: Golimumab
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S44
+mol_mass: 1410.64
+cas: 476181-74-5
 tags: []
 summary: 戈利木单抗（INN:golimumab，CNTO 148）是一种人类单株抗体（抗体结构基于人类的抗体基因序列设计），属于生物制剂类的免疫抑制剂。
 kind: auto
 brief: true
 source_title: 戈利木單抗
 source_url: https://zh.wikipedia.org/wiki/%E6%88%88%E5%88%A9%E6%9C%A8%E5%96%AE%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

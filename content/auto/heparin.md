@@ -4,12 +4,15 @@ name: 肝素
 en: Heparin
 category: 心血管
 family: 心血管药物
+formula: C12H19NO20S3
+mol_mass: 12000.00
+cas: 9005-49-6
 tags: [抗凝]
 summary: 肝素（英文：heparin）又称普通肝素、未裂解肝素（unfractionated heparin，UFH），是一种天然且高度硫化的糖胺聚糖抗凝血剂，也是所有生物分子中阴电密度最高的分子…
 kind: auto
 source_title: 肝素
 source_url: https://zh.wikipedia.org/wiki/%E8%82%9D%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

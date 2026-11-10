@@ -4,12 +4,16 @@ name: 利福平
 en: Rifampicin
 category: 抗感染
 family: 抗感染药物
+formula: C43H58N4O12
+mol_mass: 822.95
+cas: 13292-46-1
+smiles: "CN1CCN(CC1)/N=C/c2c(O)c3c5C(=O)[C@@]4(C)O/C=C/[C@H](OC)[C@@H](C)[C@@H](OC(C)=O)[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\C=C\C=C(\C)C(=O)Nc2c(O)c3c(O)c(C)c5O4"
 tags: []
 summary: 利福平（INN：rifampicin，USAN：rifampin，RMP，RIF）又称立泛霉素，是一种广谱半合成抗生素，作为一线全效杀菌药物，对结核分枝杆菌具有明显的杀菌作用…
 kind: auto
 source_title: 利福平
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E7%A6%8F%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

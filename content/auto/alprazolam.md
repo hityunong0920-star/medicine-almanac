@@ -4,13 +4,17 @@ name: 阿普唑仑
 en: Alprazolam
 category: 神经精神
 family: 神经精神药物
+formula: C17H13ClN4
+mol_mass: 308.77
+cas: 28981-97-7
+smiles: "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2"
 tags: []
 summary: 阿普唑仑（INN：alprazolam）最早商品名赞安诺，是三唑并苯二氮䓬类中的中效速效镇静剂，它是与三唑环融合的苯二氮䓬类 (BZD)。
 kind: auto
 brief: true
 source_title: 阿普唑仑
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%99%AE%E5%94%91%E4%BB%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

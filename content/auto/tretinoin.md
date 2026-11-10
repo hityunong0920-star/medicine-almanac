@@ -4,12 +4,16 @@ name: 维A酸
 en: Tretinoin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C20H28O2
+mol_mass: 300.44
+cas: 302-79-4
+smiles: "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C"
 tags: [降脂]
 summary: 维A酸（INN：tretinoin）又称全反式视黄酸（all-trans retinoic acid，ATRA）、全反式维A酸、全反式维甲酸，是视黄酸的全反立体异构物，也是视黄醛氧化的产物…
 kind: auto
 source_title: 維A酸
 source_url: https://zh.wikipedia.org/wiki/%E7%B6%ADA%E9%85%B8
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史
@@ -27,6 +31,10 @@ FDA于1997年核准以"Retin-A Micro"为商品名称的维A酸微球凝胶，用
 维A酸作为维生素A衍生物，在治疗痤疮方面会与角质形成细胞内的两类核受体家族结合：（RAR）与（RXR）。这一过程有助于使毛囊角质化正常化，并降低角质细胞的黏附性，进而减少毛囊阻塞与微粉刺的形成。此外，类维生素A与受体的复合物会竞争AP-1（参与发炎反应的关键转录因子）的共活化蛋白。类维生素A还能下调类铎受体 2（TLR-2）的表达，该受体与痤疮的发炎反应密切相关。此外，维A酸还能增强其他外用痤疮药物的渗透力。
 
 目前，关于其导致三酸甘油酯与胆固醇升高的生物学机制仍在中研究中。
+
+## 合成
+
+全反式维A酸是由人体从摄取的饮食因子中所产生，这些因子有视黄醇（retinol）、视黄醇酯（retinyl esters）或β-胡萝卜素。β-胡萝卜素首先由裂解为视黄醇，随后经由RDH与ALDH酶氧化产生全反式维A酸（参见视黄酸）。维A酸而在工业生产上是采用标准工业流程合成来制造。
 
 ## 安全边界
 

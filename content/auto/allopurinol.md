@@ -4,12 +4,16 @@ name: 别嘌醇
 en: Allopurinol
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C5H4N4O
+mol_mass: 136.11
+cas: 315-30-0
+smiles: "C1=NNC2=C1C(=O)NC=N2"
 tags: []
 summary: 别嘌醇（INN：allopurinol）又称别嘌呤醇、异嘌呤醇，是黄嘌呤氧化酶抑制剂，通过抑制尿酸合成发挥降尿酸作用，主要应用于高尿酸血症及慢性痛风的治疗。
 kind: auto
 source_title: 别嘌醇
 source_url: https://zh.wikipedia.org/wiki/%E5%88%AB%E5%98%8C%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

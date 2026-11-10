@@ -4,12 +4,16 @@ name: 丙磺舒
 en: Probenecid
 category: 免疫风湿
 family: 免疫风湿药物
+formula: C13H19NO4S
+mol_mass: 285.36
+cas: 57-66-9
+smiles: "O=S(=O)(N(CCC)CCC)c1ccc(C(=O)O)cc1"
 tags: [抗生素]
 summary: 丙磺舒（INN：probenecid，缩写：PBN，化学名：对-[(二丙氨基)磺酰基]苯甲酸，别名：羧苯磺胺）是一种化学药物。
 kind: auto
 source_title: 丙磺舒
 source_url: https://zh.wikipedia.org/wiki/%E4%B8%99%E7%A3%BA%E8%88%92
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

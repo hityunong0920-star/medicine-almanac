@@ -4,14 +4,28 @@ name: 孕酮
 en: Progesterone
 category: 内分泌
 family: 内分泌药物
+formula: C21H30O2
+mol_mass: 314.46
+cas: 57-83-0
+smiles: "O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](C(=O)C)CC[C@H]3[C@@H]1CC2)C)(C)CC4"
 tags: []
 summary: 孕酮（，缩写：P4），化学命名：孕甾-4-烯-3,20-二酮，是一种内源性类固醇和孕激素（progestogen，性激素的一种），参与人类和其他物种的月经周期、妊娠和胚胎发生，是体内主要的孕激素…
 kind: auto
 brief: true
 source_title: 孕酮
 source_url: https://zh.wikipedia.org/wiki/%E5%AD%95%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
+
+## 合成
+
+在哺乳动物体内，孕酮就跟其他类固醇一样，是由孕烯醇酮合成；而孕烯醇酮又是从胆固醇转化而来。
+
+胆固醇经过两次氧化作用之后变成20,22-dihydroxycholesterol。这个邻二醇化合物进一步氧化且C-22的侧链断裂而产生孕烯醇酮。这个反应是由cytochrome P450所催化。要从孕烯醇酮在转化成孕酮分成两个步骤进行。首先，，3-羟基（3-hydroxyl group）氧化成酮基组（keto group），第二步骤是双键从C-5转到了C-4的位置。这个步骤是由3beta-hydroxysteroid dehydrogenase/delta(5)-delta(4)isomerase所催化。
+
+孕酮是盐醛固酮（mineralocorticoid aldosterone）的前驱物。雄烯二醇（Androstenedione）可以转变成睾酮，雌酮和雌二醇。
+
+孕酮和孕烯醇酮，酵母（yeast）也可以合成。
 
 ## 今日之用
 

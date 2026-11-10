@@ -4,12 +4,16 @@ name: 辛伐他汀
 en: Simvastatin
 category: 心血管
 family: 心血管药物
+formula: C25H38O5
+mol_mass: 418.57
+cas: 79902-63-9
+smiles: "O=C(O[C@@H]1[C@H]3C(=C/[C@H](C)C1)\C=C/[C@@H]([C@@H]3CC[C@H]2OC(=O)C[C@H](O)C2)C)C(C)(C)CC"
 tags: [降脂]
 summary: 辛伐他汀（INN:simvastatin）为一种口服降血脂药物，常见商品名Zocor（有舒降之及素果的中文译名）。
 kind: auto
 source_title: 辛伐他汀
 source_url: https://zh.wikipedia.org/wiki/%E8%BE%9B%E4%BC%90%E4%BB%96%E6%B1%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,17 @@ name: 舍曲林
 en: Sertraline
 category: 神经精神
 family: 神经精神药物
+formula: C17H17Cl2N
+mol_mass: 306.23
+cas: 79617-96-2
+smiles: "ClC1=CC=C([C@H]2C3=C([C@H](CC2)NC)C=CC=C3)C=C1Cl"
 tags: []
 summary: 舍曲林（INN：sertraline），商品名左洛复（Zoloft）、彼迈乐等，是一种选择性5-羟色胺再吸收抑制剂（SSRI）类抗抑郁药，1991年由辉瑞制药公司研发。
 kind: auto
 brief: true
 source_title: 舍曲林
 source_url: https://zh.wikipedia.org/wiki/%E8%88%8D%E6%9B%B2%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

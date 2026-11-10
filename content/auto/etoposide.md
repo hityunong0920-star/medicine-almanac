@@ -4,12 +4,16 @@ name: 依托泊苷
 en: Etoposide
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C29H32O13
+mol_mass: 588.56
+cas: 33419-42-0
+smiles: "C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@@H]3c4cc5c(cc4[C@H]([C@@H]6[C@@H]3COC6=O)c7cc(c(c(c7)OC)O)OC)OCO5)O)O"
 tags: []
 summary: 依-{托}-泊苷（INN：etoposide，VP-16）又名鬼臼乙叉苷、足叶乙苷，商品名有Vepesid、Eposin、Etopophos，是一种广泛应用的拓扑异构酶抑制剂类化疗药物。
 kind: auto
 source_title: 依托泊苷
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%9D%E6%89%98%E6%B3%8A%E8%8B%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

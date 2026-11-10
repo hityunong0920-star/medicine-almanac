@@ -4,12 +4,16 @@ name: 甲氧氯普胺
 en: Metoclopramide
 category: 呼吸消化
 family: 呼吸消化药物
+formula: C14H22ClN3O2
+mol_mass: 299.80
+cas: 364-62-5
+smiles: "Clc1cc(c(OC)cc1N)C(=O)NCCN(CC)CC"
 tags: []
 summary: 甲氧氯普胺 (INN:metoclopramide) 以品牌名称Primperan等于市场上销售，是一种用于治疗恶心、呕吐、胃轻瘫和胃食道逆流疾病的药物。
 kind: auto
 source_title: 甲氧氯普胺
 source_url: https://zh.wikipedia.org/wiki/%E7%94%B2%E6%B0%A7%E6%B0%AF%E6%99%AE%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

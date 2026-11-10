@@ -4,12 +4,16 @@ name: 拉莫三嗪
 en: Lamotrigine
 category: 神经精神
 family: 神经精神药物
+formula: C9H7Cl2N5
+mol_mass: 256.09
+cas: 84057-84-1
+smiles: "NC1=NC(N)=NN=C1C2=CC=CC(Cl)=C2Cl"
 tags: [抗癫痫]
 summary: 拉莫三嗪（INN:lamotrigine， ），简称LTG）。
 kind: auto
 source_title: 拉莫三嗪
 source_url: https://zh.wikipedia.org/wiki/%E6%8B%89%E8%8E%AB%E4%B8%89%E5%97%AA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 睾酮
 en: Testosterone
 category: 内分泌
 family: 内分泌药物
+formula: C19H28O2
+mol_mass: 288.43
+cas: 58-22-0
+smiles: "O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4"
 tags: []
 summary: 睪酮（INN:testosterone，又称睪固酮，旧有名称另有睪甾酮、睪脂酮、睪丸酮或是睪丸素等）既是一种药物，也是一种天然存在的类固醇激素。
 kind: auto
 source_title: 睾酮
 source_url: https://zh.wikipedia.org/wiki/%E7%9D%BE%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

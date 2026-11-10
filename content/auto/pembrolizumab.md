@@ -4,12 +4,15 @@ name: 帕博利珠单抗
 en: Pembrolizumab
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: S46
+mol_mass: 1474.76
+cas: 1374853-91-4
 tags: []
 summary: 帕博利珠单抗（INN:pembrolizumab），商品名称为Keytruda，中文商品名为可瑞达、吉舒达）是用于癌症免疫疗法的，更确切地说是一种PD-1/PD-L1抑制剂中的PD-1受体抑制剂。
 kind: auto
 source_title: 帕博利珠单抗
 source_url: https://zh.wikipedia.org/wiki/%E5%B8%95%E5%8D%9A%E5%88%A9%E7%8F%A0%E5%8D%95%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

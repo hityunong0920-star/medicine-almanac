@@ -4,13 +4,17 @@ name: 多奈哌齐
 en: Donepezil
 category: 神经精神
 family: 神经精神药物
+formula: C24H29NO3
+mol_mass: 379.50
+cas: 120014-06-4
+smiles: "O=C2c1cc(OC)c(OC)cc1CC2CC4CCN(Cc3ccccc3)CC4"
 tags: []
 summary: 多奈哌齐（Donepezil），商品名为安理申（Aricept），是一种用于治疗阿兹海默症的药物。
 kind: auto
 brief: true
 source_title: 多奈哌齐
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%A5%88%E5%93%8C%E9%BD%90
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

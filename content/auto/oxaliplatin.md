@@ -4,12 +4,16 @@ name: 奥沙利铂
 en: Oxaliplatin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C8H14N2O4Pt
+mol_mass: 397.29
+cas: 61825-94-3
+smiles: "O1C(=O)C(=O)O[Pt-2]12[NH2+]C0CCCCC0[NH2+]2"
 tags: []
 summary: 奥沙利铂（INN:oxaliplatin），以Eloxatin等品牌名称于市场上销售，是一种用于治疗大肠癌的抗癌药物（即）。
 kind: auto
 source_title: 奥沙利铂
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%B2%99%E5%88%A9%E9%93%82
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

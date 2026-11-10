@@ -4,13 +4,17 @@ name: 曲普瑞林
 en: Triptorelin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C64H82N18O13
+mol_mass: 1311.47
+cas: 57773-63-4
+smiles: "CC(C)C[C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)[C@@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@H](Cc4ccc(cc4)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc5c[nH]c6c5cccc6)NC(=O)[C@H](Cc7cnc[nH]7)NC(=O)[C@@H]8CCC(=O)N8"
 tags: []
 summary: 曲普瑞林（INN:triptorelin），以Decapeptyl等商品名称于市场中销售，是一种（GnRH agonist）类似物，可抑制黄体成长素（LH）和滤泡刺激素（FSH）的表达。
 kind: auto
 brief: true
 source_title: 曲普瑞林
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%B2%E6%99%AE%E7%91%9E%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

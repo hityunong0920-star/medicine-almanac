@@ -4,13 +4,17 @@ name: 杆菌肽
 en: Bacitracin
 category: 抗感染
 family: 抗感染药物
+formula: C66H103N17O16S
+mol_mass: 1422.69
+cas: 1405-87-4
+smiles: "O=C(O)C[C@H]3NC(=O)[C@H](Cc1cncn1)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)[C@@H](CCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(N)=O)NC3=O)NC(=O)[C@@H](NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)C4N=C(SC4)\nC(N)C(C)CC)C(C)CC)C(C)CC"
 tags: []
 summary: 杆菌肽（bacitracin）是由枯草杆菌的变种「崔西 [Tracy I, ATCC 10716]」之地衣状菌素有机体所产生的相关环肽之混合物，在1945年首次分离出来。
 kind: auto
 brief: true
 source_title: 杆菌肽
 source_url: https://zh.wikipedia.org/wiki/%E6%9D%86%E8%8F%8C%E8%82%BD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

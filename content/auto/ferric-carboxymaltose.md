@@ -4,12 +4,13 @@ name: 铁剂
 en: Ferric carboxymaltose
 category: 血液泌尿
 family: 血液泌尿药物
+cas: 1332-96-3
 tags: []
 summary: 铁剂，全名为铁质补充剂，又称为铁盐，泛指所有用于治疗和预防缺铁（包括缺铁性贫血的含铁制剂。
 kind: auto
 source_title: 鐵劑
 source_url: https://zh.wikipedia.org/wiki/%E9%90%B5%E5%8A%91
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

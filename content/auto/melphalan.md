@@ -4,18 +4,26 @@ name: 美法仑
 en: Melphalan
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C13H18Cl2N2O2
+mol_mass: 305.20
+cas: 148-82-3
+smiles: "c1cc(ccc1C[C@@H](C(=O)O)N)N(CCCl)CCCl"
 tags: []
 summary: 美法仑（INN:melphalan，又名左旋苯丙氨酸氮芥，米尔法兰），以商品名称Alkeran等于市面上销售，是一种化疗药物，用于治疗多发性骨髓瘤、恶性淋巴瘤、淋巴细胞性白血病和骨髓细胞性白血病…
 kind: auto
 brief: true
 source_title: 美法侖
 source_url: https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%B3%95%E4%BE%96
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理
 
 美法仑透过烷化作用，改变DNA核苷酸中的鸟嘌呤，并导致DNA链之间产生连结。这种化学改变会抑制DNA和RNA的合成，而这些功能对于细胞存活极为重要。这些变化会对分裂中和非分裂中的肿瘤细胞产生细胞毒性。
+
+## 合成
+
+4-硝基-L-苯丙氨酸 (1) 经与邻苯二甲酸酐加热，转化为其邻苯二甲醯亚胺，再转化为其乙酯 (2)。催化氢化产生相应的苯胺。于酸性条件下与环氧乙烷加热，随后经三氯氧磷处理得到双氯化物，最后通过在盐酸中加热去除保护基团，即得美法仑 (3)。
 
 ## 今日之用
 

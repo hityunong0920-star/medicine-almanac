@@ -4,13 +4,17 @@ name: 异环磷酰胺
 en: Ifosfamide
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C7H15Cl2N2O2P
+mol_mass: 261.08
+cas: 3778-73-2
+smiles: "O=P1(OCCCN1CCCl)NCCCl"
 tags: []
 summary: 异环磷醯胺（INN：ifosfamide，IFO），商品名有Mitoxana、Ifex等，是一种氮芥类烷化剂，作为治疗多种癌症（包括睾丸癌、、骨肉瘤、膀胱癌、小细胞癌…
 kind: auto
 brief: true
 source_title: 异环磷酰胺
 source_url: https://zh.wikipedia.org/wiki/%E5%BC%82%E7%8E%AF%E7%A3%B7%E9%85%B0%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

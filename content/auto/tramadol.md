@@ -4,12 +4,16 @@ name: 曲马多
 en: Tramadol
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C16H25NO2
+mol_mass: 263.38
+cas: 27203-92-5
+smiles: "CN(C)C[C@@H]2CCCC[C@@]2(O)c1cccc(OC)c1"
 tags: [镇痛]
 summary: 曲马多（INN：tramadol）是一种阿片类药物，属作用于中枢的镇痛药，可缓解普通到严重的疼痛。
 kind: auto
 source_title: 曲马多
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%B2%E9%A9%AC%E5%A4%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

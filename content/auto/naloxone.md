@@ -4,12 +4,16 @@ name: 纳洛酮
 en: Naloxone
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C19H21NO4
+mol_mass: 327.38
+cas: 465-65-6
+smiles: "O=C1[C@@H]2OC3=C(O)C=CC4=C3[C@@]2([C@]5(CC1)O)CCN(CC=C)[C@@H]5C4"
 tags: []
 summary: 纳洛酮（INN：naloxone）商品名为 Narcan 等，是一种，主要用于逆转或减少类阿片药物的作用，如促醒和解除呼吸抑制，注射给药起效很快。
 kind: auto
 source_title: 納洛酮
 source_url: https://zh.wikipedia.org/wiki/%E7%B4%8D%E6%B4%9B%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

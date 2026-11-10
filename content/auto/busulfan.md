@@ -4,13 +4,17 @@ name: 白消安
 en: Busulfan
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C6H14O6S2
+mol_mass: 246.29
+cas: 55-98-1
+smiles: "O=S(=O)(OCCCCOS(=O)(=O)C)C"
 tags: []
 summary: 白消安（，商品名马利兰、白舒非）是一种从1959年开始使用的抗癌药。
 kind: auto
 brief: true
 source_title: 白消安
 source_url: https://zh.wikipedia.org/wiki/%E7%99%BD%E6%B6%88%E5%AE%89
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

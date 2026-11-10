@@ -5,6 +5,9 @@ en: Quinine
 alias: 金鸡纳霜
 category: 抗感染
 family: 抗疟药
+formula: C20H24N2O2
+mol_mass: 324.42
+cas: 130-95-0
 year: 1820
 tags: [金鸡纳, 疟疾, 苦味, 汤力水]
 summary: 南美树皮治好了欧洲的疟疾，也让"苦"成为一种药的味道；它曾是帝国扩张的补给品，如今退居二线，却仍在重症疟疾中出场。

@@ -4,12 +4,16 @@ name: 链霉素
 en: Streptomycin
 category: 抗感染
 family: 抗感染药物
+formula: C21H39N7O12
+mol_mass: 581.58
+cas: 57-92-1
+smiles: "CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O"
 tags: [抗生素]
 summary: 链霉素（INN:streptomycin）是一种抗生素，用于治疗多种病原细菌感染，例如结核病、、心内膜炎、布鲁氏菌病、伯克氏菌属感染、鼠疫、土拉热及。
 kind: auto
 source_title: 鏈黴素
 source_url: https://zh.wikipedia.org/wiki/%E9%8F%88%E9%BB%B4%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

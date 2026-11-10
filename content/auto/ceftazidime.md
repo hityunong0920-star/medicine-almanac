@@ -4,12 +4,16 @@ name: 头孢他啶
 en: Ceftazidime
 category: 抗感染
 family: 抗感染药物
+formula: C22H22N6O7S2
+mol_mass: 546.57
+cas: 72558-82-8
+smiles: "O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=NOC(C(=O)O)(C)C)c3nc(sc3)N)C[n+]4ccccc4)C([O-])=O"
 tags: [抗生素]
 summary: 头孢他啶以Fortaz等商品名于市面上贩售，是一种第三代头孢菌素抗生素，用于治疗多种细菌感染，特别是用于关节感染（例如败血性关节炎）、脑膜炎、肺炎、败血症、泌尿道感染、恶性外耳炎、绿脓杆菌感染…
 kind: auto
 source_title: 頭孢他啶
 source_url: https://zh.wikipedia.org/wiki/%E9%A0%AD%E5%AD%A2%E4%BB%96%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 氯胺酮
 en: Ketamine
 category: 镇痛麻醉
 family: 镇痛麻醉药物
+formula: C13H16ClNO
+mol_mass: 237.73
+cas: 6740-88-1
+smiles: "Clc1ccccc1C2(NC)CCCCC2=O"
 tags: []
 summary: 氯胺酮（INN：ketamine）音译凯他明、恺他命、克他明，俗称“K他命”、“K仔”、“K粉”等等，是一种具有镇痛作用的解离性麻醉药，属于非阿片类、非巴比妥类静脉全身麻醉药。
 kind: auto
 source_title: 氯胺酮
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%AF%E8%83%BA%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

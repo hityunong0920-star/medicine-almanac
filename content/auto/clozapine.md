@@ -4,12 +4,16 @@ name: 氯氮平
 en: Clozapine
 category: 神经精神
 family: 神经精神药物
+formula: C18H19ClN4
+mol_mass: 326.83
+cas: 5786-21-0
+smiles: "CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl"
 tags: [降糖]
 summary: 氯氮平（INN：clozapine），常见商品名 Clozaril，为一种非典型抗精神病药物。
 kind: auto
 source_title: 氯氮平
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%AF%E6%B0%AE%E5%B9%B3
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,13 +4,17 @@ name: 阿托莫西汀
 en: Atomoxetine
 category: 神经精神
 family: 神经精神药物
+formula: C17H21NO
+mol_mass: 255.35
+cas: 83015-26-3
+smiles: "O（c1ccccc1C）[C@@H]（c2ccccc2）CCNC"
 tags: []
 summary: 阿托莫西汀（USAN：atomoxetine）或托莫西汀（INN：tomoxetine），商品名“思锐”或“择思达”（Strattera），属于一种选择性去甲肾上腺素再摄取抑制剂…
 kind: auto
 brief: true
 source_title: 阿托莫西汀
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%89%98%E8%8E%AB%E8%A5%BF%E6%B1%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

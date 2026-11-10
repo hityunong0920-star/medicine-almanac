@@ -4,13 +4,17 @@ name: 利伐沙班
 en: Rivaroxaban
 category: 心血管
 family: 心血管药物
+formula: C19H18ClN3O5S
+mol_mass: 435.88
+cas: 366789-02-8
+smiles: "O=C1COCCN1c2ccc(cc2)N3C[C@@H](OC3=O)CNC(=O)c4ccc(s4)Cl"
 tags: [抗凝]
 summary: 利伐沙班（英语：Rivaroxaban），以拜瑞妥（Xarelto）等品牌销售，是一种用于治疗和预防血栓的抗凝药物（血液稀释剂）。
 kind: auto
 brief: true
 source_title: 利伐沙班
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E4%BC%90%E6%B2%99%E7%8F%AD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

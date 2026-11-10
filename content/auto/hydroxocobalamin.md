@@ -4,13 +4,17 @@ name: 羟钴胺
 en: Hydroxocobalamin
 category: 其他
 family: 其他药物
+formula: C62H89N13O15P
+mol_mass: 1287.44
+cas: 13422-51-0
+smiles: "Cc1cc2ncn(c2cc1C)C9OC(CO)C(OP3(=O)OC(C)CNC(=O)CCC5C4=C(C)C8=NC(=CC7=NC(=C(C)C6=NC(C)(C(N4[Co](O)O3)C5(C)CC(N)=O)C(C)(CC(N)=O)C6CCC(N)=O)C(C)(CC(N)=O)C7CCC(N)=O)C(CCC(N)=O)C8(C)C)C9O"
 tags: []
 summary: 钴胺（INN：hydroxocobalamin，hydroxycobalamin，OHCbl），又称维生素B12a，是一种存在于食物中的维生素，作为营养补充品使用…
 kind: auto
 brief: true
 source_title: 羥鈷胺
 source_url: https://zh.wikipedia.org/wiki/%E7%BE%A5%E9%88%B7%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

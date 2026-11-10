@@ -4,13 +4,17 @@ name: 伏硫西汀
 en: Vortioxetine
 category: 神经精神
 family: 神经精神药物
+formula: C18H22N2S
+mol_mass: 298.45
+cas: 508233-74-7
+smiles: "CC(C=C(C)C=C1)=C1SC2=C(N3CCNCC3)C=CC=C2"
 tags: []
 summary: 伏硫西汀，又名沃替西汀（INN：Vortioxetine），属于5-羟色胺调节剂和刺激剂（SMS）类的抗抑郁药。
 kind: auto
 brief: true
 source_title: 伏硫西汀
 source_url: https://zh.wikipedia.org/wiki/%E4%BC%8F%E7%A1%AB%E8%A5%BF%E6%B1%80
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

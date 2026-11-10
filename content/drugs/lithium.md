@@ -5,6 +5,9 @@ en: Lithium
 alias: 碳酸锂
 category: 神经精神
 family: 心境稳定剂
+formula: Li2CO3
+mol_mass: 73.89
+cas: 554-13-2
 year: 1949
 tags: [双相障碍, 躁狂, 治疗窗窄, 自杀预防]
 summary: 元素周期表里最简单的金属之一，却成了双相障碍最可靠的药；它的有效剂量与中毒剂量近得令人不安。

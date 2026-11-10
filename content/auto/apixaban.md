@@ -4,12 +4,16 @@ name: 阿哌沙班
 en: Apixaban
 category: 心血管
 family: 心血管药物
+formula: C25H25N5O4
+mol_mass: 459.51
+cas: 503612-47-3
+smiles: "O=C5N(c4ccc(N3C(=O)c1c(c(nn1c2ccc(OC)cc2)C(=O)N)CC3)cc4)CCCC5"
 tags: []
 summary: 阿哌沙班以Eliquis（艾必克凝）等品牌销售，是一种抗凝剂，透过直接抑制来治疗和预防静脉血栓，并用来预防患有非瓣膜性心房颤动的人发生中风。
 kind: auto
 source_title: 阿哌沙班
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%93%8C%E6%B2%99%E7%8F%AD
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

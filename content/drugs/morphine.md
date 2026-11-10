@@ -5,6 +5,9 @@ en: Morphine
 alias: 鸦片主碱
 category: 镇痛麻醉
 family: 阿片类镇痛药
+formula: C17H19NO3
+mol_mass: 285.34
+cas: 57-27-2
 year: 1804
 tags: [罂粟, 阿片受体, 镇痛, 成瘾]
 summary: 人类第一次从植物里分离出的单一生物碱，以梦神命名；它既是疼痛的终结者，也是成瘾史的起点。

@@ -4,12 +4,16 @@ name: 肼屈嗪
 en: Hydralazine
 category: 心血管
 family: 心血管药物
+formula: C8H8N4
+mol_mass: 160.18
+cas: 86-54-4
+smiles: "NNc1c2ccccc2cnn1"
 tags: []
 summary: 肼屈嗪（INN：hydralazine）旧称肼苯哒嗪，是一种血管舒张剂，用于治疗高血压和心脏衰竭。
 kind: auto
 source_title: 肼屈嗪
 source_url: https://zh.wikipedia.org/wiki/%E8%82%BC%E5%B1%88%E5%97%AA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

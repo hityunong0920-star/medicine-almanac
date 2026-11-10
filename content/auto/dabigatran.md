@@ -4,12 +4,16 @@ name: 达比加群
 en: Dabigatran
 category: 心血管
 family: 心血管药物
+formula: C34H41N7O5
+mol_mass: 627.75
+cas: 211915-06-9
+smiles: "CCCCCCOC(=O)N=C(C1=CC=C(C=C1)NCC2=NC3=C(N2C)C=CC(=C3)C(=O)N(CCC(=O)OCC)C4=CC=CC=N4)N"
 tags: []
 summary: 达比加群（dabigatran）是一种创新的抗凝血剂，即新一代抗凝剂，被誉为近六十年来防中风的最佳药物。
 kind: auto
 source_title: 達比加群
 source_url: https://zh.wikipedia.org/wiki/%E9%81%94%E6%AF%94%E5%8A%A0%E7%BE%A4
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

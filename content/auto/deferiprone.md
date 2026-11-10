@@ -4,13 +4,17 @@ name: 去铁酮
 en: Deferiprone
 category: 血液泌尿
 family: 血液泌尿药物
+formula: C7H9NO2
+mol_mass: 139.15
+cas: 30652-11-0
+smiles: "O=C\1C(\O)=C(/N(/C=C/1)C)C"
 tags: []
 summary: 去铁酮（INN：deferiprone），是一种铁螯合剂，用于不耐受或不愿意接受现有螯合剂治疗的铁负荷过多的地中海贫血患者，中文商品名为奥贝安可。
 kind: auto
 brief: true
 source_title: 去铁酮
 source_url: https://zh.wikipedia.org/wiki/%E5%8E%BB%E9%93%81%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

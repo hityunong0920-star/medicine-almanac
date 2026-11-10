@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """从中文维基百科批量抓取药品资料，生成 content/auto/*.md 资料卡。
 
@@ -412,6 +412,105 @@ def name_from_title(title: str) -> str:
     return t2s(title)
 
 
+ATOMIC_MASS = {
+    "H": 1.008, "Li": 6.94, "C": 12.011, "N": 14.007, "O": 15.999,
+    "F": 18.998, "Na": 22.990, "Mg": 24.305, "Al": 26.982, "Si": 28.085,
+    "P": 30.974, "S": 32.06, "Cl": 35.45, "K": 39.098, "Ca": 40.078,
+    "Fe": 55.845, "Cu": 63.546, "Zn": 65.38, "Br": 79.904, "Ag": 107.868,
+    "I": 126.904, "Ba": 137.327, "Pt": 195.084, "Au": 196.967, "Hg": 200.592,
+}
+
+
+def formula_mass(formula: str) -> float | None:
+    tokens = re.findall(r"([A-Z][a-z]?)(\d*)", formula)
+    if not tokens:
+        return None
+    total = 0.0
+    for symbol, count in tokens:
+        if symbol not in ATOMIC_MASS:
+            return None
+        total += ATOMIC_MASS[symbol] * (int(count) if count else 1)
+    return total
+
+
+def first_drugbox(text: str) -> str:
+    lower = text.lower()
+    start = -1
+    for marker in ("{{infobox drug", "{{drugbox", "{{infobox drugbox"):
+        start = lower.find(marker)
+        if start != -1:
+            break
+    if start == -1:
+        return ""
+
+    depth = 0
+    cursor = start
+    while cursor < len(text):
+        if text.startswith("{{", cursor):
+            depth += 1
+            cursor += 2
+        elif text.startswith("}}", cursor):
+            depth -= 1
+            cursor += 2
+            if depth == 0:
+                return text[start:cursor]
+        else:
+            cursor += 1
+    return ""
+
+
+def parse_chemistry(text: str) -> dict:
+    block = first_drugbox(text)
+    if not block:
+        return {}
+
+    result: dict = {}
+
+    formula = ""
+    match = re.search(r"\|\s*formula\s*=\s*([^\n|]+)", block, re.I)
+    if match:
+        formula = re.sub(r"<[^>]+>", "", match.group(1))
+        formula = re.sub(r"\s+", "", formula)
+        if not re.fullmatch(r"(?:[A-Z][a-z]?\d*)+", formula):
+            formula = ""
+
+    if not formula:
+        counts: dict[str, int] = {}
+        for symbol, count in re.findall(r"\|\s*([A-Z][a-z]?)\s*=\s*(\d+)\s*", block):
+            if symbol in ATOMIC_MASS and 0 < int(count) < 300:
+                counts[symbol] = counts.get(symbol, 0) + int(count)
+        if counts:
+            order = (["C"] if "C" in counts else []) + (["H"] if "H" in counts else [])
+            order += sorted(key for key in counts if key not in ("C", "H"))
+            formula = "".join(
+                symbol + (str(counts[symbol]) if counts[symbol] > 1 else "")
+                for symbol in order
+            )
+
+    if formula:
+        result["formula"] = formula
+        mass_match = re.search(r"\|\s*molecular_weight\s*=\s*([0-9.]+)", block, re.I)
+        mass = float(mass_match.group(1)) if mass_match else formula_mass(formula)
+        if mass:
+            result["mol_mass"] = f"{mass:.2f}"
+
+    cas_match = re.search(
+        r"\|\s*CAS_number\s*=\s*([0-9]{2,7}-[0-9]{2}-[0-9])", block, re.I
+    )
+    if cas_match:
+        result["cas"] = cas_match.group(1)
+
+    smiles_match = re.search(r"\|\s*smiles\s*=\s*([^\n|]+)", block, re.I)
+    if smiles_match:
+        smiles = re.sub(r"<ref[^>]*>.*?</ref>", "", smiles_match.group(1), flags=re.S)
+        smiles = re.sub(r"<[^>]+>", "", smiles)
+        smiles = html_module.unescape(smiles).strip()
+        if 5 < len(smiles) < 400:
+            result["smiles"] = smiles
+
+    return result
+
+
 def compose(en: str, category: str, page: dict, existing_name: str = "") -> tuple[str | None, str]:
     title = page.get("title") or en
     wikitext = page.get("text", "")
@@ -498,6 +597,11 @@ def compose(en: str, category: str, page: dict, existing_name: str = "") -> tupl
         ],
         min_len=100,
     )
+    synthesis = pick_section(
+        sections,
+        ["合成", "制备", "製備", "合成路线", "合成路線", "化学合成", "化學合成", "工业生产", "工業生產"],
+        min_len=120,
+    )
 
     if len(intro) < 80:
         return None, "too-short"
@@ -520,6 +624,8 @@ def compose(en: str, category: str, page: dict, existing_name: str = "") -> tupl
         body += ["## 起源与历史", trim(history, 820)]
     if mechanism:
         body += ["## 机理", trim(mechanism, 820)]
+    if synthesis:
+        body += ["## 合成", trim(synthesis, 820)]
     if uses:
         body += ["## 今日之用", trim(uses, 820)]
     if safety:
@@ -536,6 +642,15 @@ def compose(en: str, category: str, page: dict, existing_name: str = "") -> tupl
 
     front = ["---", f"id: {slugify(en)}", f"name: {name}", f"en: {en}", f"category: {category}"]
     front.append(f"family: {family}")
+    chem = parse_chemistry(wikitext)
+    if chem.get("formula"):
+        front.append(f"formula: {chem['formula']}")
+    if chem.get("mol_mass"):
+        front.append(f"mol_mass: {chem['mol_mass']}")
+    if chem.get("cas"):
+        front.append(f"cas: {chem['cas']}")
+    if chem.get("smiles"):
+        front.append(f'smiles: "{chem["smiles"]}"')
     front.append("tags: [" + ", ".join(tags) + "]")
     front.append(f"summary: {summary}")
     front.append("kind: auto")

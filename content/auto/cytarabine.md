@@ -4,12 +4,16 @@ name: 阿糖胞苷
 en: Cytarabine
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C9H13N3O5
+mol_mass: 243.22
+cas: 147-94-4
+smiles: "O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@@H]2O)CO"
 tags: [抗病毒]
 summary: 阿糖胞苷（cytosine arabinoside，ara-C；INN：cytarabine），是胞嘧啶与阿糖形成的糖苷化合物，属于一种嘧啶类抗代谢药。
 kind: auto
 source_title: 阿糖胞苷
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E7%B3%96%E8%83%9E%E8%8B%B7
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

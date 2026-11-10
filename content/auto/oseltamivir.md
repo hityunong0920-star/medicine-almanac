@@ -4,12 +4,16 @@ name: 奥司他韦
 en: Oseltamivir
 category: 抗感染
 family: 抗感染药物
+formula: C16H28N2O4
+mol_mass: 312.41
+cas: 196618-13-0
+smiles: "CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)OCC"
 tags: []
 summary: 奥司他韦（INN:oseltamivir），以商品名称Tamiflu等于市面上销售，是一种抗病毒药物，属神经氨酸酶抑制剂，可治疗或预防甲型流感病毒和乙型流感病毒。
 kind: auto
 source_title: 奥司他韦
 source_url: https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

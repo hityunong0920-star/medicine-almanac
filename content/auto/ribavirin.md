@@ -4,12 +4,16 @@ name: 利巴韦林
 en: Ribavirin
 category: 抗感染
 family: 抗感染药物
+formula: C8H12N4O5
+mol_mass: 244.21
+cas: 36791-04-5
+smiles: "OC[C@@H](O1)[C@@H](O)[C@@H](O)[C@@H]1N2N=C(C(N)=O)N=C2"
 tags: []
 summary: 利巴韦林（INN:ribavirin）以品牌名称Virazole（俗称病毒唑）等于市场上销售，是一种抗病毒药物，用于治疗人类呼吸道合胞病毒（RSV）…
 kind: auto
 source_title: 利巴韦林
 source_url: https://zh.wikipedia.org/wiki/%E5%88%A9%E5%B7%B4%E9%9F%A6%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

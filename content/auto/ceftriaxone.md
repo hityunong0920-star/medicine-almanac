@@ -4,12 +4,16 @@ name: 头孢曲松
 en: Ceftriaxone
 category: 抗感染
 family: 抗感染药物
+formula: C18H18N8O7S3
+mol_mass: 554.57
+cas: 73384-59-5
+smiles: "O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3nc(sc3)N)CS\C4=N\C(=O)C(=O)NN4C)C(=O)O"
 tags: [抗生素]
 summary: 头孢曲松以商品名Rocephin等于市面上销售，是一种第三代头孢菌素抗生素，用于治疗多种细菌感染。
 kind: auto
 source_title: 頭孢曲松
 source_url: https://zh.wikipedia.org/wiki/%E9%A0%AD%E5%AD%A2%E6%9B%B2%E6%9D%BE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 四环霉素
 en: Tetracycline
 category: 抗感染
 family: 抗感染药物
+formula: C22H24N2O8
+mol_mass: 444.44
+cas: 60-54-8
+smiles: "C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O"
 tags: []
 summary: 四环霉素（INN:tetracycline）以多种品牌名称于市场中贩售，是四环素类抗生素家族中的一员，用于治疗多种感染，包括痤疮（青春痘）、霍乱、布鲁氏菌病、鼠疫、疟疾和梅毒。
 kind: auto
 source_title: 四環黴素
 source_url: https://zh.wikipedia.org/wiki/%E5%9B%9B%E7%92%B0%E9%BB%B4%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

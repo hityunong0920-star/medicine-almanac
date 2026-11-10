@@ -4,12 +4,16 @@ name: 达沙替尼
 en: Dasatinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C22H26ClN7O2S
+mol_mass: 488.01
+cas: 302962-49-8
+smiles: "Cc1cccc(c1NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N4CCN(CC4)CCO)Cl"
 tags: []
 summary: 达沙替尼 以Sprycel等品牌于市场销售，是一种标靶治疗药物，用于治疗某些慢性髓细胞性白血病 (CML) 和急性淋巴性白血病 (ALL)。
 kind: auto
 source_title: 达沙替尼
 source_url: https://zh.wikipedia.org/wiki/%E8%BE%BE%E6%B2%99%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

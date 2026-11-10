@@ -4,12 +4,16 @@ name: 左乙拉西坦
 en: Levetiracetam
 category: 神经精神
 family: 神经精神药物
+formula: C8H14N2O2
+mol_mass: 170.21
+cas: 102767-28-2
+smiles: "O=C1N([C@H](C(=O)N)CC)CCC1"
 tags: [抗癫痫]
 summary: 左乙拉西坦（INN:levetiracetam），以商品名称Keppra（中国大陆译为开浦兰）等于市面上销售，是一种新型，用于治疗癫痫。
 kind: auto
 source_title: 左乙拉西坦
 source_url: https://zh.wikipedia.org/wiki/%E5%B7%A6%E4%B9%99%E6%8B%89%E8%A5%BF%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

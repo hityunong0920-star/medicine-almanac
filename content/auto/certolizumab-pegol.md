@@ -4,13 +4,16 @@ name: 赛妥珠单抗
 en: Certolizumab pegol
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S16
+mol_mass: 512.96
+cas: 428863-50-7
 tags: []
 summary: 赛妥珠单抗以商品名Cimzia于市面上销售，是一种生物制药，用于治疗克隆氏症、类风湿性关节炎、干癣性关节炎和强直性脊柱炎。
 kind: auto
 brief: true
 source_title: 賽妥珠單抗
 source_url: https://zh.wikipedia.org/wiki/%E8%B3%BD%E5%A6%A5%E7%8F%A0%E5%96%AE%E6%8A%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

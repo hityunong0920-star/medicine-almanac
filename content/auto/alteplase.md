@@ -4,13 +4,16 @@ name: 阿替普酶
 en: Alteplase
 category: 心血管
 family: 心血管药物
+formula: S40
+mol_mass: 1282.40
+cas: 105857-23-6
 tags: []
 summary: 阿替普酶以Activase等商品名称于市场中销售，是生物合成的人体(t-PA)。
 kind: auto
 brief: true
 source_title: 阿替普酶
 source_url: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%9B%BF%E6%99%AE%E9%85%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

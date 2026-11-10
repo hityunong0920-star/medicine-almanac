@@ -4,13 +4,17 @@ name: 氟胞嘧啶
 en: Flucytosine
 category: 抗感染
 family: 抗感染药物
+formula: C4H4FN3O
+mol_mass: 129.09
+cas: 2022-85-7
+smiles: "FC=1\C=N/C(=O)NC=1N"
 tags: []
 summary: 5-氟胞嘧啶（，简写为5-FC或f5C）是一种抗真菌药物，与两性霉素B一起用于严重的念珠菌感染和隐球菌病。
 kind: auto
 brief: true
 source_title: 氟胞嘧啶
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%9F%E8%83%9E%E5%98%A7%E5%95%B6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

@@ -4,12 +4,16 @@ name: 拉米夫定
 en: Lamivudine
 category: 抗感染
 family: 抗感染药物
+formula: C8H11N3O3S
+mol_mass: 229.25
+cas: 134678-17-4
+smiles: "O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H](SC2)CO"
 tags: [抗病毒]
 summary: 拉米夫定（INN:lamivudine），俗称3TC，以商品名称Epivir等于市面上销售，是一种用于预防和治疗爱滋病的抗反转录病毒药物。
 kind: auto
 source_title: 拉米夫定
 source_url: https://zh.wikipedia.org/wiki/%E6%8B%89%E7%B1%B3%E5%A4%AB%E5%AE%9A
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

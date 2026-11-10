@@ -4,12 +4,16 @@ name: 可洛米分
 en: Clomifene
 category: 内分泌
 family: 内分泌药物
+formula: C26H28ClNO
+mol_mass: 405.97
+cas: 911-45-5
+smiles: "ClC(c1ccccc1)=C(c2ccc(OCCN(CC)CC)cc2)c3ccccc3"
 tags: []
 summary: 可洛米分 （INN：clomifene，USAN：clomiphene）或克罗米芬，是一种选择性雌激素受体调节剂，主要用于治疗妇女不孕症，包括多囊卵巢综合症。
 kind: auto
 source_title: 可洛米分
 source_url: https://zh.wikipedia.org/wiki/%E5%8F%AF%E6%B4%9B%E7%B1%B3%E5%88%86
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 简介

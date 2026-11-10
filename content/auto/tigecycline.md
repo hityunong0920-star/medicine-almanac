@@ -4,12 +4,16 @@ name: 替加环素
 en: Tigecycline
 category: 抗感染
 family: 抗感染药物
+formula: C29H39N5O8
+mol_mass: 585.65
+cas: 220620-09-7
+smiles: "CC(C)(C)NCC(=O)Nc1cc(c2C[C@H]3C[C@H]4[C@H](N(C)C)C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C3/C(=O)c2c1O)N(C)C"
 tags: [抗生素]
 summary: 替加环素（，亦称丁甘米诺环素，商品名：老虎霉素，研发代号为GAR-936）是一种静脉给药的广谱甘氨酰环肽类抗生素，属于第三代四环素类抗生素。
 kind: auto
 source_title: 替加环素
 source_url: https://zh.wikipedia.org/wiki/%E6%9B%BF%E5%8A%A0%E7%8E%AF%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

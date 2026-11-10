@@ -4,12 +4,16 @@ name: 吉非替尼
 en: Gefitinib
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C22H24ClFN4O3
+mol_mass: 446.91
+cas: 184475-35-2
+smiles: "COc1cc2c(cc1OCCCN3CCOCC3)c(ncn2)Nc4ccc(c(c4)Cl)F"
 tags: []
 summary: 吉非替尼（Gefitinib），商品名为 艾瑞莎（Iressa），由阿斯利康制药和发售。
 kind: auto
 source_title: 吉非替尼
 source_url: https://zh.wikipedia.org/wiki/%E5%90%89%E9%9D%9E%E6%9B%BF%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

@@ -4,12 +4,16 @@ name: 亮丙瑞林
 en: Leuprorelin
 category: 抗肿瘤
 family: 抗肿瘤药物
+formula: C59H84N16O12
+mol_mass: 1209.42
+cas: 53714-56-0
+smiles: "CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](Cc2ccc(cc2)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc3c[nH]c4c3cccc4)NC(=O)[C@H](Cc5c[nH]cn5)NC(=O)[C@@H]6CCC(=O)N6"
 tags: []
 summary: 亮丙瑞林（INN:leuprorelin，也称为leuprolide），是一种人工合成的激素（荷尔蒙），用于治疗摄护腺癌、乳癌、子宫内膜异位症、子宫肌瘤、性早熟症…
 kind: auto
 source_title: 亮丙瑞林
 source_url: https://zh.wikipedia.org/wiki/%E4%BA%AE%E4%B8%99%E7%91%9E%E6%9E%97
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

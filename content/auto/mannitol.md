@@ -4,13 +4,21 @@ name: 甘露醇
 en: Mannitol
 category: 血液泌尿
 family: 血液泌尿药物
+formula: C6H14O6
+mol_mass: 182.17
+cas: 69-65-8
+smiles: "O[C@H]([C@H](O)CO)[C@H](O)[C@H](O)CO"
 tags: []
 summary: 甘露醇（INN:mannitol）是一种糖醇，被用来作，或是药物。
 kind: auto
 source_title: 甘露醇
 source_url: https://zh.wikipedia.org/wiki/%E7%94%98%E9%9C%B2%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
+
+## 合成
+
+甘露醇是自然界中最丰富的能量和碳储存分子之一，由多种生物体产生，包括细菌、酵母菌、真菌、藻类、地衣和许多植物。 微生物发酵是传统工业合成的替代方案。一种从果糖到甘露醇的代谢途径，在真菌中被称为甘露醇循环，已在一种名为Caloglossa leprieurii的红藻中发现，而且很有可能其他微生物也采用类似的途径。
 
 ## 今日之用
 

@@ -4,13 +4,17 @@ name: 唑吡坦
 en: Zolpidem
 category: 神经精神
 family: 神经精神药物
+formula: C19H21N3O
+mol_mass: 307.40
+cas: 82626-48-0
+smiles: "Cc1ccc(cc1)c1nc2ccc(C)cn2c1CC(=O)N(C)C"
 tags: []
 summary: 唑吡坦（INN：zolpidem）是一种新型非苯二氮䓬类镇静催眠药，属于Z-drugs，对正常睡眠时相干扰较少，且能显著缩短入睡时间，后遗效应、耐受性、依赖性及停药戒断症较轻。
 kind: auto
 brief: true
 source_title: 唑吡坦
 source_url: https://zh.wikipedia.org/wiki/%E5%94%91%E5%90%A1%E5%9D%A6
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

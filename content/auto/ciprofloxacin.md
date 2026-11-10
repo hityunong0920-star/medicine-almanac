@@ -4,12 +4,16 @@ name: 环丙沙星
 en: Ciprofloxacin
 category: 抗感染
 family: 抗感染药物
+formula: C17H18FN3O3
+mol_mass: 331.35
+cas: 85721-33-1
+smiles: "C1CNCCN1c(c2)c(F)cc3c2N(C4CC4)C=C(C3=O)C(=O)O"
 tags: [抗生素]
 summary: 环丙沙星（INN:ciprofloxacin）是一种喹诺酮类抗生素，用于治疗多种病原细菌感染 - 包括骨骼和关节感染、腹腔感染、某些类型的感染性腹泻、呼吸道感染、皮肤感染、伤寒和泌尿道感染等。
 kind: auto
 source_title: 环丙沙星
 source_url: https://zh.wikipedia.org/wiki/%E7%8E%AF%E4%B8%99%E6%B2%99%E6%98%9F
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

@@ -4,12 +4,16 @@ name: 氟哌啶醇
 en: Haloperidol
 category: 神经精神
 family: 神经精神药物
+formula: C21H23ClFNO2
+mol_mass: 375.87
+cas: 52-86-8
+smiles: "c1cc(ccc1C(=O)CCCN2CCC(CC2)(c3ccc(cc3)Cl)O)F"
 tags: [抗精神病]
 summary: 氟哌啶醇（INN：haloperidol）以好度（Haldol）等商品名称于市场上贩售，是一种典型抗精神病药物（又称第一代抗精神药物）。
 kind: auto
 source_title: 氟哌啶醇
 source_url: https://zh.wikipedia.org/wiki/%E6%B0%9F%E5%93%8C%E5%95%B6%E9%86%87
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

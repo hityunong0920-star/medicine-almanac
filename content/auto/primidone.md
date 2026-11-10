@@ -4,13 +4,17 @@ name: 扑米酮
 en: Primidone
 category: 神经精神
 family: 神经精神药物
+formula: C12H14N2O2
+mol_mass: 218.26
+cas: 125-33-7
+smiles: "O=C1NCNC(=O)C1(c2ccccc2)CC"
 tags: []
 summary: 扑米酮，商品名Mysoline等，是一种巴比妥类药物，用于治疗局灶性和以及。
 kind: auto
 brief: true
 source_title: 扑米酮
 source_url: https://zh.wikipedia.org/wiki/%E6%89%91%E7%B1%B3%E9%85%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

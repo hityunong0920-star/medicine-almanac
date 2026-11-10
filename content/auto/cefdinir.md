@@ -4,12 +4,16 @@ name: 头孢地尼
 en: Cefdinir
 category: 抗感染
 family: 抗感染药物
+formula: C14H13N5O5S2
+mol_mass: 395.41
+cas: 91832-40-5
+smiles: "O=C2N1/C(=C(/C=C)CS[C@@H]1[C@@H]2NC(=O)C(=N\O)/c3nc(sc3)N)C(=O)O"
 tags: [抗生素]
 summary: 头孢地尼 （Cefdinir）是第三代头孢菌素抗生素.化学名称：[6R-[6α，7β(Z)-7-(2-氨基-4-噻唑基)-(肟基)乙酰基]氨基]-3-乙烯基-8-氧-5-硫杂-1-氮杂二环[4.2…
 kind: auto
 source_title: 头孢地尼
 source_url: https://zh.wikipedia.org/wiki/%E5%A4%B4%E5%AD%A2%E5%9C%B0%E5%B0%BC
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理

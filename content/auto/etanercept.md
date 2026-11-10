@@ -4,12 +4,15 @@ name: 依那西普
 en: Etanercept
 category: 免疫风湿
 family: 免疫风湿药物
+formula: S36
+mol_mass: 1154.16
+cas: 185243-69-0
 tags: []
 summary: 依那西普，目前有以Enbrel（恩博） 等商品名称销售，是种生物制药，有作用，可干扰肿瘤坏死因子（TNF，一种可溶性促炎细胞因子，旧称肿瘤坏死因子-α（TNF-α））来治疗自体免疫性疾病…
 kind: auto
 source_title: 依那西普
 source_url: https://zh.wikipedia.org/wiki/%E4%BE%9D%E9%82%A3%E8%A5%BF%E6%99%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

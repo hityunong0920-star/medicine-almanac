@@ -4,12 +4,16 @@ name: 地西泮
 en: Diazepam
 category: 神经精神
 family: 神经精神药物
+formula: C16H13ClN2O
+mol_mass: 284.74
+cas: 439-14-5
+smiles: "CN1C2=C(C(C3=CC=CC=C3)=NCC1=O)C=C(Cl)C=C2"
 tags: []
 summary: 地西（INN：diazepam），化学名苯甲二氮䓬，是苯二氮䓬类（BZD）药物，常用于治疗焦虑症、酒精戒断症候群、苯二氮䓬类药物戒断症候群、痉挛、癫痫发作、失眠，和睡眠脚动症。
 kind: auto
 source_title: 地西泮
 source_url: https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%A5%BF%E6%B3%AE
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 起源与历史

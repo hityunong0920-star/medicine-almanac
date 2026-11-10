@@ -4,13 +4,17 @@ name: 托吡卡胺
 en: Tropicamide
 category: 皮肤五官
 family: 皮肤五官药物
+formula: C17H20N2O2
+mol_mass: 284.36
+cas: 1508-75-4
+smiles: "CCN(Cc1ccncc1)C(=O)C(CO)c1ccccc1"
 tags: []
 summary: 托吡卡胺（INN:tropicamide），以"Mydriacyl"等品牌名称于市场上销售，是一种用于放大瞳孔并协助的药物。
 kind: auto
 brief: true
 source_title: 托吡卡胺
 source_url: https://zh.wikipedia.org/wiki/%E6%89%98%E5%90%A1%E5%8D%A1%E8%83%BA
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 今日之用

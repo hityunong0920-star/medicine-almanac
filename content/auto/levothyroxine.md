@@ -4,12 +4,16 @@ name: 左旋甲状腺素
 en: Levothyroxine
 category: 内分泌
 family: 内分泌药物
+formula: C15H11I4NO4
+mol_mass: 776.87
+cas: 51-48-9
+smiles: "NC(Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(O)=O"
 tags: []
 summary: 左旋甲状腺素（INN:levothyroxine，也可写为L-甲状腺素（L-thyroxine）），是一种人工合成的甲状腺激素（T4）。
 kind: auto
 source_title: 左旋甲狀腺素
 source_url: https://zh.wikipedia.org/wiki/%E5%B7%A6%E6%97%8B%E7%94%B2%E7%8B%80%E8%85%BA%E7%B4%A0
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ## 机理
